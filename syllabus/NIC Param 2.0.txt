@@ -1,0 +1,881 @@
+NIC Param 2.0
+├── Algorithms
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch-01 : Analysis of Algorithm
+│       │   ├── Analysis Of Algorithm 01 : Algorithm Concept And Lifecycle.mp4
+│       │   ├── Analysis Of Algorithm 02 : Analysis Of Algorithm (Part-01).mp4
+│       │   ├── Analysis Of Algorithm 03 : Analysis Of Algorithms (Part-02).mp4
+│       │   ├── Analysis Of Algorithm 04 : Analysis Of Algorithms (Part-03).mp4
+│       │   ├── Analysis Of Algorithm 05 : Analysis Of Algorithms (Part-04).mp4
+│       │   ├── Analysis of Algorithm 06 : Analysis of Algorithms (Part-05).mp4
+│       │   ├── Analysis of Algorithm 07 : Analysis of Algorithms (Part-06).mp4
+│       │   ├── Analysis of Algorithm 08 : Analysis of Algorithms (Part-07).mp4
+│       │   ├── Analysis of Algorithm 09 : Analysis of Algorithms (Part-08) || (Rescheduled @7:00 PM).mp4
+│       │   └── Analysis of Algorithm 10 : Analysis of Algorithms (Part-09) || (Extra Class).mp4
+│       ├── Ch-02 : Design Strategies
+│       │   ├── Design Strategies 01 : Design Strategies (Part-01).mp4
+│       │   ├── Design Strategies 02 : Design Strategies (Part-02).mp4
+│       │   ├── Design Strategies 03 : Design Strategies (Part-03).mp4
+│       │   ├── Design Strategies 04 : Design Strategies (Part-04).mp4
+│       │   └── Design Strategies 05 : Design Strategies (Part-05) || (Extra Class).mp4
+│       ├── Ch-03 : Greedy Method
+│       │   ├── Greedy Method 01 : Greedy Method (Part-01).mp4
+│       │   ├── Greedy Method 03 : Greedy Method (Part-03).mp4
+│       │   ├── Greedy Method 04 : Greedy Method (Part-04).mp4
+│       │   ├── Greedy Method 05 : Greedy Method (Part-05) || (Extra Class).mp4
+│       │   └── Greedy Method 06 : Greedy Method (Part-06).mp4
+│       ├── Ch-04 : Dynamic Programming
+│       │   ├── Dynamic Programming 01 : Dynamic Programming (Part-01).mp4
+│       │   ├── Dynamic Programming 02 : Dynamic Programming (Part-02).mp4
+│       │   ├── Dynamic Programming 03 : Dynamic Programming (Part-03).mp4
+│       │   ├── Dynamic Programming 04 : Dynamic Programming (Part-04) || (Extra Class).mp4
+│       │   └── Dynamic Programming 05 : Dynamic Programming (Part-05) || (Extra Class).mp4
+│       ├── Ch-05 : Graph Algorithms
+│       │   ├── Graph Algorithms 01 : Graph Algorithms (Part-01).mp4
+│       │   ├── Graph Algorithms 02 : Graph Algorithms (Part-02).mp4
+│       │   └── Graph Algorithms 03 : Graph Algorithms (Part-03).mp4
+│       ├── Ch-06 : Heap Algorithms
+│       │   ├── Heap Algorithms 01 : Heap Algorithms (Part-01).mp4
+│       │   ├── Heap Algorithms 02 : Heap Algorithms (Part-02).mp4
+│       │   └── Heap Algorithms 03 : Heap Algorithms (Part-03) || (Extra Class).mp4
+│       └── CH 07 : Backtracking & Branch - Bound
+│           └── Backtracking & Branch - Bound (One shot) || (Extra Class).mp4
+├── Cloud Computing
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Compute
+│       │   └── Compute (In One Shot).mp4
+│       ├── CH 02 : Network
+│       │   └── Network (In One Shot).mp4
+│       ├── CH 03 : Storage Management Technologies
+│       │   └── Storage Management Technologies (In One Shot).mp4
+│       └── CH 04 : Edge Computing
+│           └── Edge Computing (In One Shot).mp4
+├── Combinatorics
+│   └── notes.zip
+├── Communication System
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Fourier Transform
+│       │   ├── Fourier Transform 01 : Fourier Transform (Part-01).mp4
+│       │   ├── Fourier Transform 02 : Fourier Transform (Part-02).mp4
+│       │   ├── Fourier Transform 03 : Fourier Transform (Part-03).mp4
+│       │   └── Fourier Transform 04 : Fourier Transform (Part-04).mp4
+│       ├── CH 02 : Analog Communication
+│       │   ├── Analog Communication  01 : Analog Communication  (Part-01).mp4
+│       │   ├── Analog Communication  02 : Analog Communication  (Part-02).mp4
+│       │   ├── Analog Communication  03 : Analog Communication  (Part-03) || (LIVE).mp4
+│       │   ├── Analog Communication  04 : Analog Communication  (Part-04) || (LIVE).mp4
+│       │   ├── Analog Communication  05 : Analog Communication  (Part-05) || (LIVE).mp4
+│       │   ├── Analog Communication  06 : Analog Communication  (Part-06) || (LIVE).mp4
+│       │   ├── Analog Communication 07 : Analog Communication  (Part-07) || (LIVE).mp4
+│       │   ├── Analog Communication 08 : Analog Communication (Part-08) || (LIVE).mp4
+│       │   ├── Analog Communication 09 : Analog Communication (Part-09).mp4
+│       │   └── Analog Communication 10 : Questions Practice on Analog Communication || (LIVE).mp4
+│       ├── CH 03 : Random Variable
+│       │   ├── Random Variable 01 : Random Variable (Part-01) || (LIVE).mp4
+│       │   ├── Random Variable 02 : Random Variable (Part-02) || (LIVE).mp4
+│       │   └── Random Variable 03 : Random Variable (Part-03) || (LIVE).mp4
+│       └── CH 04 : Digital Communication
+│           ├── Digital Communication 01 : Digital Communication (Part-01) || (LIVE).mp4
+│           ├── Digital Communication 02 : Digital Communication (Part-02) || (LIVE).mp4
+│           ├── Digital Communication 03 : Digital Communication (Part-03) || (LIVE).mp4
+│           ├── Digital Communication 04 : Digital Communication (Part-04) || (LIVE).mp4
+│           └── Digital Communication 05 : Digital Communication (Part-05) || (LIVE).mp4
+├── Compiler Design
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Lexical Analysis & Syntax Analysis
+│       │   ├── Lexical Analysis & Syntax Analysis 01 : Introduction to Compiler.mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 02 : Token Recognizer.mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 03 : LL (1) Parsers (Part-1).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 04 : LL (1) Parsers (Part-2).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 05 : LL (1) Parsers (Part-3).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 06 : LR Parsers (Part-1).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 07 : LR Parsers (Part-2).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 08 : LR Parsers (Part-3).mp4
+│       │   └── Lexical Analysis & Syntax Analysis 09 : Practice on TDP and BUP.mp4
+│       ├── CH 02 : Syntax Directed Translation
+│       │   ├── Syntax Directed Translation  01 : Syntax Directed Translation (Part-01).mp4
+│       │   └── Syntax Directed Translation 02  :  Syntax Directed Translation (Part-02).mp4
+│       └── CH 03 : Intermediate Code & Code Optimization
+│           ├── Intermediate Code & Code Optimization 01 : Intermediate Code & Code Optimization (Part-01).mp4
+│           ├── Intermediate Code & Code Optimization 02 : Intermediate Code & Code Optimization (Part-02).mp4
+│           ├── Intermediate Code & Code Optimization 03 : Intermediate Code & Code Optimization (Part-03).mp4
+│           └── Intermediate Code & Code Optimization 04 : Intermediate Code & Code Optimization (Part-04).mp4
+├── Compiler Design (Hinglish)
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch-01 : Lexical Analysis & Syntax Analysis
+│       │   ├── Lexical Analysis & Syntax Analysis 01 : Introduction to Compiler.mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 02 : Token Recognizer.mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 03 : Token Recognizer (Part-02).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 04 : Basics of Parsing.mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 05 : Parsing.mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 06 - LL(1) Parser (Part-01).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 07 : LL(1) Parser (Part-02) || (Reschedule @09:00PM).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 08 : LR Parser (Part-01).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 09 : LR Parser (Part-02) || (Extra Class).mp4
+│       │   ├── Lexical Analysis & Syntax Analysis 10 : LR Parser (Part - 03) || (Extra Class).mp4
+│       │   └── Lexical Analysis & Syntax Analysis 11 : Practice on TDP and BUP.mp4
+│       ├── Ch-02 : Syntax Directed Translation
+│       │   ├── Syntax Directed Translation 01 : Syntax Directed Translation (Part-01).mp4
+│       │   ├── Syntax Directed Translation 02 : Syntax Directed Translation (Part-02).mp4
+│       │   └── Syntax Directed Translation 03 : Syntax Directed Translation (Part-03).mp4
+│       └── Ch-03 : Intermediate Code & Code Optimization
+│           ├── Intermediate Code & Code Optimization 01 : Intermediate Code & Code Optimization (Part-01).mp4
+│           ├── Intermediate Code & Code Optimization 02 : Intermediate Code & Code Optimization (Part-02).mp4
+│           ├── Intermediate Code & Code Optimization 03 : Intermediate Code & Code Optimization (Part-03) || (Reschedule @ 08:45 PM).mp4
+│           └── Intermediate Code & Code Optimization 04 : Intermediate Code & Code Optimization (Part-04).mp4
+├── Computer Networks
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : IPv4 Addressing
+│       │   ├── IPv4 Addressing 01 : Introduction to the Course || (NO DPP).mp4
+│       │   ├── IPv4 Addressing 02 : Introduction to IP Addressing || (NO DPP).mp4
+│       │   ├── IPv4 Addressing 03 : Classful Addressing Part-1.mp4
+│       │   ├── IPv4 Addressing 04 : Classfull Addressing Part-2 || (NO DPP).mp4
+│       │   ├── IPv4 Addressing 05 : Problems in Computer Network || (NO DPP).mp4
+│       │   ├── IPv4 Addressing 06 : Types of Communication.mp4
+│       │   ├── IPv4 Addressing 07 : Introduction to Subnetting.mp4
+│       │   ├── IPv4 Addressing 08: Subnetting Part-1.mp4
+│       │   ├── IPv4 Addressing 09 : Subnetting Part-2 || (NO DPP).mp4
+│       │   ├── IPv4 Addressing 10 : Subnetting Part-3 || (NO DPP) || (Rescheduled @03:00 PM).mp4
+│       │   ├── IPv4 Addressing 11 : Subnetting Part-4 || (Rescheduled @03:30 PM).mp4
+│       │   ├── IPv4 Addressing 12 : Subnetting Part- 5 || (NO DPP) || (Rescheduled @04:00 PM).mp4
+│       │   ├── IPv4 Addressing 13 : Subnetting Part- 6.mp4
+│       │   ├── IPv4 Addressing 14 : Problem Solving on Subnetting Part-1.mp4
+│       │   ├── IPv4 Addressing 15 : Problem Solving on Subnetting Part-2 || (NO DPP).mp4
+│       │   ├── IPv4 Addressing 16 : Problem Solving on Subnetting Part-3 || (NO DPP).mp4
+│       │   ├── IPv4 Addressing 17 : Problem Solving on Subnetting Part-4 || (NO DPP).mp4
+│       │   ├── IPv4 Addressing 18 : Classless Addressing Part- 1.mp4
+│       │   ├── IPv4 Addressing 19 : Classless Addressing Part- 2.mp4
+│       │   ├── IPv4 Addressing 20 : Supernetting in Classless Addressing Part- 01  || (NO DPP).mp4
+│       │   ├── IPv4 Addressing 21 : Supernetting In Classless Addressing Part- 02 || (NO DPP).mp4
+│       │   └── IPv4 Addressing 22 : IPv4 Addressing PYQ || (NO DPP).mp4
+│       ├── CH 02 : Error Control
+│       │   ├── Error Control 01 : Error Detection & Error Correction || (NO DPP).mp4
+│       │   ├── Error Control 02 : Hamming Distance || (NO DPP).mp4
+│       │   ├── Error Control 03 : Simple Parity & 2D Parity.mp4
+│       │   ├── Error Control 04 : CRC Part-01 || (NO DPP).mp4
+│       │   ├── Error Control 05 : CRC Part- 2.mp4
+│       │   └── Error Control 06 : Checksum & Hamming Code || (NO DPP).mp4
+│       ├── Ch-03 : Flow Control
+│       │   ├── Flow Control 01 : Delay in Computer Network || (NO DPP).mp4
+│       │   ├── Flow Control 02 : Stop and Wait Protocol Part-01 || (NO DPP).mp4
+│       │   ├── Flow Control 03 : Stop and Wait Protocol Part-02.mp4
+│       │   ├── Flow Control 04 : Stop and Wait Protocol Part-03 || (NO DPP).mp4
+│       │   ├── Flow Control 05 : GO Back-N ARQ Part-01 || (NO DPP).mp4
+│       │   ├── Flow Control 06 : GO Back-N ARQ Part-02 || (NO DPP).mp4
+│       │   ├── Flow Control 07 : GO Back-N ARQ Part-03 || (NO DPP).mp4
+│       │   ├── Flow Control 08 : GO Back-N ARQ Part-04.mp4
+│       │   ├── Flow Control 09 : Selective Repeat ARQ Part-01  || (NO DPP).mp4
+│       │   └── Flow Control 10 : Selective Repeat ARQ Part- 02 || (NO DPP).mp4
+│       ├── Ch-04 : IPv4 Header & Fragmentation
+│       │   ├── IPv4 Header & Fragmentation 01 : IPv4 Header Part- 01 || (NO DPP).mp4
+│       │   ├── IPv4 Header & Fragmentation 02 : IPv4 Header Part-02 || (NO DPP).mp4
+│       │   ├── IPv4 Header & Fragmentation 03 : IPv4 Header Part-03 || (NO DPP).mp4
+│       │   ├── IPv4 Header & Fragmentation 04 : IPv4 Header Part-04 || (NO DPP).mp4
+│       │   ├── IPv4 Header & Fragmentation 05 : Fragmentation In IPv4 Part- 01.mp4
+│       │   ├── IPv4 Header & Fragmentation 06 : Fragmentation In IPv4 Part- 02 || (NO DPP).mp4
+│       │   └── IPv4 Header & Fragmentation 07 : Fragmentation in IPv4 Part- 03.mp4
+│       ├── Ch-05 : TCP & UDP
+│       │   ├── TCP & UDP 01 : TCP Header || (NO DPP).mp4
+│       │   ├── TCP & UDP 02 : Wrap Around Time Part- 01.mp4
+│       │   ├── TCP & UDP 03 : Wrap Around Time Part- 02.mp4
+│       │   ├── TCP & UDP 04 : Phases of TCP Connection || (NO DPP).mp4
+│       │   ├── TCP & UDP 05 : TCP State Transition Diagram Part- 01.mp4
+│       │   ├── TCP & UDP 06 : TCP State Transition Diagram (Part- 02) || (NO DPP).mp4
+│       │   ├── TCP & UDP 07 : PSH & URG Flag || (NO DPP) || (Rescheduled @03:00 PM).mp4
+│       │   ├── TCP & UDP 08 : Flow Control in TCP || (NO DPP) || (Rescheduled @03:30 PM).mp4
+│       │   ├── TCP & UDP 09 : Error Control in TCP || (NO DPP) || (Rescheduled @04:00 PM).mp4
+│       │   ├── TCP & UDP 10 : Silly window Syndrome || (NO DPP).mp4
+│       │   ├── TCP & UDP 11 : TCP Timer Management (Part- 01) || (NO DPP).mp4
+│       │   ├── TCP & UDP 12 : TCP Timer Management (Part- 02) || (NO DPP).mp4
+│       │   ├── TCP & UDP 13 : Congestion Control (Part- 01) || (NO DPP).mp4
+│       │   ├── TCP & UDP 14 : Congestion Control (Part- 02) || (NO DPP).mp4
+│       │   ├── TCP & UDP 15 : Congestion Control (Part- 03) || (NO DPP).mp4
+│       │   ├── TCP & UDP 16 : Traffic Shaping || (NO DPP).mp4
+│       │   ├── TCP & UDP 17 : UDP Header || (NO DPP).mp4
+│       │   └── TCP & UDP 18 : TCP vs UDP || (NO DPP).mp4
+│       ├── Ch-06 : Medium Access Control
+│       │   ├── Medium Access Control 01 : Multiple Access Protocols (Part-01) || (NO DPP).mp4
+│       │   ├── Medium Access Control 02 : Multiple Access Protocols (Part-02) || (NO DPP).mp4
+│       │   ├── Medium Access Control 03 : Multiple Access Protocols (Part-03) || (NO DPP).mp4
+│       │   ├── Medium Access Control 04 : Multiple Access Protocols (Part-04) || (NO DPP).mp4
+│       │   ├── Medium Access Control 05 : Multiple Access Protocols (Part-05).mp4
+│       │   ├── Medium Access Control 06 : Multiple Access Protocols (Part-06) || (NO DPP).mp4
+│       │   └── Medium Access Control 07 : Multiple Access Protocols (Part-07) || (NO DPP).mp4
+│       ├── Ch-07 : Routing Protocols
+│       │   ├── Routing Protocols 01 : Routing Algorithms (Part-01) || (NO DPP).mp4
+│       │   ├── Routing Protocols 02 : Routing Algorithms (Part-02) || (NO DPP).mp4
+│       │   ├── Routing Protocols 03 : Routing Algorithms (Part-03).mp4
+│       │   └── Routing Protocols 04 : Routing Algorithms (Part-04) || (NO DPP) || (Extra Class).mp4
+│       ├── Ch-08 : Switching
+│       │   ├── Switching 01 : Switching (Part-01) || (NO DPP).mp4
+│       │   ├── Switching 02 : Switching (Part-02) || (NO DPP).mp4
+│       │   ├── Switching 03 : Switching (Part-03) || (NO DPP).mp4
+│       │   └── Switching 04 : Switching (Part-04) || (NO DPP).mp4
+│       ├── Ch-09 : Application Layer Protocol
+│       │   ├── Application Layer Protocol 01 : Application Layer Protocol (Part-01) || (NO DPP).mp4
+│       │   ├── Application Layer Protocol 02 : Application Layer Protocol (Part-02) || (NO DPP).mp4
+│       │   └── Application Layer Protocol 03 : Application Layer Protocol (Part-03) || (NO DPP).mp4
+│       ├── Ch-10 : IP Support Protocol
+│       │   ├── IP Support Protocol 01 : IP Support Protocol (Part-01) || (Extra Class) || (NO DPP).mp4
+│       │   ├── IP Support Protocol 02 : IP Support Protocol (Part-02) || (Extra Class) || (NO DPP) || (Recorded).mp4
+│       │   └── IP Support Protocol 03 : IP Support Protocol (Part-03) || (Extra Class) || (NO DPP) || (Recorded).mp4
+│       ├── Ch-11 : OSI and TCP_IP Protocol Stack
+│       │   └── OSI and TCP_IP Protocol Stack (One Shot) ||  No DPP || Recorded || Extra Class.mp4
+│       └── Ch : Network Security (By Devvrat Tyagi Sir)
+│           ├── Network Security 01 : Network Security (Part-01) || Recorded || Extra Class.mp4
+│           ├── Network Security 02 : Network Security (Part-02) || Recorded || Extra Class.mp4
+│           └── Network Security 03 : Network Security (Part-03) || Recorded || Extra Class.mp4
+├── Computer Organization and Architecture
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch 01 : Introduction of COA
+│       │   ├── Introduction of COA  01: Introduction of COA.mp4
+│       │   ├── Introduction of COA   02 : Instruction Cycle.mp4
+│       │   ├── Introduction of COA  03 : System Bus & Memory Concept (Part 01).mp4
+│       │   └── Introduction of COA  04 : System Bus & Memory Concept (Part 02).mp4
+│       ├── Ch 02 : Machine Instruction & Addressing Modes
+│       │   ├── Machine Instruction & Addressing Modes  01: Machine Instruction.mp4
+│       │   ├── Machine Instruction & Addressing Modes  02: Instruction Set Architecture (Part -01).mp4
+│       │   ├── Machine Instruction & Addressing Modes 03: Instruction Set Architecture (Part-02).mp4
+│       │   ├── Machine Instruction & Addressing Modes 04:  Expand Opcode Technique.mp4
+│       │   ├── Machine Instruction & Addressing Modes 05: Addressing Mode (Part 01).mp4
+│       │   ├── Machine Instruction & Addressing Modes 06 : Addressing Mode (Part 02).mp4
+│       │   ├── Machine Instruction & Addressing Modes 07 : Addressing Mode (Part-03).mp4
+│       │   └── Machine Instruction & Addressing Modes 08 :  Addressing Mode (Part-04).mp4
+│       ├── Ch 03 : Floating Point Representation
+│       │   ├── Floating Point Representation 01 : Floating Point Representation (Part-01).mp4
+│       │   ├── Floating Point Representation 02 : Floating Point Representation (Part-02).mp4
+│       │   └── Floating Point Representation 03 : Floating Point Representation (Part-03).mp4
+│       ├── Ch 04 : ALU & Control Unit
+│       │   ├── ALU & Control Unit 01 : Micro Operation & Program.mp4
+│       │   ├── ALU & Control Unit 02 : Control Unit (Part 01).mp4
+│       │   ├── ALU & Control Unit 03 : Control Unit (Part 02).mp4
+│       │   ├── ALU & Control Unit 04 : Control Unit (Part 03).mp4
+│       │   ├── ALU & Control Unit 05 : CPU Time Calculation (Part 01).mp4
+│       │   └── ALU & Control Unit 06 : CPU Time Calculation (Part 02).mp4
+│       └── CH 05 : Instruction Pipelining
+│           ├── Instruction Pipelining 01 : Pipeline Concept (Part 01).mp4
+│           ├── Instruction Pipelining 02 : Pipeline Concept (Part 02).mp4
+│           ├── Instruction Pipelining 03 : Pipeline Concept (Part 03) || (Rescheduled @11:30 PM).mp4
+│           ├── Instruction Pipelining 04 : Pipeline Hazards (Part 01).mp4
+│           ├── Instruction Pipelining 05 : Pipeline Hazards (Part 02).mp4
+│           └── Instruction Pipelining 06 : Pipeline Hazards (Part 03).mp4
+├── Computer Organization and Architecture (Hinglish)
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Introduction of COA
+│       │   ├── Introduction of COA 01 : Introduction of COA (Part-01) || (Recorded).mp4
+│       │   ├── Introduction of COA 02 : Introduction of COA (Part-02) || (Recorded).mp4
+│       │   ├── Introduction of COA 03 : Introduction of COA (Part-03) || (Recorded).mp4
+│       │   ├── Introduction Of COA 04 : Introduction Of COA  (Part-04) || (Recorded).mp4
+│       │   └── Introduction Of COA 05 : Introduction Of COA (Part-05) || (Recorded).mp4
+│       ├── CH 02 : Machine Instruction & Addressing Modes
+│       │   ├── Machine Instruction & Addressing Modes 01 : Machine Instruction & Addressing Modes (Part-01) || (Recorded).mp4
+│       │   ├── Machine Instruction & Addressing Modes 02 : Machine Instruction & Addressing Modes (Part-02) || (Recorded).mp4
+│       │   ├── Machine Instruction & Addressing Modes 03 : Machine Instruction & Addressing Modes (Part-03) || (Recorded).mp4
+│       │   ├── Machine Instruction & Addressing Modes 04 : Machine Instruction & Addressing Modes (Part-04) || (Recorded) || (Extra Class).mp4
+│       │   ├── Machine Instruction & Addressing Modes 05 : Machine Instruction & Addressing Modes (Part-05) || (Recorded) || (Extra Class).mp4
+│       │   ├── Machine Instruction & Addressing Modes 06 : Machine Instruction & Addressing Modes (Part-06) || (Recorded) || (Extra Class).mp4
+│       │   ├── Machine Instruction & Addressing Modes 07 : Machine Instruction & Addressing Modes (Part-07) || (Recorded).mp4
+│       │   ├── Machine Instruction & Addressing Modes 08 : Machine Instruction & Addressing Modes (Part-08) || (Recorded).mp4
+│       │   └── Machine Instruction & Addressing Modes 09 : Machine Instruction & Addressing Modes (Part-09) || (Recorded) || (Extra Class).mp4
+│       ├── CH 03 : Floating Point Representation
+│       │   ├── Floating Point Representation 01 : Floating Point Representation (Part-01) || (Recorded) || (Extra Class).mp4
+│       │   ├── Floating Point Representation 02 : Floating Point Representation (Part-02) || (Recorded) || (Extra Class).mp4
+│       │   ├── Floating Point Representation 03 : Floating Point Representation (Part-03) || (Recorded).mp4
+│       │   └── Floating Point Representation 04 : Floating Point Representation (Part-04) || (Recorded).mp4
+│       ├── CH 04 : ALU & Control Unit
+│       │   ├── ALU & Control Unit 01 : ALU & Control Unit (Part-01).mp4
+│       │   ├── ALU & Control Unit 02 : ALU & Control Unit (Part-02).mp4
+│       │   ├── ALU & Control Unit 03 : ALU & Control Unit (Part-03).mp4
+│       │   ├── ALU & Control Unit 04 : ALU & Control Unit (Part-04).mp4
+│       │   └── ALU & Control Unit 05 : ALU & Control Unit (Part-05).mp4
+│       ├── CH 05 : Instruction Pipelining
+│       │   ├── Instruction Pipelining 01 : Instruction Pipelining (Part-01).mp4
+│       │   ├── Instruction Pipelining 02 : Instruction Pipelining (Part-02).mp4
+│       │   ├── Instruction Pipelining 03 : Instruction Pipelining (Part-03).mp4
+│       │   ├── Instruction Pipelining 04 : Instruction Pipelining (Part-04) || (Extra Class).mp4
+│       │   ├── Instruction Pipelining 05 : Instruction Pipelining (Part-05).mp4
+│       │   ├── Instruction Pipelining 06 : Instruction Pipelining (Part-06).mp4
+│       │   ├── Instruction Pipelining 07 : Instruction Pipelining (Part-07).mp4
+│       │   └── Instruction Pipelining 08 : Instruction Pipelining (Part-08).mp4
+│       ├── CH 06 : Cache Memory
+│       │   ├── Cache Memory 01 : Cache Memory (Part-01).mp4
+│       │   ├── Cache Memory 02 : Cache Memory (Part-02).mp4
+│       │   ├── Cache Memory 03 : Cache Memory (Part-03).mp4
+│       │   ├── Cache Memory 04 : Cache Memory (Part-04).mp4
+│       │   ├── Cache Memory 05 : Cache Memory (Part-05).mp4
+│       │   ├── Cache Memory 06 : Cache Memory (Part-06).mp4
+│       │   └── Cache Memory 07 : Cache Memory (Part-07) || (Extra Class).mp4
+│       └── CH 07 : Secondary Memory & IO Interface
+│           ├── Secondary Memory & IO Interface 01 : Secondary Memory & IO Interface (Part-01).mp4
+│           ├── Secondary Memory & IO Interface 02 : Secondary Memory & IO Interface (Part-02).mp4
+│           ├── Secondary Memory & IO Interface 03 : Secondary Memory & IO Interface (Part-03).mp4
+│           ├── Secondary Memory & IO Interface 04 : Secondary Memory & IO Interface (Part-04).mp4
+│           ├── Secondary Memory & IO Interface 05 : Secondary Memory & IO Interface (Part-05).mp4
+│           ├── Secondary Memory & IO Interface 06 : Secondary Memory & IO Interface (Part-06) || (Recorded) || (Extra Class).mp4
+│           └── Secondary Memory & IO Interface 07 : Secondary Memory & IO Interface (Part-07) || (Recorded) || (Extra Class).mp4
+├── C Programming
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch-01 : Data types and operators
+│       │   ├── Data types and operators 01: Introduction to C Programming-1 (NO DPP).mp4
+│       │   ├── Data types and operators 02 : Introduction to C programming-2 (NO DPP).mp4
+│       │   ├── Data types and operators 03 : Data Types -1 (NO DPP).mp4
+│       │   ├── Data types and operators 04 : Data Types-2.mp4
+│       │   └── Data Types And  Operators 05 : Operators-1.mp4
+│       ├── Ch-02 : Control Flow Statements
+│       │   ├── Control Flow Statements 01: Decision Control Statements-01.mp4
+│       │   ├── Control Flow Statements 02 : Iterative Statements -01.mp4
+│       │   ├── Control Flow Statements 03 : Iterative Statements-2.mp4
+│       │   ├── Control Flow Statements 04: Switch statement.mp4
+│       │   ├── Control Flow Statements 05 : Iterative Statements More About Loops || ( NO DPP).mp4
+│       │   └── Control Flow Statements 06: Iterative Statements More About Loops Part 02 || (NO DPP).mp4
+│       ├── Ch-03 : Functions & storage classes
+│       │   ├── Functions & storage classes 01: Functions-1.mp4
+│       │   ├── Functions & Storage Classes 02 : Storage Classes-1.mp4
+│       │   ├── Functions & Storage classes 03 : Storage Classes-2.mp4
+│       │   ├── Functions & storage classes 04: Recursion-2.mp4
+│       │   └── Functions & storage classes 05: Recursion-3 || (NO DPP).mp4
+│       ├── Ch-04 : Arrays and Pointers
+│       │   ├── Arrays and Pointers 01: Arrays and Pointers-1.mp4
+│       │   ├── Arrays and Pointers 02: Arrays and Pointers-2 || (NO DPP).mp4
+│       │   ├── Arrays and Pointers 03: Arrays and Pointers-3 || (NO DPP).mp4
+│       │   ├── Arrays and Pointers 04: Arrays and Pointers-04 || (NO DPP).mp4
+│       │   ├── Arrays and Pointers 05: Arrays and pointers 05.mp4
+│       │   ├── Arrays and Pointers 06: Arrays and pointers 06.mp4
+│       │   ├── Arrays and Pointers 07 : Arrays and pointers 07 ||  (NO DPP).mp4
+│       │   └── Arrays and Pointers 08: Arrays and pointers 08.mp4
+│       ├── Ch-05 : Strings
+│       │   ├── Strings 01 : Strings (Part-1).mp4
+│       │   └── Strings 02 : Strings (Part-2).mp4
+│       ├── Ch-06 : Structure And Union
+│       │   └── Structure And Union 01 : Structure And Union in C.mp4
+│       └── Ch-7 : Miscellaneous
+│           └── Miscellaneous 01 : Miscellaneous || (NO DPP).mp4
+├── Cyber Security
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch-01 : Secure Programming Techniques
+│       │   ├── OWASP Top 10 Vulnerabilities : Injection || Broken Authentication || Sensitive Data Exposure (In One Shot).mp4
+│       │   └── Secure Programming Techniques : Security by Design || Password Management || Access Control (In One Shot).mp4
+│       ├── Ch-03 : Concepts on IOT
+│       │   └── Concepts on IOT : Smart devices || IOT connectivity || IOT applications || Wireless Sensor Networks || (In One Shot).mp4
+│       ├── Ch-04 : Blockchain
+│       │   └── Blockchain : Centralized  Vs Decentralized Systems || Consensus Mechanism || Asymmetric Cryptography (In One Shot).mp4
+│       └── Ch-05 : Artificial Intelligence
+│           ├── Artificial Intelligence 01 : AI vs ML vs DL || Regression vs Classification || Gradient Boosting || Artificial Neural Networks || (DPP has been Provided with the Previous Chapter).mp4
+│           └── Artificial Intelligence 02 : ANN and RL || (NO DPP).mp4
+├── Database Management System
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : FD's & Normalization
+│       │   ├── FD's & Normalization 01 : Introduction Of RDBMS.mp4
+│       │   ├── FD's & Normalization 02 : Key Concepts & Finding Number of Candidate Keys Part-01.mp4
+│       │   ├── FD's & Normalization 03 : Key Concepts & Finding Number of Candidate Keys Part-02 || (NO DPP).mp4
+│       │   ├── FD's & Normalization 04 : Membership Set & Equality Between FD Sets.mp4
+│       │   ├── FD's & Normalization 05 : Minimal Cover Part-01 || (NO DPP).mp4
+│       │   ├── FD's & Normalization 06 : Minimal Cover Part-02 || (NO DPP).mp4
+│       │   ├── FD's & Normalization 07 : Properties of Decomposition Part-01.mp4
+│       │   ├── FD's & Normalization 08 : Properties of Decomposition Part-02.mp4
+│       │   ├── FD's & Normalization 09 : Normal Forms Part-01 || (NO DPP).mp4
+│       │   ├── FD's & Normalization 10 : Normal Forms Part-02.mp4
+│       │   └── FD's & Normalization 11 : Normal Forms Part-03.mp4
+│       ├── CH 02 : Transaction & Concurrency Control
+│       │   ├── Transaction & Concurrency Control 01 : Transaction Concept Part-01 || (NO DPP).mp4
+│       │   ├── Transaction & Concurrency Control 02 : Transaction Concept Part-02 || (NO DPP).mp4
+│       │   ├── Transaction & Concurrency Control 03 : Serializable Schedule (Conflict & View) Part-01.mp4
+│       │   ├── Transaction & Concurrency Control 04 : Serializable Schedule (Conflict & View) Part-02 || (NO DPP).mp4
+│       │   ├── Transaction & Concurrency Control 05 : Problem Due to Concurrent Execution || (NO DPP).mp4
+│       │   ├── Transaction & Concurrency Control 06 : Finding Number of Conflict Serializable Schedule.mp4
+│       │   ├── Transaction & Concurrency Control 07 : Recoverable Schedule || (NO DPP).mp4
+│       │   ├── Transaction & Concurrency Control 08 : Lock Based Protocol (Part-01) || (NO DPP).mp4
+│       │   ├── Transaction & Concurrency Control 09 : Lock Based Protocol (Part-02).mp4
+│       │   └── Transaction & Concurrency Control 10 : Lock Based Protocol (Part-03).mp4
+│       ├── CH 03 : ER Model
+│       │   ├── ER Model 01 : ER Model Concept || (NO DPP).mp4
+│       │   └── ER Model 02 : ER Model Concept & Conversion of ER Model to RDBMS.mp4
+│       ├── CH 04 : Referential Integrity
+│       │   ├── Referential Integrity 01 : Foreign Key Concept (Part-01) || (NO DPP).mp4
+│       │   └── Referential Integrity 02 : Foreign Key Concept (Part-02).mp4
+│       ├── CH 05 : Query Language
+│       │   ├── Query Language 01 : Relational Algebra (Part-01).mp4
+│       │   ├── Query Language 02 : Relational Algebra (Part-02) || (NO DPP).mp4
+│       │   ├── Query Language 03 : Structured Query Language (SQL) (Part-01).mp4
+│       │   ├── Query Language 04 : Structured Query Language (SQL) (Part-02) || NO DPP.mp4
+│       │   ├── Query Language 05 : Structured Query Language (SQL) (Part-03).mp4
+│       │   └── Query Language 06 : Structured Query Language (SQL) Part 4 || TRC || NO DPP.mp4
+│       └── CH 06 : File Org & Indexing
+│           └── File Org & Indexing 01 : File Org & Indexing.mp4
+├── Data Structure & Programming
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch-01 : Introduction to Data structures
+│       │   ├── Introduction to Data structures 01: Introduction to Data Structures-1  || (No DPP).mp4
+│       │   ├── Introduction to Data structures 02 : Introduction to Data Structure -2 || (NO DPP).mp4
+│       │   ├── Introduction to Data structures 03: Introduction to Data Structure -3 || (NO DPP).mp4
+│       │   ├── Introduction to Data structures 04 : Introduction to Data Structure - 4 || (NO DPP).mp4
+│       │   ├── Introduction to Data structures 05 : Introduction to Data Structure - 5 || (NO DPP).mp4
+│       │   └── Introduction to Data structures 06 : Introduction to Data Structure - 6 || (NO DPP).mp4
+│       ├── CH-02 : Arrays
+│       │   ├── Arrays 01 : Arrays (part -1).mp4
+│       │   ├── Arrays 02 : Arrays  (part -2).mp4
+│       │   ├── Arrays 03 : Arrays part-03 ||  (NO DPP).mp4
+│       │   └── Arrays 04 : Arrays Part-04 || (NO DPP).mp4
+│       ├── Ch-03 : Linked List
+│       │   ├── Linked List 05 : Linked List Part-05 || (NO DPP).mp4
+│       │   ├── Linked List 06: Linked List Part-06 || (NO DPP).mp4
+│       │   ├── Linked List 1 : Linked List Part-01 || (NO DPP).mp4
+│       │   ├── Linked List 2 : Linked List Part-02.mp4
+│       │   ├── Linked List 3: Linked List Part-03.mp4
+│       │   └── Linked List 4 : Linked List Part-04 || (NO DPP).mp4
+│       ├── Ch-04 : Stack and Queues
+│       │   ├── Stack and Queues 01: Stack and Queues Part-01.mp4
+│       │   ├── Stack and Queues 02 : Stack and Queues Part-02 || (NO DPP).mp4
+│       │   ├── Stack and Queues 03: Stack and Queues Part-03  || (NO DPP).mp4
+│       │   ├── Stack and Queues 04 : Stack and Queues Part-04.mp4
+│       │   ├── Stack and Queues 05 : Stack and Queues Part-05 || (NO DPP).mp4
+│       │   └── Stack and Queues 06 : Stack and Queues Part-06 || (NO DPP).mp4
+│       ├── Ch-05 : Tree
+│       │   ├── Tree 01: Tree Part-01.mp4
+│       │   ├── Tree 02 : Tree Part-02.mp4
+│       │   ├── Tree 03 : Tree Part-03 || (NO DPP).mp4
+│       │   ├── Tree 04 : Tree Part-04.mp4
+│       │   ├── Tree 05 : Tree Part-05.mp4
+│       │   ├── Tree 06 : Tree Part-06.mp4
+│       │   ├── Tree 07 : Tree Part-07 || (NO DPP).mp4
+│       │   ├── Tree 08 : Tree Part-08.mp4
+│       │   ├── Tree 09: Tree Part-09.mp4
+│       │   ├── Tree 10: Tree Part-10 || (NO DPP).mp4
+│       │   └── Tree 11: Tree Part-11 || (NO DPP).mp4
+│       ├── Ch-06 : Graphs
+│       │   └── Graphs : Graphs (In One Shot) || (NO DPP).mp4
+│       └── Ch-07 : Hashing
+│           ├── Hashing 01 : Hashing Part-01.mp4
+│           └── Hashing 02 : Hashing Part-02 || (NO DPP).mp4
+├── Digital Logic
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Logic Gate
+│       │   ├── Logic Gate 01 : NOT GATE AND GATE || (NO DPP).mp4
+│       │   ├── Logic Gate 02 : OR GATE || NAND GATE || NOR GATE.mp4
+│       │   ├── Logic Gate 03 : Minimum Number of NAND || NOR Gate.mp4
+│       │   ├── Logic Gate 04 : XOR GATE || XNOR GATE.mp4
+│       │   └── Logic Gate 05 : XNOR GATE- 2 || Practice Questions || (No DPP).mp4
+│       ├── CH 02 : Minimization
+│       │   ├── Minimization 01 : Boolean Algebra.mp4
+│       │   ├── Minimization 02 : Boolean Algebra Practice Questions || K Map - Basic.mp4
+│       │   ├── Minimization 03 : K Map - Questions  Part 01 || No DPP.mp4
+│       │   ├── Minimization 04 : K Map - Questions  Part 02 || No DPP.mp4
+│       │   └── Minimization 05 : Implicants || Prime Implicants || No DPP.mp4
+│       ├── CH 03 : COMBINATIONAL CIRCUIT
+│       │   ├── Combinational Circuit 01 : Comparator.mp4
+│       │   ├── Combinational Circuit 02 : Multiplexer Part 01.mp4
+│       │   ├── Combinational Circuit 03 : Multiplexer Part 02 || (No DPP).mp4
+│       │   ├── Combinational Circuit 04 : DE MUX || Encoder.mp4
+│       │   ├── Combinational Circuit 05 : Decoder || HA || FA.mp4
+│       │   ├── Combinational Circuit 06 : HS || FS || Serial Adder || Parallel Adder Part-01.mp4
+│       │   ├── Combinational Circuit 07 : Parallel Adder Part 02 || (NO DPP).mp4
+│       │   └── Combinational Circuit 08 : Question Practice of Combinational Circuit || No DPP.mp4
+│       └── CH 04 : SEQUENTIAL CIRCUIT
+│           ├── Number System 01  : Number System.mp4
+│           ├── Number System 02  : Number System Remaining  || No DPP.mp4
+│           ├── Sequential Circuit 01 : Latches || Flip Flop Part 01.mp4
+│           ├── Sequential Circuit 02 : Flip Flop Part 02.mp4
+│           ├── Sequential Circuit 03 : Flip Flop Part 03  || (No DPP).mp4
+│           ├── Sequential Circuit 04 : Flip Flop Part 04 || (No DPP).mp4
+│           ├── Sequential Circuit 05  : Registers || Basics of Counter.mp4
+│           ├── Sequential Circuit 06 : Counters || Asynchronous Counters || Full Mode || Feedback || (NO DPP).mp4
+│           ├── Sequential Circuit 07 : Synchronous Counter.mp4
+│           ├── Sequential Circuit 08 : Revision Of Counters (Part-01) || (No DPP).mp4
+│           └── Sequential Circuit 09 : Revision Of Counters  (Part-02) || Questions Practice || No DPP.mp4
+├── Discrete Mathematics
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Graph Theory
+│       │   ├── Graph Theory 01 : Basics Of Graphs.mp4
+│       │   ├── Graph Theory 02 : Types of Graphs.mp4
+│       │   ├── Graph Theory 03 : Connectivity in Graphs Part 01.mp4
+│       │   ├── Graph Theory 04 : Connectivity in Graphs Part 02.mp4
+│       │   ├── Graph Theory 05 : Advanced Topics in Graphs Part 01.mp4
+│       │   ├── Graph Theory 06 : Advanced Topics in Graphs Part 02.mp4
+│       │   ├── Graph Theory 07 : Advanced Topics in Graphs part 03.mp4
+│       │   ├── Graph Theory 08 : Advanced Topics in Graphs part 04.mp4
+│       │   └── Graph Theory 09 : Advanced Topics in Graphs Part 05.mp4
+│       ├── CH 02 : Logic
+│       │   ├── Logic 01  : Propositional logic.mp4
+│       │   ├── Logic 02 : Inference Rule.mp4
+│       │   ├── Logic 03 : Predicate Logic Part 01.mp4
+│       │   ├── Logic 04  : Predicate Logic Part 02.mp4
+│       │   ├── Logic 05 : Quantifier Part 01.mp4
+│       │   └── Logic 06 : Quantifier Part 02.mp4
+│       ├── CH 03 : Set Theory
+│       │   ├── Set Theory 01 : Basics of Functions Part 01.mp4
+│       │   ├── Set Theory 02 : Basics of Functions Part-02.mp4
+│       │   ├── Set Theory 03 : Relation Part 01.mp4
+│       │   ├── Set Theory 04 : Relation Part 02.mp4
+│       │   ├── Set Theory 05 : Lattice Theory Part 01.mp4
+│       │   ├── Set Theory 06 : Lattice Theory (Part 02).mp4
+│       │   ├── Set Theory 07 : Types of Lattices.mp4
+│       │   └── Set Theory 08 : Group Theory.mp4
+│       └── CH 04 : Combinatorics
+│           ├── Combinatorics 01 : Basics of Counting.mp4
+│           ├── Combinatorics 02 : Combination with Repetition.mp4
+│           ├── Combinatorics 03  : Inclusion - Exclusion _ Derangement.mp4
+│           ├── Combinatorics 04  : Pigeonhole Principle _ Euler Totient Function.mp4
+│           ├── Combinatorics 05 : Generating Function (Part -01).mp4
+│           ├── Combinatorics 06 : Generating Function (Part-02).mp4
+│           └── Combinatorics 07 : Recurrence Relation.mp4
+├── General Aptitude
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch-01 : Averages & Ages
+│       │   └── Averages & Ages (In One Shot).mp4
+│       ├── Ch-02 : Percentages
+│       │   └── Percentages (In One Shot).mp4
+│       ├── Ch-03 : Profit Loss
+│       │   └── Profit Loss (IN ONE SHOT).mp4
+│       ├── Ch-04 : Partnership
+│       │   └── Partnership (In One Shot).mp4
+│       ├── Ch-05 : Interest
+│       │   └── Interest (In One Shot).mp4
+│       ├── Ch-06 : Mixtures Alligations
+│       │   └── Mixtures Alligations (In One Shot).mp4
+│       ├── Ch-07 : Calendars
+│       │   └── Calendars (In One Shot).mp4
+│       ├── Ch-08 : Clocks
+│       │   └── Clocks (In One Shot).mp4
+│       ├── Ch-09 : Number System
+│       │   └── Number System (In One Shot).mp4
+│       ├── Ch-10 : Series and Sequence
+│       │   └── Series and Sequence (In One Shot).mp4
+│       ├── Ch-11 : Coding Decoding
+│       │   └── Coding Decoding (In One Shot).mp4
+│       ├── Ch-12 : Venn Diagrams
+│       │   └── Venn Diagrams (In One Shot).mp4
+│       ├── Ch-13 : Blood Relations
+│       │   └── Blood Relations (In One Shot).mp4
+│       ├── Ch-14 : Problem Solving
+│       │   └── Problem Solving (In One Shot).mp4
+│       ├── Ch 15 : Directions
+│       │   └── Directions (In One Shot).mp4
+│       ├── Ch 16 : Cubes & Dices
+│       │   └── Cubes & Dices (In One Shot).mp4
+│       ├── Ch-17 : Time and Work
+│       │   └── Time and Work (In One Shot).mp4
+│       ├── Ch-18 : Pipes & Cistern
+│       │   └── Pipes & Cistern (In One Shot).mp4
+│       ├── Ch-19 : Time and Distance
+│       │   └── Time and Distance (In One Shot).mp4
+│       └── Ch-20 : Races, Boats and Streams
+│           └── Races, Boats and Streams (In One Shot).mp4
+├── Mathematics
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Probability
+│       │   ├── Probability 01 : Probability (Part-01) || LIVE.mp4
+│       │   ├── Probability 02 : Probability (Part-02) || LIVE.mp4
+│       │   ├── Probability 03 : Probability (Part-03) || LIVE.mp4
+│       │   ├── Probability 04 : Probability (Part-04) || LIVE.mp4
+│       │   ├── Probability 05 : Probability (Part-05) || LIVE.mp4
+│       │   ├── Probability 06 : Probability (Part-06) || LIVE || (Rescheduled @08:15 AM).mp4
+│       │   ├── Probability 07 : Probability (Part-07) || LIVE.mp4
+│       │   └── Probability 08 : Probability (Part-08) || LIVE.mp4
+│       ├── CH 02 : Calculus
+│       │   ├── Calculus 01 : Calculus (Part-01) || LIVE.mp4
+│       │   ├── Calculus 02 : Calculus (Part-02) || LIVE.mp4
+│       │   ├── Calculus 03 : Calculus (Part-03) || LIVE.mp4
+│       │   ├── Calculus 04 : Calculus (Part-04) || LIVE.mp4
+│       │   ├── Calculus 05 : Calculus (Part-05) || LIVE.mp4
+│       │   └── Calculus 06 : Calculus (Part-06) || LIVE.mp4
+│       └── CH 03 : Linear Algebra
+│           ├── Linear Algebra 01 : Linear Algebra (Part-01) || LIVE.mp4
+│           ├── Linear Algebra 02 : Linear Algebra (Part-02) || Recorded.mp4
+│           └── Linear Algebra 03 : Linear Algebra (Part-03) || Recorded.mp4
+├── Network Theory
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch-01 : Basic Concept of Network
+│       │   ├── Basic Concept of Network 01 : Basic Concept of Network || (NO DPP).mp4
+│       │   ├── Basic Concept of Network 02 : Classification of Elements || (NO DPP).mp4
+│       │   ├── Basic Concept of Network 03 : Current and Voltage.mp4
+│       │   ├── Basic Concept of Network 04 : Ohms law.mp4
+│       │   ├── Basic Concept of Network 05 : Series parallel circuit.mp4
+│       │   ├── Basic Concept of Network 06 : Resistance.mp4
+│       │   ├── Basic concept of network 07 : Question based on Circuit.mp4
+│       │   ├── Basic concept of network 08 : Inductance.mp4
+│       │   ├── Basic concept of network 09 : Capacitance.mp4
+│       │   ├── Basic concept of network 10 : Question based on L and C.mp4
+│       │   ├── Basic concept of network 11 : VDR and CDR.mp4
+│       │   ├── Basic concept of network 12 : Star delta.mp4
+│       │   ├── Basic concept of network 13 : Voltage source and current source.mp4
+│       │   ├── Basic concept of network 14 : Ideal and practical Case.mp4
+│       │   ├── Basic concept of network 15 : Source Transformation.mp4
+│       │   ├── Basic concept of network 16 : Dependent Sources.mp4
+│       │   ├── Basic Concept of Network 17 : Supermesh Super Node.mp4
+│       │   ├── Basic Concept of Network 18 : Average and RMS Values.mp4
+│       │   ├── Basic Concept of Network 19 : Objective questions Part 1.mp4
+│       │   ├── Basic Concept of Network  20 : Objective questions Part 2.mp4
+│       │   ├── Basic Concept of Network 21 :  Basic Of Inductor || (NO DPP ).mp4
+│       │   └── Basic Concept of Network 22 : Basic Of Capacitor || (NO DPP ).mp4
+│       ├── Ch-02 : Networks Theorem
+│       │   ├── Network Theorem's  01 : Thevenin's Theorem's  || (NO DPP).mp4
+│       │   ├── Network Theorem's 02 : Norton's Theorem's || (NO DPP).mp4
+│       │   ├── Network Theorem's 03 : Question Based on Theorems (Part -1) || (NO DPP).mp4
+│       │   ├── Network Theorem's 04 : Question Based On Theorems (Part -2).mp4
+│       │   ├── Network Theorem's 05 : Maximum Power Transfer Theorems (Part - 1).mp4
+│       │   ├── Network Theorem's 06 : Maximum Power Transfer Theorems (Part - 2).mp4
+│       │   ├── Network Theorem's 07 : Maximum Power Transfer Theorems (Part - 3).mp4
+│       │   ├── Network Theorem's 08 : Objective Question.mp4
+│       │   ├── Network Theorem's 09 : Superposition Theorems || (NO DPP).mp4
+│       │   ├── Network Theorem's 10 : Power Calculation || (NO DPP).mp4
+│       │   ├── Network Theorem's 11 : Homogeneity Theorem || (NO DPP).mp4
+│       │   ├── Network Theorem's 12 : Reciprocity Theorem.mp4
+│       │   └── Network Theorem's 13 : Miscellaneous Theorem.mp4
+│       ├── Ch-03 : Transient Analysis
+│       │   ├── Transient Analysis 01 : Basic Concept Of Transient (Part - 1) || (NO DPP).mp4
+│       │   ├── Transient Analysis 02 : Basic Concept Of Transient (Part - 2) || (NO DPP).mp4
+│       │   ├── Transient Analysis 03 : Basic Concept Of Transient (Part - 3) || (NO DPP).mp4
+│       │   ├── Transient Analysis 04 : Transient Behaviours Of Inductors || (NO DPP).mp4
+│       │   ├── Transient Analysis 05 : First Order Circuit || (NO DPP).mp4
+│       │   ├── Transient Analysis 06 : Transient Behaviours Of Capacitor || (NO DPP).mp4
+│       │   ├── Transient Analysis 07 : Question Based On Transient (Part - 1).mp4
+│       │   ├── Transient Analysis 08 : Question Based On Transient (Part - 2) || (NO DPP).mp4
+│       │   ├── Transient Analysis 09 : Question Based On Transient (Part - 3).mp4
+│       │   ├── Transient Analysis 10 : Question Based On Transient (Part - 4) || (NO DPP).mp4
+│       │   ├── Transient Analysis 11 : Sinusoidal Steady State Analysis (Part - 01) || (NO DPP).mp4
+│       │   ├── Transient Analysis 12 : Sinusoidal Steady State Analysis (Part - 02).mp4
+│       │   └── Transient Analysis 13 : Sinusoidal Steady State Analysis (Part - 03) || (NO DPP).mp4
+│       └── Ch-04 : AC Circuit
+│           ├── AC Circuit 01 : Phasor diagram (Part-01) || (NO DPP).mp4
+│           ├── AC Circuit 02 : Phasor diagram (Part-02) || (NO DPP).mp4
+│           ├── AC Circuit 03 : Phasor diagram (Part-03) || (NO DPP).mp4
+│           ├── AC Circuit 04 : Phasor diagram (Part-04) || (NO DPP) || (Reschedule @ 8:30 PM).mp4
+│           ├── AC Circuit 05 : Objective Question ( Part - 01) || (Extra Class).mp4
+│           ├── AC Circuit 06 : Objective Question  ( Part - 02 ).mp4
+│           ├── AC Circuit 07 : Resonance ( Part - 01) || (NO DPP).mp4
+│           ├── AC Circuit 08 : Resonance ( Part - 02) || (NO DPP).mp4
+│           ├── AC Circuit 09 : Complex Power || (NO DPP).mp4
+│           └── AC Circuit 10 : Question Based on Resonance and Complex power  || (NO DPP).mp4
+├── Operating Systems
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch-01 : Introduction and Background
+│       │   ├── Introduction and background 01 : What is Operating system || (NO DPP).mp4
+│       │   ├── Introduction and background 02 : Architectural requirements for Multi programmed OS || Mode of shifting in Multi programmed OS || System Calls.mp4
+│       │   └── Introduction and background 03 : Fork System Calls, Problem Solving.mp4
+│       ├── Ch-02 : Process Management
+│       │   ├── Live interactive session on process management & CPU Scheduling.mp4
+│       │   ├── Process Management 01 : ''Implementation of System Calls ''Process Concept || Program v_s Concept".mp4
+│       │   ├── Process Management 02 : "Program v_s Process  || Process'' as ADT || Process State Transition Diagram.mp4
+│       │   ├── Process Management 03 : Scheduling Queues || Queuing Diagram || Schedules and Dispatches.mp4
+│       │   └── Process Management 04 : Content Switching || CPU Scheduling || Scheduling criteria & Process Times.mp4
+│       ├── Ch-03 : CPU Scheduling
+│       │   ├── CPU Scheduling 01 : FCFS || SJF.mp4
+│       │   ├── CPU Scheduling 02 : SRTF || LRTF.mp4
+│       │   ├── CPU Scheduling 03 : HRRN || Round Robin.mp4
+│       │   ├── CPU Scheduling 04 : Priority Scheduling || LRTF-2 || HRRN-2.mp4
+│       │   └── CPU Scheduling 05 : Priority Scheduling-2 || Round Robin-2 || Multi Level Queue Scheduling.mp4
+│       ├── Ch-04 : Process Synchronization_Co-ordination
+│       │   ├── Live interactive session on Process Synchronization.mp4
+│       │   ├── Process Synchronization_Co-ordination 01 : What is Synchronization & IPC || Types of Synchronization.mp4
+│       │   ├── Process Synchronization_Co-ordination 02 : Need for Synchronization || Types of Sync || Critical Section Problem.mp4
+│       │   ├── Process Synchronization_Co-ordination 03 : Critical Section Problem- 2 || Requirements of CS problem || Lock Variables.mp4
+│       │   ├── Process Synchronization_Co-ordination 04 : Lock Variables- 2 || Strict Alternation || Peterson Algorithm || (NO DPP).mp4
+│       │   ├── Process Synchronization_Co-ordination 05 : Strict Alternation-2 || Peterson Algorithm-2.mp4
+│       │   ├── Process Synchronization_Co-ordination 06 : Peterson Algorithm-3 || Synchronization Hardware || TSL instruction || Swap Instruction.mp4
+│       │   ├── Process Synchronization_Co-ordination 07 : Blocking Mechanisms || Sleep - Wakeup || Semaphores.mp4
+│       │   ├── Process Synchronization_Co-ordination 08 : Problem Solving with Semaphore || Binary Semaphore || Counting Semaphore.mp4
+│       │   ├── Process Synchronization_Co-ordination 09 : Problem Solving with Semaphore-2 || Classical IPC Problems || Producer Consumer Problem.mp4
+│       │   ├── Process Synchronization_Co-ordination 10 : Producer Consumer- 2 || Reader Writer || Dining Philosopher || (NO DPP).mp4
+│       │   ├── Process Synchronization_Co-ordination 11 : Concurrency Mechanisms || Concurrency Conditions || Parbegin - Parend Construct.mp4
+│       │   └── Process Synchronization_Co-ordination 12 : Parallel Construct || Problem Solving || Introduction to Deadlocks.mp4
+│       ├── Ch-05 : Dead Lock
+│       │   ├── Dead Lock 01 : Concept Of Dead Lock || (NO DPP).mp4
+│       │   ├── Dead Lock 02 : System Model || Deadlock Characterization.mp4
+│       │   └── Dead Lock 03 : Bankers Algorithm || Deadlock Detection || Problem Solving || (NO DPP).mp4
+│       ├── Ch-06 : Memory Management
+│       │   ├── Live Interactive Session on Memory Management (Part-01).mp4
+│       │   ├── Live Interactive Session on Memory Management (Part-02).mp4
+│       │   ├── Memory Management 01 : Memory Management || Abstract View of Memory || Loading v_s Linking.mp4
+│       │   ├── Memory Management 02 : Loading v_s Linking- 2 || Address Binding || Contiguous Allocation.mp4
+│       │   ├── Memory Management 03 : Memory Management Techniques || Address Binding- 2 || Overlays.mp4
+│       │   ├── Memory Management 04 : Fixed Partitioning || Variable Partitioning || Logical vs Physical Address spaces.mp4
+│       │   ├── Memory Management 05 : Simple Paging || Logical vs Physical Address spaces-2.mp4
+│       │   ├── Memory Management 06 : Problems on Paging || Paging with TLB || Hashed Paging || (NO DPP).mp4
+│       │   ├── Memory Management 07 : Optimal Page Size || Hashed Paging- 2 || Multi Level Paging.mp4
+│       │   ├── Memory Management 08 : Problem Solving || Segmentation || Multi Level Paging- 2.mp4
+│       │   ├── Memory Management 09 : Segmentation- 2 || Virtual Memory Implementation.mp4
+│       │   ├── Memory Management 10 : Performance of Virtual Memory || Page Replacement || Problem Solving- 2.mp4
+│       │   ├── Memory Management 11: Page Replacement Techniques || Problem Solving-3.mp4
+│       │   └── Memory Management 12: Page Replacement- 2 || Problem Solving- 4 || Thrashing.mp4
+│       ├── Ch-07 : File System & Device Management
+│       │   ├── File System & Device Management 01: Working Set Model || File System and Device Management || Disk Physical Structure || (NO DPP).mp4
+│       │   ├── File System & Device Management 02 : Disk Logical Structure || File System Interface.mp4
+│       │   ├── File System & Device Management 03 : File Allocation Methods || Disk Free Space Management || Problem Solving.mp4
+│       │   ├── File System & Device Management 04 : Disk Scheduling || Disk Free Space Management- 2 || Problem Solving- 2 || (NO DPP).mp4
+│       │   └── File System & Device Management 05 : Threads || Disk Scheduling- 2 || Problem Solving- 3 || (NO DPP).mp4
+│       ├── Ch-08 : System Calls and Threads
+│       │   ├── System Calls and Threads 01 : System Call || Fork System Call || Inverted Paging.mp4
+│       │   └── System Calls and Threads 02 : Segmented Paging || Monitors || (NO DPP).mp4
+│       └── Revision
+│           ├── Revision 01 : Introduction.mp4
+│           ├── Revision 02 : Process Concepts.mp4
+│           ├── Revision 03 : CPU Scheduling (Part-01).mp4
+│           ├── Revision 04 : CPU Scheduling (Part-02).mp4
+│           ├── Revision 05 : Process Synchronization (Part-01).mp4
+│           ├── Revision 06 : Process Synchronization (Part-02).mp4
+│           ├── Revision 07 : Process Synchronization (Part-03).mp4
+│           ├── Revision 08 : Deadlocks.mp4
+│           ├── Revision 09 : Memory Management (Part-01).mp4
+│           ├── Revision 10 : Memory Management (Part-02).mp4
+│           ├── Revision 11 : Virtual Memory (Part-01).mp4
+│           ├── Revision 12 : Virtual Memory (Part-02).mp4
+│           ├── Revision 13 : File System (Part-01).mp4
+│           └── Revision 14 : File System (Part-02).mp4
+├── Probability and Statistics
+│   └── notes.zip
+├── Python-For Data Science
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Language Fundamentals
+│       │   ├── Language Fundamentals 01 : Language Fundamentals (Part 01).mp4
+│       │   ├── Language Fundamentals 02 : Language Fundamentals (Part 02).mp4
+│       │   └── Language Fundamentals 03 : Language Fundamentals (Part 03).mp4
+│       ├── CH 02 : Operators
+│       │   ├── Operators 01 : Operators (Part 01).mp4
+│       │   └── Operators 02 : Operators (Part 02).mp4
+│       ├── CH 03 : Flow Control Statements
+│       │   ├── Flow Control Statements 01 : Flow Control Statements (Part 01).mp4
+│       │   ├── Flow Control Statements 02 : Flow Control Statements (Part 02).mp4
+│       │   ├── Flow Control Statements 03 : Flow Control Statements (Part 03).mp4
+│       │   └── Flow Control Statements 04 : Flow Control Statements (Part 04) || (Rescheduled @04:25 PM).mp4
+│       ├── CH 04 : String
+│       │   ├── String 01 : String (Part 01) || (Extra Class).mp4
+│       │   └── String 02 : String (Part 02) || (Extra Class).mp4
+│       ├── CH 05 : List
+│       │   ├── List 01 : List (Part 01).mp4
+│       │   └── List 02 : List (Part 02).mp4
+│       ├── CH 06 : Set & Tuple
+│       │   └── Set & Tuple (One Shot).mp4
+│       ├── CH 07 : Dictionary
+│       │   ├── Dictionary 01 : Dictionary (Part-01).mp4
+│       │   └── Dictionary 02 : Dictionary (Part-02).mp4
+│       ├── CH 08 : Functions
+│       │   ├── Functions 01 : Functions (Part-01).mp4
+│       │   ├── Functions 02 : Functions (Part-02).mp4
+│       │   └── Functions 03 : Functions (Part-03).mp4
+│       ├── CH 09 : OOPs
+│       │   ├── OOPs 01 : OOPs (Part 01).mp4
+│       │   ├── OOPs 02 : OOPs (Part 02).mp4
+│       │   ├── OOPs 03 : OOPs (Part 03).mp4
+│       │   ├── OOPs 04 : OOPs (Part 04).mp4
+│       │   └── OOPs 05 : OOPs (Part 05).mp4
+│       ├── CH 10 : Linked List
+│       │   ├── Linked List 01 : Linked List (Part 01).mp4
+│       │   ├── Linked List 02 : Linked List (Part 02).mp4
+│       │   └── Linked List 03 : Linked List (Part 03).mp4
+│       ├── CH 11 : Stack and Queue
+│       │   ├── Stack and Queue 01 : Stack and Queue (Part-01) || (Rescheduled @ 04:10 PM).mp4
+│       │   ├── Stack and Queue 02 : Stack and Queue (Part-02) || (Rescheduled @ 09:00 PM).mp4
+│       │   └── Stack and Queue 03 : Stack and Queue (Part 03) || (Extra Class).mp4
+│       ├── CH 12 : Binary Tree
+│       │   ├── Binary Tree 01 : Binary Tree (Part 01).mp4
+│       │   ├── Binary Tree 02 : Binary Tree (Part 02).mp4
+│       │   ├── Binary Tree 03 : Binary Tree (Part 03).mp4
+│       │   └── Binary Tree 04 : Binary Tree (Part 04).mp4
+│       ├── CH 13 : Numpy
+│       │   ├── Numpy 01 : Numpy (Part 01).mp4
+│       │   ├── Numpy 02 : Numpy (Part 02).mp4
+│       │   └── Numpy 03 : Numpy (Part 03).mp4
+│       └── CH 14 : Pandas
+│           └── Pandas (One Shot).mp4
+├── Reasoning
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Alphabet Test
+│       │   ├── Alphabet Test 01 :  Alphabet Test Part- 01 || (NO DPP).mp4
+│       │   └── Alphabet Test 02 : Alphabet Test Part- 02.mp4
+│       ├── CH 02 : Analogy
+│       │   ├── Analogy 01 :  Analogy Part- 01.mp4
+│       │   └── Analogy 02 :  Analogy Part- 02 || (NO DPP).mp4
+│       ├── CH 03 : Classification
+│       │   ├── Classification 01 : Classification (Part- 01) || (NO DPP).mp4
+│       │   └── Classification 02 : Classification (Part- 02).mp4
+│       ├── CH 04 : Blood Relation
+│       │   ├── Blood Relation 01 : Blood Relation (Part- 01) || (NO DPP).mp4
+│       │   ├── Blood Relation 02 : Blood Relation (Part- 02) || (NO DPP).mp4
+│       │   └── Blood Relation 03 : Blood Relation (Part- 03).mp4
+│       ├── CH 05 : Direction Test
+│       │   ├── Direction Test 01 : Direction Test  (Part- 01) || (NO DPP).mp4
+│       │   └── Direction Test 02 : Direction Test  (Part- 02).mp4
+│       ├── CH 06 : Calendar
+│       │   ├── Calendar 01 : Calendar (Part- 01) || (NO DPP).mp4
+│       │   └── Calendar 02 : Calendar (Part- 02).mp4
+│       ├── CH 07 : Clock
+│       │   ├── Clock 01 : Clock (Part- 01) || (NO DPP).mp4
+│       │   └── Clock 02 : Clock (Part- 02).mp4
+│       ├── Ch 08 : Ranking and Order
+│       │   ├── Ranking and Order 01 : Ranking and Order (Part- 01) || (NO DPP).mp4
+│       │   └── Ranking and Order 02 : Ranking and Order (Part- 02).mp4
+│       ├── CH 09 : Syllogism
+│       │   ├── Syllogism 01 : Syllogism (Part- 01) || (NO DPP).mp4
+│       │   └── Syllogism 02 : Syllogism (Part- 02).mp4
+│       ├── CH 10 : Data Sufficiency
+│       │   ├── Data Sufficiency 01 : Data Sufficiency (Part- 01) || (NO DPP).mp4
+│       │   └── Data Sufficiency 02 : Data Sufficiency (Part- 02).mp4
+│       └── CH 11 : Input - Output
+│           ├── Input - Output 01 : Input - Output (Part- 01) || (NO DPP).mp4
+│           ├── Input - Output 02 : Input - Output (Part- 02) || (NO DPP).mp4
+│           └── Input - Output 03 : Input - Output (Part- 03).mp4
+├── Software Engineering
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Introduction to Software Engineering
+│       │   └── Introduction to Software Engineering (In One Shot).mp4
+│       ├── CH 02 : Types of Software Development Lifecycle
+│       │   ├── Types of Software Development Lifecycle 01 : Requirement and Feasibility Analysis, SCRUM Model.mp4
+│       │   └── Types of Software Development Lifecycle 02 : Spiral Model, Agile SCRUM Model, Incremental model.mp4
+│       ├── CH 03 : Data Flow Diagrams
+│       │   └── Data Flow Diagrams (In One Shot).mp4
+│       ├── CH 04 : Design
+│       │   └── Design (In One Shot).mp4
+│       └── CH 05 : Maintenance
+│           └── Maintenance (In One Shot).mp4
+└── Web Technology
+    ├── DppNotes.zip
+    ├── notes.zip
+    └── videos
+        └── CH 01 : Fundamental
+            ├── Fundamental 01 : Understanding Web and HTML.mp4
+            ├── Fundamental 02 : HTML5 and CSS.mp4
+            └── Fundamental 03 : Server and Application Development || Frontend Technologies & XML.mp4
+
+190 directories, 688 files

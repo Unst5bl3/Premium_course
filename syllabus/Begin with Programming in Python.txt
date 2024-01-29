@@ -1,0 +1,131 @@
+Begin with Programming in Python
+├── 01. Beginning with Python
+│   ├── 01. Intro to Python and Programming
+│   │   ├── 01. What is Programming - coursedl.org.mp4
+│   │   ├── 02. What is Python - coursedl.org.mp4
+│   │   └── 03. Compiled vs Interpreted Languages - coursedl.org.mp4
+│   ├── 02. Data Types and Operators
+│   │   ├── 01. Datatypes in Python - coursedl.org.mp4
+│   │   ├── 02. Type Conversions - coursedl.org.mp4
+│   │   ├── 03. Assignment and Arithmetic Operators - coursedl.org.mp4
+│   │   ├── 04. Bitwise Operators - coursedl.org.mp4
+│   │   └── 05. Relational and Logical Operators - coursedl.org.mp4
+│   ├── 03. If-Else
+│   │   ├── 01. If Else - coursedl.org.mp4
+│   │   ├── 02. Elif - coursedl.org.mp4
+│   │   ├── 03. Nested If Else - coursedl.org.mp4
+│   │   └── 04. Calculator - coursedl.org.mp4
+│   ├── 04. More Operators
+│   │   ├── 01. String Operators - coursedl.org.mp4
+│   │   ├── 02. Membership Operator - coursedl.org.mp4
+│   │   ├── 03. Identity Operators - coursedl.org.mp4
+│   │   └── 04. Associativity and Precedence - coursedl.org.mp4
+│   ├── 05. While Loop
+│   │   ├── 01. While Loop - coursedl.org.mp4
+│   │   ├── 02. Infinite Loop - coursedl.org.mp4
+│   │   ├── 03. Print Odd and Even Numbers - coursedl.org.mp4
+│   │   ├── 04. Check Prime - coursedl.org.mp4
+│   │   ├── 05. Factorial of a Number - coursedl.org.mp4
+│   │   └── 06. Sum of Digits of a Number - coursedl.org.mp4
+│   └── 06. Nested Loops
+│       ├── 01. Nested While Loop - coursedl.org.mp4
+│       ├── 02. Square Printing - coursedl.org.mp4
+│       ├── 03. Printing Pyramid Part 1 - coursedl.org.mp4
+│       ├── 04. Predicting Output Part 1 - coursedl.org.mp4
+│       ├── 05. Predicting Output Part 2 - coursedl.org.mp4
+│       ├── 06. Printing Pyramid Part 2 - coursedl.org.mp4
+│       ├── 07. GCD Part 1 - coursedl.org.mp4
+│       ├── 08. GCD Part 2 and Break - coursedl.org.mp4
+│       ├── 09. LCM of Two Numbers - coursedl.org.mp4
+│       ├── 10. While Else - coursedl.org.mp4
+│       └── 11. Continue Keyword - coursedl.org.mp4
+├── 02. Data Structures in Python
+│   ├── 01. Lists, For Loop & Range
+│   │   ├── 01. Introduction to Lists - coursedl.org.mp4
+│   │   ├── 02. Mutable vs Immutable Types - coursedl.org.mp4
+│   │   ├── 03. For Loop - coursedl.org.mp4
+│   │   ├── 04. Range - coursedl.org.mp4
+│   │   ├── 05. Reverse and Sorting in Lists - coursedl.org.mp4
+│   │   └── 06. Conversion from String to Lists - coursedl.org.mp4
+│   ├── 02. Tuples & Zip
+│   │   ├── 01. Tuples - coursedl.org.mp4
+│   │   ├── 02. Memory Management in Lists and Tuples - coursedl.org.mp4
+│   │   ├── 03. Shallow vs Deep copy - coursedl.org.mp4
+│   │   └── 04. Zip - coursedl.org.mp4
+│   └── 03. Hashing Based DS: Sets and Dicts
+│       ├── 01. Hashing - coursedl.org.mp4
+│       ├── 02. Set - coursedl.org.mp4
+│       ├── 03. Hashable vs Unhashable - coursedl.org.mp4
+│       ├── 04. Set Mutations - coursedl.org.mp4
+│       ├── 05. Set Methods - coursedl.org.mp4
+│       ├── 06. Conversions - coursedl.org.mp4
+│       ├── 07. Introduction to Dictionaries - coursedl.org.mp4
+│       ├── 08. Mutations in Dictionaries - coursedl.org.mp4
+│       ├── 09. Iterating a Dictionary - coursedl.org.mp4
+│       └── 10. Enumerate - coursedl.org.mp4
+├── 03. Functions in Python
+│   ├── 01. Functions: Params & Args
+│   │   ├── 01. What are Functions - coursedl.org.mp4
+│   │   ├── 02. Default Parameters - coursedl.org.mp4
+│   │   ├── 03. Positional Vs Keyword Arguments - coursedl.org.mp4
+│   │   └── 04. Args  Kwargs - coursedl.org.mp4
+│   ├── 02. Yields and Generators
+│   │   ├── 01. Return - coursedl.org.mp4
+│   │   ├── 02. Yield  Generators - coursedl.org.mp4
+│   │   └── 03. Pass by Object Reference - coursedl.org.mp4
+│   └── 03. Scope, LEGB Principle and Recursion
+│       ├── 01. Scope - coursedl.org.mp4
+│       ├── 02. LEGB Principle - coursedl.org.mp4
+│       ├── 03. Global  nonlocal keywords - coursedl.org.mp4
+│       ├── 04. Function Call Stack - coursedl.org.mp4
+│       └── 05. Recursion - coursedl.org.mp4
+├── 04. Functional Programming
+│   ├── 01. Functional Programming Principles
+│   │   ├── 01. Programming Paradigms - coursedl.org.mp4
+│   │   ├── 02. High order functions - coursedl.org.mp4
+│   │   ├── 03. Currying - coursedl.org.mp4
+│   │   ├── 04. Lambda functions - coursedl.org.mp4
+│   │   └── 05. Nested Lambdas - coursedl.org.mp4
+│   └── 02. Map
+│       └── Filter
+│           └── Reduce and Comprehensions
+│               ├── 01. Map - coursedl.org.mp4
+│               ├── 02. Filter - coursedl.org.mp4
+│               ├── 03. Reduce - coursedl.org.mp4
+│               ├── 04. Any and All - coursedl.org.mp4
+│               └── 05. Comprehensions - coursedl.org.mp4
+├── 05. OOPS in Python
+│   ├── 01. Intro to OOPS in Python
+│   │   ├── 01. Setup - coursedl.org.mp4
+│   │   ├── 02. Modules - coursedl.org.mp4
+│   │   ├── 03. Packages - coursedl.org.mp4
+│   │   ├── 04. Errors - coursedl.org.mp4
+│   │   ├── 05. Exceptions and Exception Handling - coursedl.org.mp4
+│   │   ├── 06. Raising Errors - coursedl.org.mp4
+│   │   └── 07. Classes and Objects - coursedl.org.mp4
+│   └── 02. OOPS Principles in Python
+│       ├── 01. Data Encapsulation and Hiding - coursedl.org.mp4
+│       ├── 02. Inheritance - coursedl.org.mp4
+│       ├── 03. Polymorphism - coursedl.org.mp4
+│       ├── 04. Access Modifiers - coursedl.org.mp4
+│       └── 05. Static Variables and Methods - coursedl.org.mp4
+└── 06. Problem Solving in Python
+    ├── 01. Problem Solving Questions
+    │   ├── 01. Watermelon - coursedl.org.mp4
+    │   ├── 02. Young physicist - coursedl.org.mp4
+    │   ├── 03. Wrong substraction - coursedl.org.mp4
+    │   ├── 04. Presents - coursedl.org.mp4
+    │   ├── 05. Beautiful Matrix - coursedl.org.mp4
+    │   ├── 06. Arrival of general - coursedl.org.mp4
+    │   ├── 07. Way too long words - coursedl.org.mp4
+    │   ├── 08. Queue at school - coursedl.org.mp4
+    │   ├── 09. Tom riddles diary - coursedl.org.mp4
+    │   ├── 10. Make them odd - coursedl.org.mp4
+    │   ├── 11. Teams - coursedl.org.mp4
+    │   ├── 12. Radio Towers - coursedl.org.mp4
+    │   ├── 13. DYZ loves chessboard - coursedl.org.mp4
+    │   └── 14. ICPC Balloons - coursedl.org.mp4
+    └── 02. Way Ahead
+        └── 01. Way Ahead - coursedl.org.mp4
+
+26 directories, 102 files

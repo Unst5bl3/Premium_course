@@ -1,0 +1,569 @@
+madeeasy: GATE 2023 Live Online Course (L1-C Batch) : Computer Science (E)
+├── 0001. Promotional Video (NEXT IAS)
+│   └── 0001. Promotional Video (NEXT IAS).mp4
+├── 0002. WORKBOOK 2023 - CS | PDF
+│   ├── 0001. Reasoning and Aptitude.pdf
+│   ├── 0002. English.pdf
+│   ├── 0003. TOC.pdf
+│   ├── 0004. Compiler Design.pdf
+│   ├── 0005. Algorithms.pdf
+│   ├── 0006. Data Structures.pdf
+│   ├── 0007. Discrete ＆ Engineering Mathematics.pdf
+│   ├── 0008. COA.pdf
+│   ├── 0009. Digital Logic.pdf
+│   ├── 0010. Computer Network.pdf
+│   ├── 0011. DBMS.pdf
+│   └── 0012. Operating System.pdf
+├── 0003. Computer Organization ＆ Architecture (S) - Live 2023 - CS - 1st Feb 2022
+│   ├── 0001. COA - Lecture 1.mp4
+│   ├── 0002. COA - Lecture 2 A.mp4
+│   ├── 0003. COA - Lecture 2 B.mp4
+│   ├── 0004. COA - Lecture 3 A.mp4
+│   ├── 0005. COA - Lecture 3 B.mp4
+│   ├── 0006. COA - Lecture - 4 A.mp4
+│   ├── 0007. COA - Lecture 4 B.mp4
+│   ├── 0008. COA - Lecture 5.mp4
+│   ├── 0009. COA - Lecture 6 B.mp4
+│   ├── 0010. COA - Lecture 6 A.mp4
+│   ├── 0011. COA - Lecture 7.mp4
+│   ├── 0012. COA - Lecture 8.mp4
+│   └── 0013. COA - Lecture 9.mp4
+├── 0004. DBMS (R) - Live 2023 - CS - 14th Feb 2022
+│   ├── 0001. Integrity Constraints - Lecture 1 A.mp4
+│   ├── 0002. Integrity Constraints - Lecture 1 B.mp4
+│   ├── 0003. Super key and Foreign key - Lecture 2 A.mp4
+│   ├── 0004. Super key and Foreign key - Lecture 2 B.mp4
+│   ├── 0005. Normalization - Lecture 3 A.mp4
+│   ├── 0006. Normalization - Lecture 3 B.mp4
+│   ├── 0007. Normalization - Lecture 4 B.mp4
+│   ├── 0008. DBMS - Lecture 4 A.mp4
+│   ├── 0009. Lossless Join and DP - Lecture 5 A.mp4
+│   ├── 0010. DBMS - Lecture 5 A.mp4
+│   ├── 0011. Normal Forms - Lecture 6 A.mp4
+│   ├── 0012. Normal Forms - Lecture 6 B.mp4
+│   ├── 0013. Queries - Relational Algebra - Lecture 7 B.mp4
+│   ├── 0014. Queries - Relational Algebra - Lecture 7 A.mp4
+│   ├── 0015. Queries WBS.mp4
+│   ├── 0016. Normalisation WBS.mp4
+│   ├── 0017. Queries - Relational Algebra - Lecture 8A.mp4
+│   ├── 0018. Queries - Relational Algebra - Lecture 8 B.mp4
+│   ├── 0019. Queries - Relational Algebra - Lecture 9 B.mp4
+│   ├── 0020. Queries - Relational Algebra - Lecture 9 A.mp4
+│   ├── 0021. Queries - SQL - Lecture 10 B.mp4
+│   ├── 0022. Queries - SQL - Lecture 10 A.mp4
+│   ├── 0023. Queries - SQL - Lecture 11 B.mp4
+│   ├── 0024. Queries - SQL - Lecture 11 A.mp4
+│   ├── 0025. DBMS - Lecture 12 A.mp4
+│   ├── 0026. DBMS - Lecture 12 B.mp4
+│   ├── 0027. Queries - TRC - Lecture 13 A.mp4
+│   ├── 0028. ER Model - Lecture 13 B.mp4
+│   ├── 0029. ER Model - Lecture 14 B.mp4
+│   ├── 0030. ER Model - Lecture 14 A.mp4
+│   ├── 0031. Integrity Constraints ERD WBS.mp4
+│   ├── 0032. Indexing WBS.mp4
+│   ├── 0033. Indexing - Lecture 15 B.mp4
+│   ├── 0034. ER Model - Lecture 15 A.mp4
+│   ├── 0035. DBMS - Lecture 16 B.mp4
+│   ├── 0036. DBMS - Lecture 16 A.mp4
+│   ├── 0037. Indexing - Lecture 17 B.mp4
+│   ├── 0038. Indexing - Lecture 17 A.mp4
+│   ├── 0039. Indexing - Lecture 18 B.mp4
+│   ├── 0040. Indexing - Lecture 18 A.mp4
+│   ├── 0041. Transactions WBS.mp4
+│   ├── 0042. Transactions and Concurrency Control -Lecture 19 C.mp4
+│   ├── 0043. Transactions and Concurrency Control -Lecture 19 B.mp4
+│   ├── 0044. Transactions and Concurrency Control -Lecture 19 A.mp4
+│   ├── 0045. Transactions and Concurrency Control - Lecture 20 A.mp4
+│   ├── 0046. Transactions and Concurrency Control - Lecture 20 C.mp4
+│   ├── 0047. Transactions and Concurrency Control - Lecture 20 B.mp4
+│   ├── 0048. Transactions and Concurrency Control - Lecture 21 B.mp4
+│   └── 0049. Transactions and Concurrency Control - Lecture 21 A.mp4
+├── 0005. Operating System (B) - Live 2023 - CS - 08th March 2022
+│   ├── 0001. OS - Lecture 1.mp4
+│   ├── 0002. OS - Lecture 2.mp4
+│   ├── 0003. OS - Lecture 3.mp4
+│   ├── 0004. OS - Lecture 4.mp4
+│   ├── 0005. OS - Lecture 5 A.mp4
+│   ├── 0006. OS - Lecture 5 C.mp4
+│   ├── 0007. OS - Lecture 5 B.mp4
+│   ├── 0008. OS - Lecture 6 B.mp4
+│   ├── 0009. OS - Lecture 6 A.mp4
+│   ├── 0010. OS - Lecture 7.mp4
+│   ├── 0011. OS - Lecture 8.mp4
+│   ├── 0012. OS - WB Solution - Part A.mp4
+│   ├── 0013. OS - Lecture 9.mp4
+│   ├── 0014. OS - Lecture 10 B.mp4
+│   ├── 0015. OS - Lecture 10 A.mp4
+│   ├── 0016. OS - Lecture 11 B.mp4
+│   ├── 0017. OS - Lecture 11 A.mp4
+│   ├── 0018. OS - Lecture 12.mp4
+│   ├── 0019. OS - Lecture 13.mp4
+│   ├── 0020. OS - Lecture 14.mp4
+│   ├── 0021. OS - WB Solution - Part B.mp4
+│   ├── 0022. OS - Lecture 15.mp4
+│   ├── 0023. OS - Lecture 16.mp4
+│   ├── 0024. OS - Lecture 17 B.mp4
+│   ├── 0025. OS - Lecture 17 A.mp4
+│   ├── 0026. OS - Lecture 18 A.mp4
+│   ├── 0027. OS - WB Solution - Part C.mp4
+│   ├── 0028. OS - Lecture 18 C.mp4
+│   ├── 0029. OS - Lecture 18 B.mp4
+│   ├── 0030. OS - Lecture 19 B.mp4
+│   └── 0031. OS - Lecture 19 A.mp4
+├── 0006. TOC (S) - Live 2023 - CS - 29th March 2022
+│   ├── 0001. TOC - Lecture 1 B.mp4
+│   ├── 0002. TOC - Lecture 1 A.mp4
+│   ├── 0003. TOC - Lecture 2 B.mp4
+│   ├── 0004. TOC - Lecture 2 A.mp4
+│   ├── 0005. TOC - Lecture 3 B.mp4
+│   ├── 0006. TOC - Lecture 3 A.mp4
+│   ├── 0007. TOC - Lecture 4 B.mp4
+│   ├── 0008. TOC - Lecture 4 A.mp4
+│   ├── 0009. TOC - Lecture 5 A.mp4
+│   ├── 0010. TOC - Lecture 5 C.mp4
+│   ├── 0011. TOC - Lecture 5 B.mp4
+│   ├── 0012. TOC - Lecture 6 A.mp4
+│   ├── 0013. TOC - Lecture 6 C.mp4
+│   ├── 0014. TOC - Lecture 6 B.mp4
+│   ├── 0015. TOC - Lecture 7 B.mp4
+│   ├── 0016. TOC - Lecture 7 A.mp4
+│   ├── 0017. TOC - Lecture 8 B.mp4
+│   ├── 0018. TOC - Lecture 8 A.mp4
+│   ├── 0019. TOC - Lecture 9 B.mp4
+│   ├── 0020. TOC - Lecture 9 A.mp4
+│   ├── 0021. TOC - Lecture 10 B.mp4
+│   ├── 0022. TOC - Lecture 10 A.mp4
+│   ├── 0023. TOC - Lecture 11.mp4
+│   ├── 0024. TOC - Lecture 12 A.mp4
+│   ├── 0025. TOC - Lecture 12 B.mp4
+│   ├── 0026. TOC - Lecture 12 C.mp4
+│   ├── 0027. TOC - Lecture 13 A.mp4
+│   ├── 0028. TOC - Lecture 13 C.mp4
+│   ├── 0029. TOC - Lecture 13 B.mp4
+│   ├── 0030. TOC - Lecture 14 B.mp4
+│   ├── 0031. TOC - Lecture 14 A.mp4
+│   ├── 0032. TOC - Lecture 15 B.mp4
+│   ├── 0033. TOC - Lecture 15 A.mp4
+│   ├── 0034. TOC - Lecture 16 B.mp4
+│   ├── 0035. TOC - Lecture 16 A.mp4
+│   ├── 0036. TOC - Lecture 17 B.mp4
+│   ├── 0037. TOC - Lecture 17 A.mp4
+│   ├── 0038. TOC - Lecture 18 B.mp4
+│   ├── 0039. TOC Chp -2 ＆ 3_Workbook ＆ MSQ_Part - 2.mp4
+│   ├── 0040. TOC Chp -2 ＆ 3_Workbook ＆ MSQ_Part - 1.mp4
+│   ├── 0041. TOC Chp - 1_Workbook ＆ MSQ_Part - 3.mp4
+│   ├── 0042. TOC Chp - 1_Workbook ＆ MSQ_Part - 2.mp4
+│   ├── 0043. TOC Chp - 1_Workbook ＆ MSQ_Part - 1.mp4
+│   ├── 0044. TOC - Lecture 18 A.mp4
+│   ├── 0045. TOC - Lecture 19 A.mp4
+│   ├── 0046. TOC - Lecture 19 C.mp4
+│   ├── 0047. TOC - Lecture 19 B.mp4
+│   ├── 0048. TOC - Lecture 20 B.mp4
+│   ├── 0049. TOC - Lecture 20 A.mp4
+│   ├── 0050. TOC - Lecture 21 B.mp4
+│   ├── 0051. TOC - Lecture 21 A.mp4
+│   ├── 0052. TOC - Lecture 22 B.mp4
+│   ├── 0053. TOC - Lecture 22 A.mp4
+│   ├── 0054. TOC - Lecture 23 A.mp4
+│   ├── 0055. TOC - Lecture 23 C.mp4
+│   ├── 0056. TOC - Lecture 23 B.mp4
+│   ├── 0057. TOC - Lecture 24 B.mp4
+│   └── 0058. TOC - Lecture 24 A.mp4
+├── 0007. Compiler (P) - Live 2023 -  23rd April
+│   ├── 0001. CD - Lecture 1 A.mp4
+│   ├── 0002. CD - Lecture 1 B.mp4
+│   ├── 0003. CD - Lecture 2 A.mp4
+│   ├── 0004. CD - Lecture 2 B.mp4
+│   ├── 0005. CD - Lecture 2 C.mp4
+│   ├── 0006. CD - Lecture 2 D.mp4
+│   ├── 0007. Compiler Design - Workbook Solution 2023.mp4
+│   ├── 0008. CD - Lecture 3 B.mp4
+│   ├── 0009. CD - Lecture 3 A.mp4
+│   ├── 0010. CD - Lecture 4 B.mp4
+│   ├── 0011. CD - Lecture 4 A.mp4
+│   ├── 0012. CD - Lecture 5 B.mp4
+│   ├── 0013. CD - Lecture 5 A.mp4
+│   ├── 0014. CD - Lecture 6 B.mp4
+│   ├── 0015. CD - Lecture 6 A.mp4
+│   ├── 0016. CD - Lecture 7 B.mp4
+│   ├── 0017. CD - Lecture 7 A.mp4
+│   ├── 0018. CD - Lecture 8 A.mp4
+│   ├── 0019. CD - Lecture 8 B.mp4
+│   ├── 0020. CD - Lecture 9 A.mp4
+│   ├── 0021. CD - Lecture 9 B.mp4
+│   ├── 0022. CD - Lecture 9 C.mp4
+│   ├── 0023. CD - Lecture 10 B.mp4
+│   ├── 0024. CD - Lecture 10 A.mp4
+│   ├── 0025. CD - Lecture 11.mp4
+│   ├── 0026. CD - Lecture 12 B.mp4
+│   ├── 0027. CD - Lecture 12 A.mp4
+│   ├── 0028. CD workbook solutions 2023 Part 3.mp4
+│   ├── 0029. CD workbook solutions 2023 Part 2.mp4
+│   ├── 0030. CD - Lecture 13 B.mp4
+│   ├── 0031. CD - Lecture 13 A.mp4
+│   ├── 0032. CD - Lecture 14 B.mp4
+│   ├── 0033. CD - Lecture 14 A.mp4
+│   ├── 0034. CD workbook solutions 2023 Part 4.mp4
+│   └── 0035. CD workbook solutions 2023 Part 5.mp4
+├── 0008. Compiler (P) - Live 2023 -  23rd April | PDF
+│   └── 0001. Compiler Design - Workbook 2023.pdf
+├── 0009. Digital Logic (S) - Live 2023 - CS - 10th May
+│   ├── 0001. DL - Lecture 1 B.mp4
+│   ├── 0002. DL - Lecture 1 A.mp4
+│   ├── 0003. DL - Lecture 2 B.mp4
+│   ├── 0004. DL - Lecture 2 A.mp4
+│   ├── 0005. DL - Lecture 3 B.mp4
+│   ├── 0006. DL - Lecture 3 A.mp4
+│   ├── 0007. DL - Lecture 4 B.mp4
+│   ├── 0008. DL - Lecture 4 A.mp4
+│   ├── 0009. DL - Lecture 5 C.mp4
+│   ├── 0010. DL - Lecture 5 B.mp4
+│   ├── 0011. DL - Lecture 5 A.mp4
+│   ├── 0012. DL - Lecture 6 C.mp4
+│   ├── 0013. DL - Lecture 6 B.mp4
+│   ├── 0014. DL - Lecture 6 A.mp4
+│   ├── 0015. DL - Lecture 7 B.mp4
+│   ├── 0016. DL - Lecture 7 A.mp4
+│   ├── 0017. DL - Lecture 8 B.mp4
+│   ├── 0018. DL - Lecture 8 A.mp4
+│   ├── 0019. DL - Lecture 9 B.mp4
+│   ├── 0020. DL - Lecture 9 A.mp4
+│   ├── 0021. DL - Lecture 10 A.mp4
+│   ├── 0022. DL - Lecture 10 B.mp4
+│   ├── 0023. DL - Lecture 11 B.mp4
+│   ├── 0024. DL - Lecture 11 A.mp4
+│   ├── 0025. DL - Lecture 12 B.mp4
+│   ├── 0026. DL - Lecture 12 A.mp4
+│   ├── 0027. DL - Lecture 13 B.mp4
+│   ├── 0028. DL - Lecture 13 A.mp4
+│   ├── 0029. DL - Lecture 14 B.mp4
+│   ├── 0030. DL - Lecture 14 A.mp4
+│   ├── 0031. DL - Lecture 15 C.mp4
+│   ├── 0032. DL - Lecture 15 B.mp4
+│   ├── 0033. DL - Lecture 15 A.mp4
+│   ├── 0034. DL - Lecture 16 B.mp4
+│   ├── 0035. DL - Lecture 16 A.mp4
+│   ├── 0036. DL - Lecture 17 A.mp4
+│   ├── 0037. DL - Lecture 17 B.mp4
+│   └── 0038. DL - Lecture 18.mp4
+├── 0010. Computer Organization ＆ Architecture (S) - Live 2023 - CS - 30th May
+│   ├── 0001. COA - Lecture 1 B.mp4
+│   ├── 0002. COA - Lecture 1 A.mp4
+│   ├── 0003. COA - Lecture 2 B.mp4
+│   ├── 0004. COA - Lecture 2 A.mp4
+│   ├── 0005. COA - Lecture 3 B.mp4
+│   ├── 0006. COA - Lecture 3 A.mp4
+│   ├── 0007. COA - Lecture 4 B.mp4
+│   ├── 0008. COA - Lecture 4 A.mp4
+│   ├── 0009. COA - Lecture 5 B.mp4
+│   ├── 0010. COA - Lecture 5 A.mp4
+│   ├── 0011. COA - Lecture 6 C.mp4
+│   ├── 0012. COA - Lecture 6 B.mp4
+│   ├── 0013. COA - Lecture 6 A.mp4
+│   ├── 0014. COA - Lecture 7 A.mp4
+│   ├── 0015. COA - Lecture 7 C.mp4
+│   ├── 0016. COA - Lecture 7 B.mp4
+│   ├── 0017. COA - Lecture 8 B.mp4
+│   ├── 0018. COA - Lecture 8 A.mp4
+│   ├── 0019. COA - Lecture 9 B.mp4
+│   ├── 0020. COA - Lecture 9 A.mp4
+│   ├── 0021. COA - Lecture 10 B.mp4
+│   ├── 0022. COA - Lecture 10 A.mp4
+│   ├── 0023. COA WB Solutions - Part 3.mp4
+│   ├── 0024. COA WB Solutions - Part 1.mp4
+│   ├── 0025. COA WB Solutions - Part 2.mp4
+│   ├── 0026. COA - Lecture 11 B.mp4
+│   ├── 0027. COA - Lecture 11 A.mp4
+│   ├── 0028. COA - Lecture 12 B.mp4
+│   ├── 0029. COA - Lecture 12 A.mp4
+│   ├── 0030. COA - Lecture 13 A.mp4
+│   ├── 0031. COA - Lecture 13 C.mp4
+│   ├── 0032. COA - Lecture 13 B.mp4
+│   ├── 0033. COA - Lecture 14 B.mp4
+│   ├── 0034. COA - Lecture 14 A.mp4
+│   ├── 0035. COA - Lecture 15 B.mp4
+│   ├── 0036. COA - Lecture 15 A.mp4
+│   ├── 0037. COA - Lecture 16 B.mp4
+│   ├── 0038. COA - Lecture 16 A.mp4
+│   ├── 0039. COA - Lecture 17 B.mp4
+│   ├── 0040. COA - Lecture 17 A.mp4
+│   ├── 0041. COA - Lecture 18 A.mp4
+│   ├── 0042. COA - Lecture 18 B.mp4
+│   ├── 0043. COA - Lecture 19 B.mp4
+│   ├── 0044. COA - Lecture 19 A.mp4
+│   ├── 0045. COA - Lecture 20 B.mp4
+│   ├── 0046. COA - Lecture 20 A.mp4
+│   ├── 0047. COA - Lecture 21 A.mp4
+│   ├── 0048. COA - Lecture 21 B.mp4
+│   ├── 0049. COA - Lecture 22 B.mp4
+│   ├── 0050. COA - Lecture 22 A.mp4
+│   ├── 0051. COA - Lecture 23 B.mp4
+│   ├── 0052. COA - Lecture 23 A.mp4
+│   ├── 0053. COA - Lecture -24 B.mp4
+│   └── 0054. COA - Lecture -24 A.mp4
+├── 0011. Computer Organization ＆ Architecture (S) - Live 2023 - CS - 30th May | PDF
+│   ├── 0001. COA - WB Answer Keys.pdf
+│   └── 0002. COA WB Answer Keys.pdf
+├── 0012. English (KS) - All Streams - Live 2023 - 16th June
+│   ├── 0001. English - Lecture 9.mp4
+│   ├── 0002. English - Lecture 8 B.mp4
+│   ├── 0003. English - Lecture 8 A.mp4
+│   ├── 0004. English - Lecture 7.mp4
+│   ├── 0005. English - Lecture 6.mp4
+│   ├── 0006. English  Lecture 5.mp4
+│   ├── 0007. English - Lecture 4.mp4
+│   ├── 0008. English - Lecture 3.mp4
+│   ├── 0009. English - Lecture 2.mp4
+│   └── 0010. English - Lecture 1.mp4
+├── 0013. Programming ＆ Data Structures (B) - Live 2023 - CS - 26th June
+│   ├── 0001. PDS - Lecture 1 A.mp4
+│   ├── 0002. PDS - Lecture 1 B.mp4
+│   ├── 0003. PDS - Lecture 2 B.mp4
+│   ├── 0004. PDS - Lecture 2 A.mp4
+│   ├── 0005. PDS - Lecture 3 A.mp4
+│   ├── 0006. PDS - Lecture 3 B.mp4
+│   ├── 0007. PDS - Lecture 4 B.mp4
+│   ├── 0008. PDS - Lecture 4 A.mp4
+│   ├── 0009. PDS - Lecture 5 B.mp4
+│   ├── 0010. PDS - Lecture 5 A.mp4
+│   ├── 0011. PDS - Lecture 6 B.mp4
+│   ├── 0012. PDS - Lecture 6 A.mp4
+│   ├── 0013. PDS - Lecture 7 B.mp4
+│   ├── 0014. PDS - Lecture 7 A.mp4
+│   ├── 0015. PDS - Lecture 8 B.mp4
+│   ├── 0016. PDS - Lecture 8 A.mp4
+│   ├── 0017. PDS - Lecture 9 B.mp4
+│   ├── 0018. PDS - Lecture 9 A.mp4
+│   ├── 0019. PDS - Lecture 10 B.mp4
+│   ├── 0020. PDS - Lecture 10 A.mp4
+│   ├── 0021. PDS - Lecture 11 B.mp4
+│   ├── 0022. PDS - Lecture 11 A.mp4
+│   ├── 0023. PDS - Lecture 12 B.mp4
+│   ├── 0024. PDS - Lecture 12 A.mp4
+│   ├── 0025. PDS - Lecture 13 B.mp4
+│   ├── 0026. PDS - Lecture 13 A.mp4
+│   ├── 0027. PDS - Lecture 14 A.mp4
+│   ├── 0028. PDS - Lecture 14 B.mp4
+│   ├── 0029. DS Workbook - Part B.mp4
+│   ├── 0030. DS Workbook - Part A.mp4
+│   ├── 0031. PDS - Lecture 15 A.mp4
+│   ├── 0032. PDS - Lecture 15 B.mp4
+│   ├── 0033. PDS - Lecture 16 B.mp4
+│   ├── 0034. PDS - Lecture 16 A.mp4
+│   ├── 0035. PDS - Lecture 17 A.mp4
+│   ├── 0036. PDS - Lecture 17 C.mp4
+│   ├── 0037. PDS - Lecture 17 B.mp4
+│   ├── 0038. PDS - Lecture 18 A.mp4
+│   ├── 0039. PDS - Lecture 18 B.mp4
+│   ├── 0040. PDS - Lecture 19.mp4
+│   ├── 0041. PDS - Lecture 20 A.mp4
+│   ├── 0042. PDS - Lecture 20 B.mp4
+│   ├── 0043. PDS - Lecture 21 B.mp4
+│   ├── 0044. PDS - Lecture 21 A.mp4
+│   ├── 0045. PDS - Lecture 22 B.mp4
+│   └── 0046. PDS - Lecture 22 A.mp4
+├── 0014. Programming ＆ Data Structures (B) - Live 2023 - CS - 26th June | PDF
+│   ├── 0001. WORKBOOK-TREES.pdf
+│   ├── 0002. WORKBOOK - LINKED LIST STACK QUEUE HASHING.pdf
+│   └── 0003. Programming.pdf
+├── 0015. Reasoning ＆ Aptitude (A) - All Streams - Live 2023 - 26th June
+│   ├── 0001. R & A - Lecture 1.mp4
+│   ├── 0002. R & A - Lecture 2.mp4
+│   ├── 0003. R & A - Lecture 3 .mp4
+│   ├── 0004. R & A - Lecture 4.mp4
+│   ├── 0005. R & A - Lecture 5.mp4
+│   ├── 0006. R & A - Lecture 6.mp4
+│   ├── 0007. R & A - Lecture 7.mp4
+│   ├── 0008. PROBABILITY.mp4
+│   ├── 0009. ESE QUESTIONS.mp4
+│   ├── 0010. GATE QUESTIONS.mp4
+│   ├── 0011. WORKBOOK DOUBTS.mp4
+│   ├── 0012. R & A - Lecture 8.mp4
+│   ├── 0013. R & A - Lecture 9.mp4
+│   ├── 0014. R & A - Lecture 10.mp4
+│   ├── 0015. R & A - Lecture 11.mp4
+│   ├── 0016. R & A - Lecture 12.mp4
+│   ├── 0017. R & A - Lecture 13.mp4
+│   ├── 0018. R & A - Lecture 14.mp4
+│   ├── 0019. R & A - Lecture 15.mp4
+│   └── 0020. R & A - Lecture 16.mp4
+├── 0016. Engineering Mathematics (SG) - E - All Streams - Live 2023 - 15th July
+│   ├── 0001. EM - Lecture 1.mp4
+│   ├── 0002. EM - Lecture 2.mp4
+│   ├── 0003. EM - Lecture 3 A.mp4
+│   ├── 0004. EM - Lecture 3 B.mp4
+│   ├── 0005. EM - Lecture 4.mp4
+│   ├── 0006. EM - Lecture 5 A.mp4
+│   ├── 0007. EM - Lecture 5 B.mp4
+│   ├── 0008. EM - Lecture 6.mp4
+│   ├── 0009. EM - Lecture 7.mp4
+│   ├── 0010. EM - Lecture 8 (Calculus).mp4
+│   ├── 0011. EM - Lecture 9 (Mean Value Theorems).mp4
+│   ├── 0012. EM - Lecture 10 A (Maxima ＆ Minima).mp4
+│   ├── 0013. EM - Lecture 10 B ( Maxima ＆ Minima ).mp4
+│   ├── 0014. EM - Lecture 11 A (Maxima ＆ Minima).mp4
+│   ├── 0015. EM - Lecture 11 B (Integration).mp4
+│   ├── 0016. EM - lecture 12 B (Probability).mp4
+│   ├── 0017. EM - lecture 12 A (Integrals Part).mp4
+│   ├── 0018. EM - Lecture 12 C (Probability).mp4
+│   ├── 0019. EM - Lecture 13 B (Conditional Probability).mp4
+│   ├── 0020. EM - Lecture 13 A (Probability).mp4
+│   ├── 0021. EM - Lecture 14 A (Random variables - Part A).mp4
+│   ├── 0022. EM - Lecture 14 B(probality disturbution)- Part B).mp4
+│   ├── 0023. EM - Lecture 15 (Probability Distribution).mp4
+│   ├── 0024. EM - Lecture 16 (Applications of Integrations).mp4
+│   ├── 0025. EM - Lecture 17 A (Multiple Integrals).mp4
+│   ├── 0026. EM - Lecture 17 B (Multiple Integrals).mp4
+│   ├── 0027. EM - Lecture 18 A (Vector Calculus).mp4
+│   ├── 0028. EM - Lecture 18 B (Vector Calculus).mp4
+│   ├── 0029. EM - Lecture 19 A (Vector Calculus).mp4
+│   ├── 0030. EM - Lecture 19 B (Differential Equations).mp4
+│   ├── 0031. EM - Lecture 20 (Differential Equations).mp4
+│   ├── 0032. EM - Lecture 21 A (Differential Equations).mp4
+│   ├── 0033. EM - Lecture 21 B (Differential Equations).mp4
+│   ├── 0034. Heat , Wave and Laplace Equations.mp4
+│   ├── 0035. EM - Lecture 22 (Fourier Series).mp4
+│   ├── 0036. EM - Lecture 23 A (Numerical Methods).mp4
+│   ├── 0037. EM - Lecture 23 B (Numerical Methods).mp4
+│   ├── 0038. EM - INTERPOLATION.mp4
+│   ├── 0039. EM - Lecture 24 A (Complex Variables).mp4
+│   ├── 0040. EM - Lecture 24 B (Complex Variables).mp4
+│   ├── 0041. EM - Lecture 24 C (Complex Variables).mp4
+│   ├── 0042. EM - Lecture 25 (Complex Variables - 2).mp4
+│   ├── 0043. EM - Linear Transformations.mp4
+│   └── 0044. Workbook and PYQ Solutions.mp4
+├── 0017. Engineering Mathematics (SG) - E - All Streams - Live 2023 - 15th July | PDF
+│   └── 0001. Engg Mathematics Workbook.pdf
+├── 0018. Computer Network (R) - Live 2023 - CS - 20th July
+│   ├── 0001. CN - Lecture 1 B.mp4
+│   ├── 0002. CN - Lecture 1 A.mp4
+│   ├── 0003. CN - Lecture 2 B.mp4
+│   ├── 0004. CN - Lecture 2 A.mp4
+│   ├── 0005. CN - Lecture 3 B (Classless Addressing).mp4
+│   ├── 0006. CN - Lecture 3 A (Classless Addressing).mp4
+│   ├── 0007. CN - Lecture 4 A (Public IP and Private IP).mp4
+│   ├── 0008. CN - Lecture 4 B (Public IP and Private IP).mp4
+│   ├── 0009. CN - Lecture 5 A (Special Cases of IP Address).mp4
+│   ├── 0010. CN - Lecture 5 B (Special Cases of IP Address).mp4
+│   ├── 0011. CN - Lecture 6 A (Basic Concept Of CN).mp4
+│   ├── 0012. CN - Lecture 6 B (Basic Concept Of CN).mp4
+│   ├── 0013. CN - Lecture 7 A (Topologies, Flow Control Policies).mp4
+│   ├── 0014. CN - Lecture 7 B (Topologies, Flow Control Policies).mp4
+│   ├── 0015. CN Lecture 8 A Stop ＆ Wait ARQ, GO Back ARQ, Selective Repeat.mp4
+│   ├── 0016. CN Lecture 8 B Stop ＆ Wait ARQ, GO Back ARQ, Selective Repeat.mp4
+│   ├── 0017. CN Lecture 9 A Special Cases of GOBACK ARQ, Error Control Policies.mp4
+│   ├── 0018. CN Lecture 9 B Special Cases of GOBACK ARQ, Error Control Policies.mp4
+│   ├── 0019. CN - Lecture 10 A (Parity Scheme, Checksum, CRC).mp4
+│   ├── 0020. CN - Lecture 10 B (Parity Scheme, Checksum, CRC).mp4
+│   ├── 0021. CN - Lecture 11 A (Bit Stuffing, Netwoking Devices).mp4
+│   ├── 0022. CN Lecture 11 B MAC Layer, Pure Aloha Slotted Aloha.mp4
+│   ├── 0023. CN - Lecture 12 (Slotted Aloha and CSMA).mp4
+│   ├── 0024. CN - Lecture 13 (CSMACD, IEEE 802.3).mp4
+│   ├── 0025. CN - Lecture 14 A (CSMACA).mp4
+│   ├── 0026. CN - Lecture 14 B (IP Protocol Fragmentation).mp4
+│   ├── 0027. CN - Lecture 14 C (ICMP Protocol).mp4
+│   ├── 0028. CN - Lecture 15 B (Flooding, Distance Vector Routing).mp4
+│   ├── 0029. CN Lecture 15 A Traffic Shaping + Load Shedding + Options of.mp4
+│   ├── 0030. CN Lecture 15 C Link State Routing, Periodic timer, trigger.mp4
+│   ├── 0031. CN Lecture 16 A Distance vector with Poisson reverse, Hierarchical.mp4
+│   ├── 0032. CN Lecture 16 B TCP Header Flow Control Policies of TCP.mp4
+│   ├── 0033. CN - Lecture 16 C (Header - Fields of TCP).mp4
+│   ├── 0034. CN - Lecture 17 B (TCP Checksum Options ＆ Padding).mp4
+│   ├── 0035. CN - Lecture 17 A (TCP Checksum Options ＆ Padding).mp4
+│   ├── 0036. CN Lecture 18 A State Transitions of TCP, Silly Window Syndrome.mp4
+│   ├── 0037. CN - Lecture 18 C (Http, Firewall).mp4
+│   ├── 0038. CN Lecture 18 B Wrap Around Time, Congestion Algorithms of.mp4
+│   ├── 0039. CN - Lecture 19 A (DNS Protocol, SMTP Protocol).mp4
+│   ├── 0040. CN - Lecture 19 C (RARP,BOOTP,DHCP Protocols).mp4
+│   ├── 0041. CN Lecture 19 B FTP Protocol Active FTP ＆ Passive FTP.mp4
+│   ├── 0042. Computer Network WB Part 2.mp4
+│   └── 0043. Computer Network WB Part 1.mp4
+├── 0019. Discrete Mathematics (CS) - Live 2023 - CS - 6th Aug
+│   ├── 0001. DM - Lecture 1 A (Set Theory - Part A).mp4
+│   ├── 0002. DM - Lecture 1 B (Set Theory - Part B).mp4
+│   ├── 0003. DM - Lecture 1 C (Set Theory - Part C).mp4
+│   ├── 0004. DM - Lecture 2 A (Set Theory - Part A).mp4
+│   ├── 0005. DM - Lecture 2 B (Set Theory - Part B).mp4
+│   ├── 0006. DM - Lecture 2 C (Set Theory - Part C).mp4
+│   ├── 0007. DM - Lecture 2 D (Set Theory - Part D).mp4
+│   ├── 0008. DM - Lecture 3 B (Set Theory - Part F).mp4
+│   ├── 0009. DM - Lecture 3 A (Set Theory - Part E).mp4
+│   ├── 0010. DM - Lecture 4 A (Functions).mp4
+│   ├── 0011. DM - Lecture 4 B (Functions).mp4
+│   ├── 0012. DM - Lecture 5 B Set theory (Groups).mp4
+│   ├── 0013. DM - Lecture 5 A Set theory (Groups).mp4
+│   ├── 0014. DM - Lecture 6 A (Groups ＆ Graphs).mp4
+│   ├── 0015. DM - Lecture 6 B (Graphs).mp4
+│   ├── 0016. DM - Lecture 7 B (Graph Theory).mp4
+│   ├── 0017. DM - Lecture 7 A (Graph Theory).mp4
+│   ├── 0018. DM - Lecture 8 A (Matching Connectivity).mp4
+│   ├── 0019. DM - Lecture 8 B (Matching Connectivity).mp4
+│   ├── 0020. DM - Lecture 8 C (Matching Connectivity).mp4
+│   ├── 0021. DM - Lecture 9 A (Combinatorics).mp4
+│   ├── 0022. DM - Lecture 9 B (Combinatorics).mp4
+│   ├── 0023. DM - Lecture 9 C (Combinatorics).mp4
+│   ├── 0024. DM - Lecture 10 B (Combinatorics).mp4
+│   ├── 0025. DM - Lecture 10 A (Combinatorics).mp4
+│   ├── 0026. DM Lecture 11 A Combinatorics ＆ Mathematical Logic.mp4
+│   ├── 0027. DM - Lecture 11 B (Mathematical Logic).mp4
+│   ├── 0028. DM - Lecture 12 A (Mathematical Logic).mp4
+│   ├── 0029. DM - Lecture 12 B (Mathematical Logic).mp4
+│   └── 0030. DM - Lecture 13 (Mathematical Logic).mp4
+├── 0020. Discrete Mathematics (CS) - Live 2023 - CS - 6th Aug | PDF
+│   ├── 0001. WB Solutions - Propositional Logic.pdf
+│   └── 0002. WB Solutions - Combinatronics.pdf
+└── 0021. Algorithm (R) - Live 2023 - CS - 26th Aug
+    ├── 0001. Algo - Lecture 1 (Introduction Asymptotic Notations).mp4
+    ├── 0002. Algo - Lecture 2 B (Asymptotic Notations).mp4
+    ├── 0003. Algo - Lecture 2 A (Asymptotic Notations).mp4
+    ├── 0004. Algo - Lecture 3 B (Asymptotic Notations).mp4
+    ├── 0005. Algo - Lecture 3 A (Asymptotic Notations).mp4
+    ├── 0006. Algo - Lecture 4 (Time Complexity of Loops).mp4
+    ├── 0007. Algo - Lecture 5 A (Time Complexity of Loops).mp4
+    ├── 0008. Algo - Lecture 5 B (Time Complexity of Loops).mp4
+    ├── 0009. Algo - Lecture 6 B (SC of Recursive Algorithms).mp4
+    ├── 0010. Algo - Lecture 6 A (SC of Recursive Algorithms).mp4
+    ├── 0011. Algo - Lecture 7 A (TC of Recursive Algorithms).mp4
+    ├── 0012. Algo - Lecture 7 B (TC of Recursive Algorithms).mp4
+    ├── 0013. Algo - Lecture 8 B (TC of Recursive Algorithms).mp4
+    ├── 0014. Algo - Lecture 8 A (TC of Recursive Algorithms).mp4
+    ├── 0015. Algo Lecture 9 A Methods To Solve Recurrence Relations.mp4
+    ├── 0016. Algo Lecture 9 B Methods To Solve Recurrence Relations.mp4
+    ├── 0017. Algo - Lecture 10  (Master Methods).mp4
+    ├── 0018. Algo - Lecture 11 (Merge Sort).mp4
+    ├── 0019. Algo - Lecture 12 B (Merge Sort).mp4
+    ├── 0020. Algo - Lecture 12 A (Merge Sort).mp4
+    ├── 0021. Algo - Lecture 13 B (Merge Sort - 2, Max Min Algo).mp4
+    ├── 0022. Algo - Lecture 13 A (Merge Sort - 2, Max Min Algo).mp4
+    ├── 0023. Chp-4 - WB Solutions.mp4
+    ├── 0024. Chp-3 - WB Solutions.mp4
+    ├── 0025. Chp-2 - WB Solutions.mp4
+    ├── 0026. Chp-1 - WB Solutions.mp4
+    ├── 0027. Algo - Lecture 14 A (Quick Sort).mp4
+    ├── 0028. Algo - Lecture 14 B (Quick Sort).mp4
+    ├── 0029. Algo - Lecture 15 B (Binary Search).mp4
+    ├── 0030. Algo - Lecture 15 A (Quick Sort).mp4
+    ├── 0031. Algo - Lecture 16 A (Binary Search).mp4
+    ├── 0032. Algo - Lecture 16 B (Binary Trees).mp4
+    ├── 0033. Algo - Lecture 16 C (Binary Heap - MinMax heap).mp4
+    ├── 0034. Algo - Lecture 17 B (Binary Heap - MinMax heap).mp4
+    ├── 0035. Algo - Lecture 17 A (Binary Heap - MinMax heap).mp4
+    ├── 0036. Algo - Lecture 17 C (Greedy Dijkstras Algorithms).mp4
+    ├── 0037. Algo - Lecture 18 A (Dijkstras Algorithms).mp4
+    ├── 0038. Algo - Lecture 18 B (Bellman Ford Algorithms).mp4
+    ├── 0039. Algo - Lecture 19 A (MST - PrimsKruskals).mp4
+    ├── 0040. Algo - Lecture 19 B (MST - PrimsKruskals).mp4
+    ├── 0041. Algo - Lecture 20 A (Huffman Coding).mp4
+    ├── 0042. Algo - Lecture 20 B (Dynamic Program Introduction).mp4
+    ├── 0043. Algo - Lecture 21 B (Matrix Chain Multiplication).mp4
+    ├── 0044. Algo - Lecture 21 A (Dynamic Programming).mp4
+    ├── 0045. Algo - Lecture 22 B (Knapsack Problem).mp4
+    ├── 0046. Algo - Lecture 22 A (LCS Problem).mp4
+    ├── 0047. Algo - Lecture 23 B (Floyd-Warhshall Algorithm).mp4
+    ├── 0048. Algo - Lecture 23 A (Knapsack SOS Problem).mp4
+    ├── 0049. Algo - Lecture 23 C (Graph Traversal).mp4
+    ├── 0050. Algo - Lecture 24 A (Graph Traversals).mp4
+    ├── 0051. Algo - Lecture 24 B (Sorting Algorithms).mp4
+    └── 0052. Algo - Lecture 24 C (Sorting Algorithms).mp4
+
+21 directories, 545 files

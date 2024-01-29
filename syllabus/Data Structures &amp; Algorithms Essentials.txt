@@ -1,0 +1,249 @@
+Data Structures & Algorithms Essentials
+├── 01. Gearing Up
+│   ├── 01. Time and Space Complexity
+│   │   ├── 01. Introducing Time Complexity - coursedl.org.mp4
+│   │   ├── 02. Order of Expressions and Recurrence Relations - coursedl.org.mp4
+│   │   ├── 03. Interesting Code Snippets - coursedl.org.mp4
+│   │   └── 04. Space Complexity - coursedl.org.mp4
+│   ├── 02. Arrays
+│   │   ├── 01. Precomputation Techniques - coursedl.org.mp4
+│   │   ├── 02. Histogram Problem - coursedl.org.mp4
+│   │   ├── 03. Maximum Chunks - coursedl.org.mp4
+│   │   ├── 04. Rotate the Array - coursedl.org.mp4
+│   │   ├── 05. Sliding Window Technique - coursedl.org.mp4
+│   │   ├── 06. A Special Searching Problem - coursedl.org.mp4
+│   │   ├── 07. Array Rearrangement - coursedl.org.mp4
+│   │   └── 08. Array Rearrangement Alternate Technique - coursedl.org.mp4
+│   ├── 03. Recursion
+│   │   ├── 01. Basics of Recursion - coursedl.org.mp4
+│   │   ├── 02. Single Branch Recursion - coursedl.org.mp4
+│   │   ├── 03. Recursion Tree Diagram - coursedl.org.mp4
+│   │   ├── 04. Recursion Stack Diagram - coursedl.org.mp4
+│   │   ├── 05. Pass by Reference - coursedl.org.mp4
+│   │   ├── 06. Print from 1 to N - coursedl.org.mp4
+│   │   ├── 07. Distinct Paths  1 - coursedl.org.mp4
+│   │   ├── 08. Distinct Paths Alternate Implementation - coursedl.org.mp4
+│   │   ├── 09. Letter Combinations - coursedl.org.mp4
+│   │   ├── 10. Letter Combinations Saving Space - coursedl.org.mp4
+│   │   └── 11. All Subsets of a set - coursedl.org.mp4
+│   └── 04. Backtracking
+│       ├── 01. Permutations of a String  1 - coursedl.org.mp4
+│       ├── 02. Permutations of a String  2 - coursedl.org.mp4
+│       ├── 03. Permutations of a String  3 - coursedl.org.mp4
+│       ├── 04. NQueens - coursedl.org.mp4
+│       └── 05. Sudoku Solver - coursedl.org.mp4
+├── 02. Fundamental Algorithms
+│   ├── 01. Searching Algorithms
+│   │   ├── 01. Binary Search - coursedl.org.mp4
+│   │   ├── 02. Common Observations - coursedl.org.mp4
+│   │   ├── 03. First and Last Occurrence - coursedl.org.mp4
+│   │   ├── 04. Search in Sorted Rotated Array - coursedl.org.mp4
+│   │   ├── 05. Peak Element - coursedl.org.mp4
+│   │   ├── 06. Monotonic Functions - coursedl.org.mp4
+│   │   └── 07. Square Root - coursedl.org.mp4
+│   ├── 02. Sorting Algorithms
+│   │   ├── 01. Comparators and Stability - coursedl.org.mp4
+│   │   ├── 02. Custom Comparators - coursedl.org.mp4
+│   │   ├── 03. Custom Sorting - coursedl.org.mp4
+│   │   ├── 04. Insertion Sort - coursedl.org.mp4
+│   │   ├── 05. Bubble Sort - coursedl.org.mp4
+│   │   ├── 06. Dealing with Absolute Values - coursedl.org.mp4
+│   │   ├── 07. Next Greater Permutation - coursedl.org.mp4
+│   │   ├── 08. Merge Process - coursedl.org.mp4
+│   │   ├── 09. Applications of Merge Process - coursedl.org.mp4
+│   │   ├── 10. Merge Sort - coursedl.org.mp4
+│   │   ├── 11. Quick Sort - coursedl.org.mp4
+│   │   ├── 12. Space Efficient Partition - coursedl.org.mp4
+│   │   └── 13. Applications of Partition - coursedl.org.mp4
+│   ├── 03. Two Pointers
+│   │   ├── 01. Pair Sum1 - coursedl.org.mp4
+│   │   ├── 02. Pair Sum2 - coursedl.org.mp4
+│   │   ├── 03. Pair Difference - coursedl.org.mp4
+│   │   ├── 04. Subarray Sum - coursedl.org.mp4
+│   │   ├── 05. Triplet Sum - coursedl.org.mp4
+│   │   ├── 06. Quadruplet Sum - coursedl.org.mp4
+│   │   ├── 07. Longest Substring without repetition - coursedl.org.mp4
+│   │   └── 08. Smallest substring with all characters - coursedl.org.mp4
+│   └── 04. Bit Manipulation
+│       ├── 01. Bitwise Operators1 - coursedl.org.mp4
+│       ├── 02. Bitwise Operators2 - coursedl.org.mp4
+│       ├── 03. Using Bitwise Operators - coursedl.org.mp4
+│       ├── 04. Count of set bits - coursedl.org.mp4
+│       └── 05. Detecting odd one out - coursedl.org.mp4
+├── 03. Fundamental Data Structures
+│   ├── 01. Hashing
+│   │   ├── 01. What is Hashing - coursedl.org.mp4
+│   │   ├── 02. How Hashtables work - coursedl.org.mp4
+│   │   ├── 03. Using Hashtables and TreeMaps - coursedl.org.mp4
+│   │   ├── 04. Processing Queries - coursedl.org.mp4
+│   │   ├── 05. Check for a pair - coursedl.org.mp4
+│   │   ├── 06. Subarray with given sum - coursedl.org.mp4
+│   │   ├── 07. Longest Subarray with given sum - coursedl.org.mp4
+│   │   ├── 08. Count of Subarrays - coursedl.org.mp4
+│   │   ├── 09. Boolean Matrix - coursedl.org.mp4
+│   │   └── 10. Boolean Matrix2 - coursedl.org.mp4
+│   ├── 02. Stacks
+│   │   ├── 01. What is a Stack - coursedl.org.mp4
+│   │   ├── 02. Two Stacks in same Array - coursedl.org.mp4
+│   │   ├── 03. Push Bottom in a Stack - coursedl.org.mp4
+│   │   ├── 04. Reverse a Stack - coursedl.org.mp4
+│   │   ├── 05. Next Greater Element - coursedl.org.mp4
+│   │   ├── 06. Largest Area Rectangle - coursedl.org.mp4
+│   │   ├── 07. Design Min Stack - coursedl.org.mp4
+│   │   └── 08. Design Min Stack Efficiently - coursedl.org.mp4
+│   ├── 03. Queues and Dequeues
+│   │   ├── 01. What is a Queue - coursedl.org.mp4
+│   │   ├── 02. Circular Queue - coursedl.org.mp4
+│   │   ├── 03. Inbuilt Queue - coursedl.org.mp4
+│   │   ├── 04. Design Queue With Stacks - coursedl.org.mp4
+│   │   ├── 05. Design Queue With Stacks  2 - coursedl.org.mp4
+│   │   ├── 06. Design Stack With Queues - coursedl.org.mp4
+│   │   ├── 07. Reverse a Queue - coursedl.org.mp4
+│   │   ├── 08. Doublyended Queue - coursedl.org.mp4
+│   │   ├── 09. Maximum in Sliding Window - coursedl.org.mp4
+│   │   └── 10. Maximum in Sliding Window  2 - coursedl.org.mp4
+│   ├── 04. Linked Lists
+│   │   ├── 01. What is a Linked List - coursedl.org.mp4
+│   │   ├── 02. Basic Operations - coursedl.org.mp4
+│   │   ├── 03. Middle Node - coursedl.org.mp4
+│   │   ├── 04. Reverse Linked List Iteratively - coursedl.org.mp4
+│   │   ├── 05. Reverse Linked List Recursively - coursedl.org.mp4
+│   │   ├── 06. Cycle Detection  1 - coursedl.org.mp4
+│   │   ├── 07. Cycle Detection  2 - coursedl.org.mp4
+│   │   ├── 08. Cycle Detection  3 - coursedl.org.mp4
+│   │   ├── 09. Clone Linked List  1 - coursedl.org.mp4
+│   │   ├── 10. Clone Linked List  2 - coursedl.org.mp4
+│   │   ├── 11. Doubly Linked List - coursedl.org.mp4
+│   │   ├── 12. LRU Cache  1 - coursedl.org.mp4
+│   │   └── 13. LRU Cache  2 - coursedl.org.mp4
+│   ├── 05. Binary Trees
+│   │   ├── 01. What are Trees - coursedl.org.mp4
+│   │   ├── 02. Counting Nodes - coursedl.org.mp4
+│   │   ├── 03. Counting Leaves - coursedl.org.mp4
+│   │   ├── 04. Mirror Image of Binary Tree - coursedl.org.mp4
+│   │   ├── 05. Symmetric Binary Tree - coursedl.org.mp4
+│   │   ├── 06. Height of Binary Tree - coursedl.org.mp4
+│   │   ├── 07. Minimum Height of Binary Tree - coursedl.org.mp4
+│   │   ├── 08. Root to Leaf Paths - coursedl.org.mp4
+│   │   ├── 09. Diameter of Binary Tree  1 - coursedl.org.mp4
+│   │   ├── 10. Diameter of Binary Tree  2 - coursedl.org.mp4
+│   │   ├── 11. Diameter of Binary Tree  3 - coursedl.org.mp4
+│   │   ├── 12. Binary Tree to Doubly Linked List - coursedl.org.mp4
+│   │   ├── 13. Recursive Tree Traversals - coursedl.org.mp4
+│   │   ├── 14. Iterative Preorder Traversal - coursedl.org.mp4
+│   │   ├── 15. A Generic Tree Traversal Technique - coursedl.org.mp4
+│   │   ├── 16. Iterative Inorder Traversal without flag - coursedl.org.mp4
+│   │   ├── 17. Level Order Traversal - coursedl.org.mp4
+│   │   ├── 18. Left and Right Views of Binary Tree - coursedl.org.mp4
+│   │   ├── 19. Vertical Order Traversal  1 - coursedl.org.mp4
+│   │   ├── 20. Vertical Order Traversal  2 - coursedl.org.mp4
+│   │   ├── 21. Top and Bottom Views of Binary Tree - coursedl.org.mp4
+│   │   ├── 22. Binary Tree Reconstruction - coursedl.org.mp4
+│   │   ├── 23. Reconstructing Tree from given traversals  1 - coursedl.org.mp4
+│   │   ├── 24. Reconstructing Tree from given traversals  2 - coursedl.org.mp4
+│   │   ├── 25. Reconstructing Tree from Preorder traversal - coursedl.org.mp4
+│   │   ├── 26. LCA  1 - coursedl.org.mp4
+│   │   └── 27. LCA  2 - coursedl.org.mp4
+│   └── 06. Binary Search Trees
+│       ├── 01. What is a BST - coursedl.org.mp4
+│       ├── 02. Search in BST - coursedl.org.mp4
+│       ├── 03. Insert in BST - coursedl.org.mp4
+│       ├── 04. Delete in BST - coursedl.org.mp4
+│       ├── 05. Implementing Delete in BST - coursedl.org.mp4
+│       ├── 06. Kth smallest Node in BST - coursedl.org.mp4
+│       ├── 07. Check if a Binary Tree is BST  1 - coursedl.org.mp4
+│       ├── 08. Check if a Binary Tree is BST  2 - coursedl.org.mp4
+│       ├── 09. Check if a Binary Tree is BST  3 - coursedl.org.mp4
+│       ├── 10. Creating BST from Sorted Array - coursedl.org.mp4
+│       ├── 11. Largest BST in a Binary Tree - coursedl.org.mp4
+│       ├── 12. Reconstructing a BST - coursedl.org.mp4
+│       ├── 13. BST Iterator  1 - coursedl.org.mp4
+│       ├── 14. BST Iterator  2 - coursedl.org.mp4
+│       ├── 15. Pair Sum in BST - coursedl.org.mp4
+│       ├── 16. LCA in BST - coursedl.org.mp4
+│       ├── 17. BST Recovery  1 - coursedl.org.mp4
+│       └── 18. BST Recovery  2 - coursedl.org.mp4
+└── 04. Advanced DSA
+    ├── 01. Heaps
+    │   ├── 01. What is Heap - coursedl.org.mp4
+    │   ├── 02. Building a Max Heap  1 - coursedl.org.mp4
+    │   ├── 03. Building a Max Heap  2 - coursedl.org.mp4
+    │   ├── 04. Heap Operations - coursedl.org.mp4
+    │   ├── 05. Priority Queue - coursedl.org.mp4
+    │   ├── 06. Heap Sort - coursedl.org.mp4
+    │   ├── 07. Tying Ropes - coursedl.org.mp4
+    │   └── 08. Merge K sorted Arrays - coursedl.org.mp4
+    ├── 02. Greedy Algorithms
+    │   ├── 01. What is Greedy Algorithm - coursedl.org.mp4
+    │   ├── 02. Activity Selection  1 - coursedl.org.mp4
+    │   ├── 03. Activity Selection  2 - coursedl.org.mp4
+    │   ├── 04. Activity Selection  3 - coursedl.org.mp4
+    │   ├── 05. Fractional Knapsack Problem - coursedl.org.mp4
+    │   ├── 06. Median in Running Stream  1 - coursedl.org.mp4
+    │   └── 07. Median in Running Stream  2 - coursedl.org.mp4
+    ├── 03. Dynamic Programming
+    │   ├── 01. What is DP - coursedl.org.mp4
+    │   ├── 02. Top Bottom vs Bottom Top - coursedl.org.mp4
+    │   ├── 03. Staircase Problem - coursedl.org.mp4
+    │   ├── 04. Maximum Non Adjacent Sum  1 - coursedl.org.mp4
+    │   ├── 05. Maximum Non Adjacent Sum  2 - coursedl.org.mp4
+    │   ├── 06. Rod Cutting Problem - coursedl.org.mp4
+    │   ├── 07. Coin Change  1 - coursedl.org.mp4
+    │   ├── 08. Coin Change  2 - coursedl.org.mp4
+    │   ├── 09. Bottom Top For Coin Change  2 - coursedl.org.mp4
+    │   ├── 10. Space Optimised Coin Change  2 - coursedl.org.mp4
+    │   ├── 11. 01 Bounded Knapsack  1 - coursedl.org.mp4
+    │   ├── 12. 01 Bounded Knapsack  2 - coursedl.org.mp4
+    │   ├── 13. Longest Increasing Subsequence - coursedl.org.mp4
+    │   ├── 14. Longest Common Subsequence  1 - coursedl.org.mp4
+    │   ├── 15. Longest Common Subsequence  2 - coursedl.org.mp4
+    │   ├── 16. Printing Longest Common Subsequence - coursedl.org.mp4
+    │   ├── 17. Longest Palindromic Subsequence  1 - coursedl.org.mp4
+    │   ├── 18. Longest Palindromic Subsequence  2 - coursedl.org.mp4
+    │   ├── 19. Longest Palindromic Subsequence  3 - coursedl.org.mp4
+    │   ├── 20. Longest Palindromic Substring - coursedl.org.mp4
+    │   ├── 21. Edit Distance  1 - coursedl.org.mp4
+    │   ├── 22. Edit Distance  2 - coursedl.org.mp4
+    │   ├── 23. Matrix Chain Multiplication  1 - coursedl.org.mp4
+    │   └── 24. Matrix Chain Multiplication  2 - coursedl.org.mp4
+    ├── 04. Graphs
+    │   ├── 01. What is a Graph - coursedl.org.mp4
+    │   ├── 02. Important Terms for Graph - coursedl.org.mp4
+    │   ├── 03. Degree of a Node - coursedl.org.mp4
+    │   ├── 04. Graph Representation - coursedl.org.mp4
+    │   ├── 05. Breadth First Search - coursedl.org.mp4
+    │   ├── 06. BFS Tree - coursedl.org.mp4
+    │   ├── 07. Shortest Path in an Undirected Graph - coursedl.org.mp4
+    │   ├── 08. Knight Tour - coursedl.org.mp4
+    │   ├── 09. Closest Zero - coursedl.org.mp4
+    │   ├── 10. Rotten Oranges - coursedl.org.mp4
+    │   ├── 11. Depth First Search - coursedl.org.mp4
+    │   ├── 12. Number of Connected Components - coursedl.org.mp4
+    │   ├── 13. Number of Islands - coursedl.org.mp4
+    │   ├── 14. Capture Surrounded Regions - coursedl.org.mp4
+    │   ├── 15. Check Bipartite Graph - coursedl.org.mp4
+    │   ├── 16. Detect Cycle in Undirected Graph - coursedl.org.mp4
+    │   ├── 17. Detect Cycle in Directed Graph - coursedl.org.mp4
+    │   ├── 18. Topological Sorting - coursedl.org.mp4
+    │   ├── 19. Course Schedule - coursedl.org.mp4
+    │   ├── 20. Topological Sort in Alternate way - coursedl.org.mp4
+    │   ├── 21. Order of Characters - coursedl.org.mp4
+    │   ├── 22. Disjoint Set Union - coursedl.org.mp4
+    │   ├── 23. Optimised Union - coursedl.org.mp4
+    │   ├── 24. Min Spanning Tree  Kruskal Algorithm - coursedl.org.mp4
+    │   ├── 25. Strongly Connected Component - coursedl.org.mp4
+    │   ├── 26. Articulation Points - coursedl.org.mp4
+    │   ├── 27. Prim Algorithm  1 - coursedl.org.mp4
+    │   ├── 28. Prim Algorithm  2 - coursedl.org.mp4
+    │   └── 29. Dijkstra Algorithm - coursedl.org.mp4
+    └── 05. Tries
+        ├── 01. Prefix Match Problem - coursedl.org.mp4
+        ├── 02. Introduction to Tries - coursedl.org.mp4
+        ├── 03. Prefix Search in Trie - coursedl.org.mp4
+        ├── 04. Insertion in Tries - coursedl.org.mp4
+        ├── 05. Deletion in Tries - coursedl.org.mp4
+        ├── 06. Shortest Unique Prefixes - coursedl.org.mp4
+        ├── 07. Storing Binary Numbers in Tries - coursedl.org.mp4
+        └── 08. Maximum XOR in an Array - coursedl.org.mp4
+
+23 directories, 223 files

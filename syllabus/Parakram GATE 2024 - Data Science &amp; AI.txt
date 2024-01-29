@@ -1,0 +1,482 @@
+Parakram GATE 2024 - Data Science & AI
+├── Algorithms
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Introduction to Algorithms and Analysis
+│       │   ├── Introduction to Algorithms and Analysis 01 : Introduction to Algorithms and Analysis (Part-01).mp4
+│       │   ├── Introduction to Algorithms and Analysis 02 : Introduction to Algorithms and Analysis (Part-02).mp4
+│       │   ├── Introduction to Algorithms and Analysis 03 : Introduction to Algorithms and Analysis (Part-03).mp4
+│       │   ├── Introduction to Algorithms and Analysis 04 : Introduction to Algorithms and Analysis (Part-04).mp4
+│       │   ├── Introduction to Algorithms and Analysis 05 : Introduction to Algorithms and Analysis (Part-05).mp4
+│       │   ├── Introduction to Algorithms and Analysis 06 : Introduction to Algorithms and Analysis (Part-06).mp4
+│       │   ├── Introduction to Algorithms and Analysis 07 : Introduction to Algorithms and Analysis (Part-07).mp4
+│       │   ├── Introduction to Algorithms and Analysis 08 : Introduction to Algorithms and Analysis (Part-08).mp4
+│       │   ├── Introduction to Algorithms and Analysis 09 : Introduction to Algorithms and Analysis (Part-09).mp4
+│       │   └── Introduction to Algorithms and Analysis 10 : Introduction to Algorithms and Analysis (Part-10).mp4
+│       ├── CH 02 : Divide and Conquer
+│       │   ├── Divide and Conquer 01 : Divide and Conquer (Part-01).mp4
+│       │   ├── Divide and Conquer 02 : Divide and Conquer (Part-02).mp4
+│       │   ├── Divide and Conquer 03 : Divide and Conquer (Part-03).mp4
+│       │   ├── Divide and Conquer 04 : Divide and Conquer (Part-04).mp4
+│       │   └── Divide and Conquer 05 : Divide and Conquer (Part-05).mp4
+│       ├── CH 03 : Sorting Methods
+│       │   └── Sorting Methods (One Shot).mp4
+│       ├── CH 04 : Graph Algorithms
+│       │   ├── Graph Algorithms 01 : Graph Algorithms (Part-01).mp4
+│       │   └── Graph Algorithms 02 : Graph Algorithms (Part-02).mp4
+│       ├── CH 05 : Heap Algorithms
+│       │   ├── Heap Algorithms 01 : Heap Algorithms (Part-01).mp4
+│       │   ├── Heap Algorithms 02 : Heap Algorithms (Part-02).mp4
+│       │   └── Heap Algorithms 03 : Heap Algorithms (Part-03).mp4
+│       ├── CH 06 : Miscellaneous Topics
+│       │   ├── Miscellaneous Topics 01 : Miscellaneous Topics (Part-01).mp4
+│       │   ├── Miscellaneous Topics 02 : Miscellaneous Topics (Part-02).mp4
+│       │   ├── Miscellaneous Topics 03 : Miscellaneous Topics (Part-03).mp4
+│       │   ├── Miscellaneous Topics 04 : Miscellaneous Topics (Part-04).mp4
+│       │   ├── Miscellaneous Topics 05 : Miscellaneous Topics (Part-05).mp4
+│       │   ├── Miscellaneous Topics 06 : Miscellaneous Topics (Part-06).mp4
+│       │   ├── Miscellaneous Topics 07 : Miscellaneous Topics (Part-07).mp4
+│       │   ├── Miscellaneous Topics 08 : Miscellaneous Topics (Part-08).mp4
+│       │   ├── Miscellaneous Topics 09 : Miscellaneous Topics (Part-09).mp4
+│       │   ├── Miscellaneous Topics 10 : Miscellaneous Topics (Part-10).mp4
+│       │   ├── Miscellaneous Topics 11 : Miscellaneous Topics (Part-11).mp4
+│       │   └── Miscellaneous Topics 12 : Miscellaneous Topics (Part-12).mp4
+│       ├── Interactive Session || Video Only
+│       │   ├── Interactive Session 01 : By Khaleel Sir.mp4
+│       │   └── Interactive Session 02 : By Khaleel Sir.mp4
+│       └── Revision
+│           └── Revision (One Shot) || Extra Class || Download Option will be Provided Soon.mp4
+├── Artificial Intelligence
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : AI Foundations
+│       │   └── AI Foundations (One Shot).mp4
+│       ├── CH 02 : Searching Algorithms
+│       │   ├── Searching Algorithms 01: Searching Algorithms (Part 01).mp4
+│       │   └── Searching Algorithms 02: Searching Algorithms (Part 02).mp4
+│       ├── CH 03 : Adversarial
+│       │   └── Adversarial (One Shot).mp4
+│       └── CH 04 : Logics
+│           ├── Logics 01 : Certainty in AI.mp4
+│           ├── Logics 02 : Uncertainty in AI || Extra class.mp4
+│           └── Logics 03 : Uncertainty in AI (Part-2) || Extra class.mp4
+├── Calculus and Optimization
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       └── CH 01 : Single Variable Calculus
+│           ├── Single Variable Calculus 01 : Basic Functions and Graphs.mp4
+│           ├── Single Variable Calculus 02 : Limits and Continuity (Part 01).mp4
+│           ├── Single Variable Calculus 03 : Limits and Continuity (Part 02).mp4
+│           ├── Single Variable Calculus 04 : Limits and Continuity (Part 03).mp4
+│           ├── Single Variable Calculus 05 : Limits and Continuity (Part 04).mp4
+│           ├── Single Variable Calculus 06 : Differentiability of a function || Rescheduled @6:20PM.mp4
+│           ├── Single Variable Calculus 07 : Differentiability of a function (Part 02).mp4
+│           ├── Single Variable Calculus 08 : Taylor Series With One Variable.mp4
+│           ├── Single Variable Calculus 09 : Maxima and Minima || Rescheduled @12:15PM.mp4
+│           └── Single Variable Calculus 10 : Maxima and Minima (Part 02) || Extra Class.mp4
+├── C Programming
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH : 01 Data Types and Operators
+│       │   ├── Data types and operators 01 : Introduction to C Programming - 1 || (NO DPP).mp4
+│       │   ├── Data types and operators 02 : Introduction to C programming-2 || (NO DPP).mp4
+│       │   ├── Data types and operators 03: Data types and operators || NO DPP.mp4
+│       │   ├── Data types and operators 04: Operators.mp4
+│       │   └── Data types and operators 05 : operators 2.mp4
+│       ├── Ch-02 : Control Flow Statements
+│       │   ├── Control Flow Statements 01: decision control statement -1.mp4
+│       │   ├── Control Flow Statements 02: Iterative Statements-1.mp4
+│       │   ├── Control Flow Statements 03:  Iterative statement -2.mp4
+│       │   ├── Control Flow Statements 04 : Switch statement.mp4
+│       │   └── Control Flow Statements 05 : More about Loops || NO DPP.mp4
+│       ├── Ch-03 : Functions & Storage Classes
+│       │   ├── Functions & storage classes 01 : Functions-1.mp4
+│       │   ├── Functions & storage classes 02 : storage classes-1.mp4
+│       │   ├── Functions & storage classes 03 : storage classes-2.mp4
+│       │   ├── Functions & storage classes 04 : Recursion-1.mp4
+│       │   └── Functions & storage classes 05 : Recursion-1 || (NO DPP).mp4
+│       ├── Ch-04 : Arrays and Pointers
+│       │   ├── Arrays and pointers 01 : Arrays and pointers-1.mp4
+│       │   ├── Arrays and pointers 02 : Arrays and Pointers-2.mp4
+│       │   ├── Arrays and Pointers 03 : Arrays and Pointers-3.mp4
+│       │   ├── Arrays and Pointers 04 : Arrays and Pointers-4 || (No DPP).mp4
+│       │   ├── Arrays and pointers 05 : Arrays and Pointers-05.mp4
+│       │   ├── Arrays and pointers 06 : Arrays and pointers-06.mp4
+│       │   ├── Arrays and pointers 07 : Arrays and pointers Part-7 || (NO DPP).mp4
+│       │   └── Arrays and pointers 08 : Dynamic Memory Allocation || (No DPP).mp4
+│       ├── Ch-05 : String in C Programming
+│       │   ├── Strings 01 : Strings (Part -1).mp4
+│       │   └── Strings 02 : Strings (Part-2).mp4
+│       ├── Ch-06 : Structure and Union
+│       │   └── Structure and Union 01 : Structure and Union in C.mp4
+│       ├── Ch-07 : Miscellaneous Topics
+│       │   └── Miscellaneous 01 : Miscellaneous (Part-1) || (NO DPP).mp4
+│       └── Ch-08 : Doubts
+│           └── Doubts : Problem Solving (In One Shot) || (NO DPP) || (Extra Class).mp4
+├── Database Management System
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH-01: FD's & Normalization
+│       │   ├── FD's & Normalization 01 : Introduction Of RDBMS.mp4
+│       │   ├── FD's & Normalization 02 : Key Concepts & Finding Number of Candidate Keys.mp4
+│       │   ├── FD's & Normalization 03 : Membership set & Equality between FD Sets.mp4
+│       │   ├── FD's & Normalization 04 : Minimal Cover & Properties of Decomposition.mp4
+│       │   ├── FD's & Normalization 05 : Properties of Decomposition.mp4
+│       │   ├── FD's & Normalization 06 : Normal Form (Part - 01).mp4
+│       │   └── FD's & Normalization 07 : Normal Form ( Part -02 ).mp4
+│       ├── CH-02: Transaction & Concurrency Control
+│       │   ├── Transaction & Concurrency Control 01  : Transaction Concept.mp4
+│       │   ├── Transaction & Concurrency Control 02  : Serializable Schedule ( Conflict & view ).mp4
+│       │   ├── Transaction & Concurrency Control 03 : Finding Number of Conflict Serializable Schedule.mp4
+│       │   ├── Transaction & Concurrency Control 04  :  Recoverable  Schedule.mp4
+│       │   └── Transaction & Concurrency Control 05  : Lock Based Protocol.mp4
+│       ├── CH-03: ER Model
+│       │   ├── ER Model 01 : ER Model Concept & Conversion of ER Model to RDBMS.mp4
+│       │   ├── ER Model 02 : Foreign Key Concept.mp4
+│       │   └── ER Model 03 : Foreign Key Concept ||  Conversion of ER Model to RDBMS.mp4
+│       ├── CH-04: Query Language
+│       │   ├── Query Language 01  : Relational Algebra (Part-01) || Extra Class.mp4
+│       │   ├── Query Language 02  : Relational Algebra ( Part - 02 ).mp4
+│       │   ├── Query Language 03  : Structured Query Language (SQL) Part - 1.mp4
+│       │   └── Query Language 04  : Structured Query Language(SQL) Part  - 2.mp4
+│       ├── CH-04: Query Language by Vijay Sir
+│       │   ├── Query Language 01 : Query Language (Part-01) || (NO DPP).mp4
+│       │   ├── Query Language 02 : Query Language (Part-02) || (NO DPP).mp4
+│       │   ├── Query Language 03 : Query Language (Part-03) || (NO DPP).mp4
+│       │   ├── Query Language 04 : Query Language (Part-04) || (NO DPP).mp4
+│       │   ├── Query Language 05 : Query Language (Part-05).mp4
+│       │   ├── Query Language 06 : Query Language (Part-06) || (NO DPP).mp4
+│       │   ├── Query Language 07 : Query Language (Part-07) || (NO DPP).mp4
+│       │   ├── Query Language 08 : Query Language (Part-08).mp4
+│       │   └── Query Language 09 : Query Language (Part-09).mp4
+│       ├── CH-05: File Org & Indexing
+│       │   ├── File Org & Indexing 01 : File Org & Indexing  (Part - 1).mp4
+│       │   ├── File Org & Indexing 02  : File Org & Indexing (Part - 2).mp4
+│       │   └── File Org & Indexing 03  : Multi level indexing ( B Tree & B +Tree ) || (Extra class).mp4
+│       ├── CH-05: File Org & Indexing by Vijay Sir
+│       │   ├── File Org & Indexing 01 : File Org & Indexing (Part-01) || (NO DPP).mp4
+│       │   ├── File Org & Indexing 02 : File Org & Indexing (Part-02).mp4
+│       │   ├── File Org & Indexing 03 : File Org & Indexing (Part-03) || (NO DPP).mp4
+│       │   ├── File Org & Indexing 04 : File Org & Indexing (Part-04).mp4
+│       │   ├── File Org & Indexing 05 : File Org & Indexing (Part-05) || (NO DPP) || Rescheduled @ 09:30 AM.mp4
+│       │   └── File Org & Indexing 06 : File Org & Indexing (Part-06).mp4
+│       └── Interactive Session || Video Only
+│           ├── Interactive Session 01 : By Vijay Agarwal Sir || (Video Only) || (Rescheduled @02:05 PM).mp4
+│           └── Interactive Session 02 : By Vijay Agarwal Sir || (Video Only).mp4
+├── Data Structure & Programming
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH : Hashing
+│       │   ├── Hashing 01 : Hashing.mp4
+│       │   └── Hashing 02 : Hashing (Part-02).mp4
+│       ├── CH : Stack and Queues
+│       │   ├── Stack and Queues 01 : Stack and Queues (Part-01).mp4
+│       │   ├── Stack and Queues 02 : Stack and Queues  (Part-02).mp4
+│       │   ├── Stack and Queues 03 : Stack and Queues (Part-03).mp4
+│       │   ├── Stack and Queues 04 : Stack and Queues (Part-04).mp4
+│       │   ├── Stack and Queues 05 : Stack and Queues (Part-5).mp4
+│       │   └── Stack and Queues 06 : Stack and Queues (Part-6).mp4
+│       └── CH : Tree
+│           ├── Tree 01 : Tree.mp4
+│           ├── Tree 02 : Tree (Part-02).mp4
+│           ├── Tree 03 : Tree (Part-03).mp4
+│           ├── Tree 04 : Tree (Part-04).mp4
+│           ├── Tree 05 : Tree (Part-05).mp4
+│           ├── Tree 06 : Tree (Part-06).mp4
+│           ├── Tree 07 : Tree (Part-07).mp4
+│           ├── Tree 08 : Tree (Part-08).mp4
+│           └── Tree 09 : Tree (Part-09).mp4
+├── Discrete Mathematics
+│   ├── notes.zip
+│   └── videos
+│       └── Previous Content : Graph Theory
+│           ├── Graph Theory 01 : Basics of Graphs || (NO DPP).mp4
+│           ├── Graph Theory 02 : Degree Sequence in Graphs (Part- 01).mp4
+│           ├── Graph Theory 03 : Degree Sequence in Graphs Part- 02 || (NO DPP).mp4
+│           ├── Graph Theory 04 : Types of Graphs (Part-01).mp4
+│           ├── Graph Theory 05 : Types of Graphs (Part- 02).mp4
+│           ├── Graph Theory 06 : Types of Graphs (Part-03).mp4
+│           ├── Graph Theory 07 : Connectivity (Part-01).mp4
+│           ├── Graph Theory 08 : Connectivity (Part-02).mp4
+│           ├── Graph Theory 09 : Connectivity (Part-03).mp4
+│           ├── Graph Theory 10 : Chromatic Number || (NO DPP).mp4
+│           ├── Graph Theory 11 : Independent Set.mp4
+│           ├── Graph Theory 12 : Matching and Covering.mp4
+│           ├── Graph Theory 13 : Sub Graph & Operation || (NO DPP).mp4
+│           ├── Graph Theory 14 : Advance Topics in Graphs (Part- 01) || (NO DPP).mp4
+│           ├── Graph Theory 15 : Advance Topics In Graphs (Part-02) || (NO DPP).mp4
+│           └── Graph Theory 16 : Advance Topics in Graphs (Part-03) || (NO DPP).mp4
+├── General Aptitude
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Quantitative Aptitude(By Amulya Ratan Sir)
+│       │   ├── Quantitative Aptitude 01 : Averages || (NO DPP).mp4
+│       │   ├── Quantitative Aptitude 02 : Percentages.mp4
+│       │   ├── Quantitative Aptitude 03 : Profit and Loss.mp4
+│       │   ├── Quantitative Aptitude 04 : Mixture & Alligations.mp4
+│       │   ├── Quantitative Aptitude 05 : Counting Theory.mp4
+│       │   ├── Quantitative Aptitude 06 : Time and Work, Chain Rule || (Extra Class).mp4
+│       │   ├── Quantitative Aptitude 07 : Pipes and Cistern.mp4
+│       │   ├── Quantitative Aptitude 08 : Time and Distance.mp4
+│       │   ├── Quantitative Aptitude 09 : Boats, Trains & Races.mp4
+│       │   ├── Quantitative Aptitude 10 : Mensuration 2D and 3D || (NO DPP).mp4
+│       │   ├── Quantitative Aptitude 11 : Data Interpretation.mp4
+│       │   ├── Quantitative Aptitude 12 : Calendars.mp4
+│       │   ├── Quantitative Aptitude 13 : Clocks.mp4
+│       │   └── Quantitative Aptitude 14 : Number System || (Rescheduled @07:10 AM).mp4
+│       ├── CH 02 : Analytical Aptitude(By Amulya Ratan Sir)
+│       │   ├── Analytical Aptitude 01 : Blood Relations.mp4
+│       │   ├── Analytical Aptitude 02 : Directions & Coding Decoding.mp4
+│       │   ├── Analytical Aptitude 03 : Arrangements & Ranking.mp4
+│       │   ├── Analytical Aptitude 04 : Problem Solving.mp4
+│       │   ├── Analytical Aptitude 05 : Cubes and Dices.mp4
+│       │   └── Analytical Aptitude 06 : Venn Diagrams.mp4
+│       ├── CH 03 : Spatial Aptitude (By Amulya Ratan Sir)
+│       │   ├── Spatial Aptitude 01 : Formation of Images || Rescheduled @07:10 AM.mp4
+│       │   └── Spatial Aptitude 02 : Paper Folding & Cutting.mp4
+│       └── Navigation
+│           ├── New Update : Study Page (App) || (Only Video).mp4
+│           └── New Update : Study Page (Web) || (Only Video).mp4
+├── Linear Algebra
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       └── CH-01: Linear Algebra
+│           ├── Linear Algebra 01 : Linear Algebra (Part-01).mp4
+│           ├── Linear Algebra 02 : Linear Algebra (Part-02).mp4
+│           ├── Linear Algebra 03 : Linear Algebra (Part-03).mp4
+│           ├── Linear Algebra 04 : Linear Algebra (Part-04).mp4
+│           ├── Linear Algebra 05 : Linear Algebra (Part-05).mp4
+│           ├── Linear Algebra 06 : Linear Algebra (Part-06).mp4
+│           ├── Linear Algebra 07 : Linear Algebra (Part-07).mp4
+│           ├── Linear Algebra 08 : Linear Algebra (Part-08).mp4
+│           ├── Linear Algebra 09 : Linear Algebra (Part-09).mp4
+│           ├── Linear Algebra 10 : Linear Algebra (Part-10).mp4
+│           ├── Linear Algebra 11 : Linear Algebra (Part-11).mp4
+│           ├── Linear Algebra 12 : Linear Algebra (Part-12).mp4
+│           ├── Linear Algebra 13 : Linear Algebra (Part-13).mp4
+│           ├── Linear Algebra 14 : Linear Algebra (Part-14).mp4
+│           ├── Linear Algebra 15 : Linear Algebra (Part-15).mp4
+│           ├── Linear Algebra 16 : Linear Algebra (Part-16).mp4
+│           ├── Linear Algebra 17 : Linear Algebra (Part-17).mp4
+│           └── Linear Algebra 18 : Linear Algebra (Part-18) || EXTRA CLASS || (Recorded).mp4
+├── Machine Learning
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Supervised Learning
+│       │   ├── Supervised Learning 01 : Supervised Learning (Part - 01).mp4
+│       │   ├── Supervised Learning  02 : Supervised Learning (Part - 02).mp4
+│       │   ├── Supervised Learning  03 : Supervised Learning  (Part - 03).mp4
+│       │   ├── Supervised Learning  04 : Supervised Learning  (Part - 04).mp4
+│       │   ├── Supervised Learning  05 : Supervised Learning  (Part - 05).mp4
+│       │   └── Supervised Learning  06 : Supervised Learning  (Part - 06).mp4
+│       ├── CH 02 : Unsupervised Learning
+│       │   ├── Unsupervised Learning  01 : Unsupervised Learning  (Part - 01).mp4
+│       │   └── Unsupervised Learning  02 : Unsupervised Learning  (Part - 02).mp4
+│       ├── CH 03 : Artificial Neural Network
+│       │   └── Artificial Neural Network : Artificial Neural Network (One Shot).mp4
+│       └── CH 04 : Practical Implementation
+│           ├── Practical Implementation 01 : Practical Implementation (Part 01) || Extra Class.mp4
+│           └── Practical Implementation 02 : Practical Implementation (Part 02) || Extra Class.mp4
+├── Notices
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Batch Demo Videos
+│       │   ├── Demo Lecture by Amulya Rattan.mp4
+│       │   ├── Demo Lecture by Khaleel Ur Rahman Khan.mp4
+│       │   ├── Demo Lecture by Pankaj Sharma.mp4
+│       │   ├── Demo Lecture by Rahul Sir.mp4
+│       │   ├── Demo Lecture by Vijay Agarwal Sir.mp4
+│       │   ├── Important Update : Dark Mode.mp4
+│       │   ├── New Feature Update : Audio Mode.mp4
+│       │   ├── New feature update : Chat Template.mp4
+│       │   ├── New Feature Update : Notes Feature in Video Player.mp4
+│       │   ├── New Study Page : KT Video || (Video Only).mp4
+│       │   └── New Update : Study Page (App).mp4
+│       ├── Interactive Session || Video Only
+│       │   └── Interactive Session by Ankit Doyla sir.mp4
+│       ├── Linear Algebra by Rahul Sir
+│       │   ├── Linear Algebra 01 : Linear Algebra (Part 01) || (Extra class) || (Recorded).mp4
+│       │   ├── Linear Algebra 02 : Linear Algebra (Part 02) || (Extra class) || (Recorded).mp4
+│       │   ├── Linear Algebra 03 : Linear Algebra (Part 03) || (Extra class) || (Recorded).mp4
+│       │   ├── Linear Algebra 04 : Linear Algebra (Part 04) || (Extra class) || (Recorded).mp4
+│       │   ├── Linear Algebra 05 : Linear Algebra (Part 05) || (Extra class) || (Recorded).mp4
+│       │   ├── Linear Algebra 06 : Linear Algebra (Part 06) || (Extra class) || (Recorded).mp4
+│       │   ├── Linear Algebra 07 : Linear Algebra (Part 07) || (Extra class) || (Recorded).mp4
+│       │   └── Linear Algebra 08 : Linear Algebra (Part 08) || (Extra class) || (Recorded).mp4
+│       └── Test Discussion
+│           ├── Algorithms : Weekly Test 03 Discussion.mp4
+│           ├── Algorithms : Weekly Test 04 Discussion.mp4
+│           ├── Algorithm : Weekly Test 01 Discussion.mp4
+│           ├── Algorithm : Weekly Test 02 Discussion.mp4
+│           ├── Calculus and Optimization : Weekly Test 01 Discussion.mp4
+│           ├── C Programming : Weekly Test 01 Discussion.mp4
+│           ├── C Programming : Weekly Test 02 Discussion.mp4
+│           ├── General Aptitude : Weekly Test 01 Discussion.mp4
+│           ├── Linear Algebra : Weekly Test 01 Discussion.mp4
+│           ├── Linear Algebra : Weekly Test 02 Discussion.mp4
+│           ├── Linear Algebra : Weekly Test 03 Discussion.mp4
+│           └── Probability and Statistics : Weekly Test 04 Discussion.mp4
+├── Probability and Statistics
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── Ch-01 : Counting Techniques
+│       │   ├── Counting Techniques 01 : Counting Techniques (Part-01).mp4
+│       │   ├── Counting Techniques 02 : Counting Techniques (Part-02) || (Rescheduled @01:30 PM).mp4
+│       │   └── Counting Techniques 03 : Counting Techniques (Part-03) || (Rescheduled @12:00 PM).mp4
+│       ├── Ch-02 : Introduction to Probability
+│       │   ├── Introduction to Probability 01 : Introduction to Probability (Part-01) || (Rescheduled @03:00PM).mp4
+│       │   ├── Introduction to Probability 02 : Introduction to Probability (Part-02) || (Rescheduled @11:00 AM).mp4
+│       │   ├── Introduction to Probability 03 : Introduction to Probability (Part-03) || (Rescheduled @01:30 PM).mp4
+│       │   ├── Introduction to Probability 04 : Introduction to Probability (Part-04) || (Rescheduled @11:00 AM).mp4
+│       │   ├── Introduction to Probability 05 : Introduction to Probability (Part-05) || (Rescheduled @01:30 PM).mp4
+│       │   └── Introduction to Probability 06 : Introduction to Probability (Part-06) || (Rescheduled @11:00AM).mp4
+│       ├── Ch-03 : Random Variables
+│       │   ├── Random Variable 03 : Expectation of Random Variable (One Dimensional).mp4
+│       │   ├── Random Variable 04 : Problem Based On Expectation.mp4
+│       │   ├── Random Variables 01 : Random Variables (Part-01) || (Rescheduled @01:30PM).mp4
+│       │   ├── Random Variables 02 : Random Variables (Part-02).mp4
+│       │   ├── Random Variables 05 : Max and Min of Random Variables || (Extra Class).mp4
+│       │   └── Random Variables 06 : Max and Min of Random Variables (Part-02) || Extra Class || Recorded.mp4
+│       ├── Ch-04 : Bivariate Random Variable
+│       │   ├── Bivariate Random Variable 01 : Bivariate Random Variable.mp4
+│       │   ├── Bivariate Random Variable 02 : Bivariate Discrete Random Variables Continued.mp4
+│       │   ├── Bivariate Random Variable 03 : Problems Based on One Dimensional Random Variable.mp4
+│       │   ├── Bivariate Random Variable 04 : Problems based on Bivariate Random Variable.mp4
+│       │   ├── Bivariate Random Variable 05 : Bivariate Continuous Random Variable.mp4
+│       │   ├── Bivariate Random Variable 06 : Bivariate Continuous Random Variable (Part-02).mp4
+│       │   ├── Bivariate Random Variable 07 : Bivariate Continuous Random Variable (Part-03).mp4
+│       │   └── Bivariate Random Variable 08 : Questions Based On Bivariate Continuous Random Variable.mp4
+│       ├── Ch-05 : Discrete Probability Distribution
+│       │   ├── Discrete Probability Distribution 01 : Discrete Probability Distribution (Part-01).mp4
+│       │   ├── Discrete Probability Distribution 02 : Discrete Probability Distribution (Part-02).mp4
+│       │   ├── Discrete Probability Distribution 03 : Discrete Probability Distribution (Part-03).mp4
+│       │   ├── Discrete Probability Distribution 04 : Discrete Probability Distribution (Part-04).mp4
+│       │   ├── Discrete Probability Distribution 05 : Discrete Probability Distribution (Part-05).mp4
+│       │   ├── Discrete Probability Distribution 06 : Discrete Probability Distribution (Part-06).mp4
+│       │   └── Discrete Probability Distribution 07 : Discrete Probability Distribution (Part-07).mp4
+│       ├── Ch-06 : Continuous Probability Distribution
+│       │   ├── Continuous Probability Distribution 01 : Continuous Probability Distribution (Part-01).mp4
+│       │   ├── Continuous Probability Distribution 02 : Continuous Probability Distribution (Part-02).mp4
+│       │   ├── Continuous Probability Distribution 03 : Continuous Probability Distribution (Part-03) || Rescheduled @10:45 AM.mp4
+│       │   ├── Continuous Probability Distribution 04 : Continuous Probability Distribution (Part-04).mp4
+│       │   ├── Continuous Probability Distribution 05 : Continuous Probability Distribution (Part-05).mp4
+│       │   ├── Continuous Probability Distribution 06 : Continuous Probability Distribution (Part-06).mp4
+│       │   ├── Continuous Probability Distribution 07 : Continuous Probability Distribution (Part-07).mp4
+│       │   └── Continuous Probability Distribution 08 : Continuous Probability Distribution (Part-08).mp4
+│       ├── Ch-07 : Introduction to Sampling Distribution
+│       │   ├── Introduction to Sampling Distribution 01 : Introduction to Sampling Distribution (Part-01).mp4
+│       │   ├── Introduction to Sampling Distribution 02 : Introduction to Sampling Distribution (Part-02).mp4
+│       │   ├── Introduction to Sampling Distribution 03 : Introduction to Sampling Distribution (Part-03).mp4
+│       │   ├── Introduction to Sampling Distribution 04 : Introduction to Sampling Distribution (Part-04).mp4
+│       │   └── Introduction to Sampling Distribution 05 : Introduction to Sampling Distribution (Part-05).mp4
+│       ├── Ch-08 : Testing of Hypothesis
+│       │   ├── Testing of Hypothesis 01 : Testing of Hypothesis (Part-01) || (Extra Class).mp4
+│       │   └── Testing of Hypothesis 02 : Testing of Hypothesis (Part-02) || (Extra Class).mp4
+│       └── Introduction Session
+│           └── Introduction Session by Rahul Joshi Sir (One Shot).mp4
+├── Python-For Data Science
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Language Fundamentals
+│       │   ├── Language Fundamentals 01 : Language Fundamentals (Part 01).mp4
+│       │   ├── Language Fundamentals 02 : Language Fundamentals (Part 02).mp4
+│       │   └── Language Fundamentals 03 : Language Fundamentals (Part 03).mp4
+│       ├── CH 02 : Operators
+│       │   ├── Operators 01 : Operators (Part 01).mp4
+│       │   └── Operators 02 : Operators (Part 02).mp4
+│       ├── CH 03 : Flow Control Statements
+│       │   ├── Flow Control Statements 01 : Flow Control Statements (Part 01).mp4
+│       │   ├── Flow Control Statements 02 : Flow Control Statements (Part 02).mp4
+│       │   ├── Flow Control Statements 03 : Flow Control Statements (Part 03).mp4
+│       │   └── Flow Control Statements 04 : Flow Control Statements (Part 04) || (Rescheduled @04:25 PM).mp4
+│       ├── CH 04 : String
+│       │   ├── String 01 : String (Part 01) || (Extra Class).mp4
+│       │   └── String 02 : String (Part 02) || (Extra Class).mp4
+│       ├── CH 05 : List
+│       │   ├── List 01 : List (Part 01).mp4
+│       │   └── List 02 : List (Part 02).mp4
+│       ├── CH 06 : Set & Tuple
+│       │   └── Set & Tuple (One Shot).mp4
+│       ├── CH 07 : Dictionary
+│       │   ├── Dictionary 01 : Dictionary (Part-01).mp4
+│       │   └── Dictionary 02 : Dictionary (Part-02).mp4
+│       ├── CH 08 : Functions
+│       │   ├── Functions 01 : Functions (Part-01).mp4
+│       │   ├── Functions 02 : Functions (Part-02).mp4
+│       │   └── Functions 03 : Functions (Part-03).mp4
+│       ├── CH 09 : OOPs
+│       │   ├── OOPs 01 : OOPs (Part 01).mp4
+│       │   ├── OOPs 02 : OOPs (Part 02).mp4
+│       │   ├── OOPs 03 : OOPs (Part 03).mp4
+│       │   ├── OOPs 04 : OOPs (Part 04).mp4
+│       │   └── OOPs 05 : OOPs (Part 05).mp4
+│       ├── CH 10 : Linked List
+│       │   ├── Linked List 01 : Linked List (Part 01).mp4
+│       │   ├── Linked List 02 : Linked List (Part 02).mp4
+│       │   └── Linked List 03 : Linked List (Part 03).mp4
+│       ├── CH 11 : Stack and Queue
+│       │   ├── Stack and Queue 01 : Stack and Queue (Part-01) || (Rescheduled @ 04:10 PM).mp4
+│       │   ├── Stack and Queue 02 : Stack and Queue (Part-02) || (Rescheduled @ 09:00 PM).mp4
+│       │   └── Stack and Queue 03 : Stack and Queue (Part 03) || (Extra Class).mp4
+│       ├── CH 12 : Binary Tree
+│       │   ├── Binary Tree 01 : Binary Tree (Part 01).mp4
+│       │   ├── Binary Tree 02 : Binary Tree (Part 02).mp4
+│       │   ├── Binary Tree 03 : Binary Tree (Part 03).mp4
+│       │   └── Binary Tree 04 : Binary Tree (Part 04).mp4
+│       ├── CH 13 : Numpy
+│       │   ├── Numpy 01 : Numpy (Part 01).mp4
+│       │   ├── Numpy 02 : Numpy (Part 02).mp4
+│       │   └── Numpy 03 : Numpy (Part 03).mp4
+│       └── CH 14 : Pandas
+│           └── Pandas (One Shot).mp4
+├── Starter Kit
+│   ├── notes.zip
+│   └── videos
+│       ├── App Navigation
+│       │   └── App Navigation.mp4
+│       ├── Doubt Resolution
+│       │   └── Doubt Resolution.mp4
+│       └── Mitra's Welcome Video
+│           └── Mitra's Welcome Video.mp4
+├── Verbal Aptitude
+│   ├── DppNotes.zip
+│   ├── notes.zip
+│   └── videos
+│       ├── CH 01 : Parts of Speech
+│       │   ├── Parts of Speech 01 : Parts of Speech (Part-01) || NO DPP || (Rescheduled @7:20AM).mp4
+│       │   └── Parts of Speech 02 : Parts of Speech (Part-02) || (Rescheduled @ 07:25AM).mp4
+│       ├── CH 02 : Vocabulary
+│       │   ├── Vocabulary 01 : Vocabulary (Part-01) || NO DPP.mp4
+│       │   └── Vocabulary 02 : Vocabulary (Part-02).mp4
+│       └── CH 03 : Reading Comprehension & Miscellaneous
+│           └── Reading Comprehension & Miscellaneous (One Shot).mp4
+└── Warehousing
+    ├── DppNotes.zip
+    ├── notes.zip
+    └── videos
+        ├── CH 01 : Introduction of Data Warehousing
+        │   └── Introduction of Data Warehousing (One Shot) || (Recorded).mp4
+        ├── CH 02 : Data Transformation
+        │   └── Data Transformation (One Shot) || (Recorded).mp4
+        ├── CH 03 : Data Warehouse Modelling
+        │   └── Data Warehouse Modelling (One Shot) || (Recorded).mp4
+        ├── CH 04 : Schema for Multidimensional Data Models
+        │   └── Schema for Multidimensional Data Models (One Shot) || (Recorded).mp4
+        ├── CH 05 : Concept Hierarchies
+        │   └── Concept Hierarchies (One Shot) || (Recorded).mp4
+        └── CH 06 : Measures - Categorization and Computation
+            └── Measures - Categorization and Computations (One Shot) || (Recorded).mp4
+
+113 directories, 366 files

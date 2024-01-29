@@ -1,0 +1,184 @@
+Begin with C and C++
+├── 01. Basics of C programming
+│   ├── 01. Introduction to Programming
+│   │   ├── 01. What is Programming - coursedl.org.mp4
+│   │   ├── 02. Running a Program - coursedl.org.mp4
+│   │   └── 03. Understanding a small Program - coursedl.org.mp4
+│   ├── 02. Datatypes
+│   │   ├── 01. Fundamental Datatypes - coursedl.org.mp4
+│   │   ├── 02. Integer Overflows - coursedl.org.mp4
+│   │   ├── 03. TypeCasting - coursedl.org.mp4
+│   │   ├── 04. Ascii Codes - coursedl.org.mp4
+│   │   └── 05. Precision Issues - coursedl.org.mp4
+│   ├── 03. Input Output
+│   │   ├── 01. Printing Output - coursedl.org.mp4
+│   │   └── 02. Reading Input - coursedl.org.mp4
+│   ├── 04. Operators
+│   │   ├── 01. Basic Arithmetic Operators - coursedl.org.mp4
+│   │   ├── 02. Modulo Operator - coursedl.org.mp4
+│   │   ├── 03. Increment and Decrement - coursedl.org.mp4
+│   │   ├── 04. Evaluation of Expression - coursedl.org.mp4
+│   │   ├── 05. Assignment Operators - coursedl.org.mp4
+│   │   ├── 06. Relational Operators - coursedl.org.mp4
+│   │   ├── 07. Logical Operators - coursedl.org.mp4
+│   │   └── 08. Swapping with and without extra variable - coursedl.org.mp4
+│   └── 05. Decision Making
+│       ├── 01. Intro to Decision Making - coursedl.org.mp4
+│       ├── 02. Simple If - coursedl.org.mp4
+│       ├── 03. Multiple Statements in Simple If - coursedl.org.mp4
+│       ├── 04. Carefully writing If conditions - coursedl.org.mp4
+│       ├── 05. If Else - coursedl.org.mp4
+│       ├── 06. Multiple If Else - coursedl.org.mp4
+│       ├── 07. Else If Ladder - coursedl.org.mp4
+│       ├── 08. Nested If Else - coursedl.org.mp4
+│       ├── 09. Finding Maximum - coursedl.org.mp4
+│       └── 10. Finding Second Maximum - coursedl.org.mp4
+├── 02. Problem Solving in C
+│   ├── 01. Loops
+│   │   ├── 01. Intro to Loops - coursedl.org.mp4
+│   │   ├── 02. While Loop - coursedl.org.mp4
+│   │   ├── 03. Infinite Loop - coursedl.org.mp4
+│   │   ├── 04. Printing Natural Numbers - coursedl.org.mp4
+│   │   ├── 05. Printing Odds and Evens - coursedl.org.mp4
+│   │   ├── 06. Predict the Output - coursedl.org.mp4
+│   │   ├── 07. Printing Multiplication Table - coursedl.org.mp4
+│   │   ├── 08. Factorial of N - coursedl.org.mp4
+│   │   ├── 09. All Factors of N - coursedl.org.mp4
+│   │   ├── 10. Prime Testing - coursedl.org.mp4
+│   │   ├── 11. Sum of Digits of N - coursedl.org.mp4
+│   │   ├── 12. Digits Pattern - coursedl.org.mp4
+│   │   ├── 13. Reverse Digits Pattern - coursedl.org.mp4
+│   │   ├── 14. Nested While Loops - coursedl.org.mp4
+│   │   ├── 15. Printing Stars - coursedl.org.mp4
+│   │   ├── 16. Predict Output in Nested Loop  1 - coursedl.org.mp4
+│   │   ├── 17. Predict Output in Nested Loop  2 - coursedl.org.mp4
+│   │   ├── 18. Printing Pyramid - coursedl.org.mp4
+│   │   ├── 19. Strong Number - coursedl.org.mp4
+│   │   ├── 20. Strong Numbers in a range - coursedl.org.mp4
+│   │   ├── 21. GCD of Two Numbers - coursedl.org.mp4
+│   │   ├── 22. LCM of Two Numbers - coursedl.org.mp4
+│   │   ├── 23. Intro to break keyword - coursedl.org.mp4
+│   │   ├── 24. More on break - coursedl.org.mp4
+│   │   ├── 25. Intro to For Loop - coursedl.org.mp4
+│   │   ├── 26. Nth Fibonacci Number - coursedl.org.mp4
+│   │   ├── 27. A Special Series - coursedl.org.mp4
+│   │   ├── 28. Fractional Terms in a series - coursedl.org.mp4
+│   │   ├── 29. Sum of terms  1 - coursedl.org.mp4
+│   │   ├── 30. Sum of terms  2 - coursedl.org.mp4
+│   │   ├── 31. Nested For Loop - coursedl.org.mp4
+│   │   ├── 32. More on For Loop - coursedl.org.mp4
+│   │   ├── 33. Continue keyword - coursedl.org.mp4
+│   │   ├── 34. Math Library - coursedl.org.mp4
+│   │   ├── 35. Power Function - coursedl.org.mp4
+│   │   ├── 36. Reverse a Number  1 - coursedl.org.mp4
+│   │   ├── 37. Reverse a Number  2 - coursedl.org.mp4
+│   │   └── 38. Absolute Values - coursedl.org.mp4
+│   ├── 02. Arrays
+│   │   ├── 01. Intro to Arrays - coursedl.org.mp4
+│   │   ├── 02. Working with Arrays - coursedl.org.mp4
+│   │   ├── 03. Right usage of Array  1 - coursedl.org.mp4
+│   │   ├── 04. Right usage of Array  2 - coursedl.org.mp4
+│   │   ├── 05. Copying an Array - coursedl.org.mp4
+│   │   ├── 06. Printing in reverse order - coursedl.org.mp4
+│   │   ├── 07. Reversing an Array - coursedl.org.mp4
+│   │   ├── 08. Max in Array - coursedl.org.mp4
+│   │   ├── 09. Insert in Array - coursedl.org.mp4
+│   │   ├── 10. Delete in Array - coursedl.org.mp4
+│   │   ├── 11. Frequency of an Element - coursedl.org.mp4
+│   │   ├── 12. Frequency of Array Elements - coursedl.org.mp4
+│   │   ├── 13. Pairs with given sum - coursedl.org.mp4
+│   │   ├── 14. Pairs with given sum  2 - coursedl.org.mp4
+│   │   ├── 15. Triplets with given sum - coursedl.org.mp4
+│   │   ├── 16. Selection Sort - coursedl.org.mp4
+│   │   ├── 17. Bubble Sort - coursedl.org.mp4
+│   │   └── 18. Insertion Sort - coursedl.org.mp4
+│   ├── 03. Two Dimensional Arrays
+│   │   ├── 01. Intro to 2D Arrays - coursedl.org.mp4
+│   │   ├── 02. Scanning Data in 2D Arrays - coursedl.org.mp4
+│   │   ├── 03. Adding two Matrices - coursedl.org.mp4
+│   │   ├── 04. Diagonals in Matrix - coursedl.org.mp4
+│   │   ├── 05. Lower and Upper Triangular Parts - coursedl.org.mp4
+│   │   ├── 06. Initialising a 2D Array with values - coursedl.org.mp4
+│   │   ├── 07. Transpose of a Matrix - coursedl.org.mp4
+│   │   ├── 08. Multiplication of Matrices - coursedl.org.mp4
+│   │   └── 09. Multidimensional Arrays - coursedl.org.mp4
+│   └── 04. Strings
+│       ├── 01. Character Array - coursedl.org.mp4
+│       ├── 02. Scanning and Printing Strings - coursedl.org.mp4
+│       ├── 03. Length of a String - coursedl.org.mp4
+│       ├── 04. Vowels in a String - coursedl.org.mp4
+│       ├── 05. Uppercasing a String - coursedl.org.mp4
+│       ├── 06. Sorting a String - coursedl.org.mp4
+│       ├── 07. Copy a String - coursedl.org.mp4
+│       ├── 08. Comparing Strings - coursedl.org.mp4
+│       ├── 09. String to Number - coursedl.org.mp4
+│       ├── 10. Pattern Matching - coursedl.org.mp4
+│       ├── 11. 2D Character Array - coursedl.org.mp4
+│       ├── 12. Length of every String - coursedl.org.mp4
+│       ├── 13. Inbuilt String Functions - coursedl.org.mp4
+│       └── 14. More String Functions - coursedl.org.mp4
+├── 03. Pointers and Structures
+│   ├── 01. Pointers
+│   │   ├── 01. Address of Variables - coursedl.org.mp4
+│   │   ├── 02. First Encounter with Pointer - coursedl.org.mp4
+│   │   ├── 03. Data Manipulation using Pointers - coursedl.org.mp4
+│   │   ├── 04. Predict the output - coursedl.org.mp4
+│   │   ├── 05. How not to use Address operator - coursedl.org.mp4
+│   │   ├── 06. Intro to Pointer Arithmetic - coursedl.org.mp4
+│   │   ├── 07. More on Pointer Arithmetic - coursedl.org.mp4
+│   │   ├── 08. Base Address of Array - coursedl.org.mp4
+│   │   ├── 09. Constant Pointer - coursedl.org.mp4
+│   │   ├── 10. Pointer to Pointer - coursedl.org.mp4
+│   │   ├── 11. Array of Pointers - coursedl.org.mp4
+│   │   ├── 12. Using Pointer like Arrays - coursedl.org.mp4
+│   │   ├── 13. Interpreting a 2D Array - coursedl.org.mp4
+│   │   ├── 14. Analogy with 2D Arrays - coursedl.org.mp4
+│   │   └── 15. Pointers and Strings - coursedl.org.mp4
+│   ├── 02. Functions
+│   │   ├── 01. Code Redundancy - coursedl.org.mp4
+│   │   ├── 02. Parameters and Return Types - coursedl.org.mp4
+│   │   ├── 03. Control Flow in Function Calls - coursedl.org.mp4
+│   │   ├── 04. Pass by Value and Pass by Reference - coursedl.org.mp4
+│   │   ├── 05. Some Code Snippets - coursedl.org.mp4
+│   │   ├── 06. Passing an Array - coursedl.org.mp4
+│   │   ├── 07. Alternate Way to pass Array - coursedl.org.mp4
+│   │   ├── 08. Returning an Array - coursedl.org.mp4
+│   │   └── 09. Passing a 2D Array - coursedl.org.mp4
+│   └── 03. Structures
+│       ├── 01. Intro to Structures - coursedl.org.mp4
+│       ├── 02. Alternate Declaration and Initialisation - coursedl.org.mp4
+│       ├── 03. Addition of Structure Variables - coursedl.org.mp4
+│       ├── 04. Array of Structs - coursedl.org.mp4
+│       ├── 05. Sorting an Array of Structs - coursedl.org.mp4
+│       ├── 06. Nested Structures - coursedl.org.mp4
+│       ├── 07. Size of Structures - coursedl.org.mp4
+│       ├── 08. Relationship among Structures - coursedl.org.mp4
+│       └── 09. Pointer to Structures - coursedl.org.mp4
+└── 04. Transitioning from C to C++
+    └── 01. Transitioning from C to C++
+        ├── 01. C to C - coursedl.org.mp4
+        ├── 02. Watermelon - coursedl.org.mp4
+        ├── 03. Young Physicist - coursedl.org.mp4
+        ├── 04. Wrong Subtraction - coursedl.org.mp4
+        ├── 05. Intro to Vectors - coursedl.org.mp4
+        ├── 06. Vector Functions - coursedl.org.mp4
+        ├── 07. Vector Iteration - coursedl.org.mp4
+        ├── 08. Presents - coursedl.org.mp4
+        ├── 09. Arrival of the General - coursedl.org.mp4
+        ├── 10. Arrival of the General  2 - coursedl.org.mp4
+        ├── 11. Beautiful Matrix - coursedl.org.mp4
+        ├── 12. Pairs - coursedl.org.mp4
+        ├── 13. Games - coursedl.org.mp4
+        ├── 14. Strings - coursedl.org.mp4
+        ├── 15. Way Too Long Words - coursedl.org.mp4
+        ├── 16. Queue at School - coursedl.org.mp4
+        ├── 17. DYZ loves chessboard - coursedl.org.mp4
+        ├── 18. Unordered Map - coursedl.org.mp4
+        ├── 19. Ordered Map - coursedl.org.mp4
+        ├── 20. Unordered Set - coursedl.org.mp4
+        ├── 21. Ordered Set - coursedl.org.mp4
+        ├── 22. Make Them Odd - coursedl.org.mp4
+        ├── 23. Radio Station - coursedl.org.mp4
+        └── 24. Tom Riddle Diary - coursedl.org.mp4
+
+17 directories, 164 files

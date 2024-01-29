@@ -1,0 +1,38 @@
+HLD - High Level System Design
+├── 001. Class 1 - Client Server Architecture and Networking.mp4
+├── 002. Class 2 - Networking (Short Polling, Long Polling, WebSockets, SSEs).mp4
+├── 003. Class 3 - Monolith, Microservices, gRPC, Webhooks.mp4
+├── 004. Class 4 - CAP Theorem.mp4
+├── 005. Class 5 - MsgQueues, PubSub, Kafka.mp4
+├── 006. Class 6 - Caching, Load Balancing.mp4
+├── 007. Class 7 - Intro to data storage, Sharding, Scaling, Consistent Hashing.mp4
+├── 008. Class 8 - MongoDB, Neo4j, InfluxDB, Cassandra.mp4
+├── 009. Class 9 - Distributed Transactions, SQL DB, BLOB.mp4
+├── 010. Class 10 - Capacity Estimation, Revision.mp4
+├── 011. Class 11 - GraphQL, API Design, Rate Limiting, Pagination, Filtering.mp4
+├── 012. Class 12 - Auth, Logging, Monitoring.mp4
+├── 013. Class 13 - Whatsapp System Design.mp4
+├── 014. Class 14 - YouTube System Design.mp4
+├── 015. Class 15 - Uber, Zerodha Mock Interview.mp4
+└── Notes
+    ├── Class 10 - Capacity Estimation Cheatsheet.pdf
+    ├── Class 11 - Pagination, Filtering, Rate Limiting.pdf
+    ├── Class 11 -REST  APIs.pdf
+    ├── Class 12 - Auth.pdf
+    ├── Class 12 - Heartbeat, ELK.pdf
+    ├── Class 1 - HTTP HTTPS.pdf
+    ├── Class 1- TCP UDP.pdf
+    ├── Class 2 - Polling WS SSE.pdf
+    ├── Class 3 - Monolith Microservices gRPC webhook.pdf
+    ├── Class 4 - CAP Theorem.pdf
+    ├── Class 5 - MsgQueues, PubSub, Kafka.pdf
+    ├── Class 6 - Caching.pdf
+    ├── Class 6 - Proxies, Load Balancers.pdf
+    ├── Class 7 - Scaling, Sharding, Consistent Hashing.pdf
+    ├── Class 7 - Types of Data Stores.pdf
+    ├── Class 8 - MongoDB, Neo4j, InfluxDB, Cassandra.pdf
+    ├── Class 9 - Distributed Transactions, ACID, BLOB.pdf
+    ├── HLD Interview Cheatsheet.pdf
+    └── Raw Class Notes.pdf
+
+1 directory, 34 files

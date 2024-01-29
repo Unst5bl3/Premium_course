@@ -1,0 +1,884 @@
+madeeasy: ESE + GATE 2023 Live Online Course (L18 Batch) : Electrical Engineering (H)
+├── 0001. Promotional Video (NEXT IAS)
+│   └── 0001. Promotional Video (NEXT IAS).mp4
+├── 0002. WORKBOOK 2023 - EE | PDF
+│   ├── 0001. Reasoning and Aptitude.pdf
+│   ├── 0002. English.pdf
+│   ├── 0003. Engineering Mathematics.pdf
+│   ├── 0004. Analog Electronics WB.pdf
+│   ├── 0005. Digital Electronics WB.pdf
+│   ├── 0006. Electrical Circuits WB.pdf
+│   ├── 0007. Control System WB.pdf
+│   ├── 0008. Power Systems WB.pdf
+│   ├── 0009. Signals and Systems WB.pdf
+│   ├── 0010. Electrical Machine WB.pdf
+│   ├── 0011. EMT WB.pdf
+│   ├── 0012. Measurements WB.pdf
+│   ├── 0013. Power Electronics and Devices WB.pdf
+│   ├── 0014. Communication WB.pdf
+│   ├── 0015. Electrical Materials WB.pdf
+│   ├── 0016. Computer Fundamentals WB.pdf
+│   └── 0017. Microprocessors WB.pdf
+├── 0003. Electrical Machines (M) - EE - Extra
+│   └── 0001. Special Motors.mp4
+├── 0004. Power Electronics (J) - Live 2023 - EE - 10th May
+│   ├── 0001. Workbook Chapter 5.mp4
+│   ├── 0002. PE - Lecture 24 B.mp4
+│   ├── 0003. PE - Lecture 24 A.mp4
+│   ├── 0004. Workbook Chapter 4.mp4
+│   ├── 0005. PE - Lecture 23 B.mp4
+│   ├── 0006. PE - Lecture 23 A.mp4
+│   ├── 0007. PE - Lecture 22 B.mp4
+│   ├── 0008. PE - Lecture 22 A.mp4
+│   ├── 0009. PE - Lecture 21 B.mp4
+│   ├── 0010. PE - Lecture 21 A.mp4
+│   ├── 0011. Workbook Chapter 3.mp4
+│   ├── 0012. PE - Lecture 20 C.mp4
+│   ├── 0013. PE - Lecture 20 B.mp4
+│   ├── 0014. PE - Lecture 20 A.mp4
+│   ├── 0015. PE - Lecture 19 C.mp4
+│   ├── 0016. PE - Lecture 19 B.mp4
+│   ├── 0017. PE - Lecture 19 A.mp4
+│   ├── 0018. PE - Lecture 18 B.mp4
+│   ├── 0019. PE - Lecture 18 A.mp4
+│   ├── 0020. PE - Lecture 17 B.mp4
+│   ├── 0021. PE - Lecture 17 A.mp4
+│   ├── 0022. Workbook Chapter 2.mp4
+│   ├── 0023. PE - Lecture 16 B.mp4
+│   ├── 0024. PE - Lecture 16 A.mp4
+│   ├── 0025. PE - Lecture 15 B.mp4
+│   ├── 0026. PE - Lecture 15 A.mp4
+│   ├── 0027. PE - Lecture 14 B.mp4
+│   ├── 0028. PE - Lecture 14 A.mp4
+│   ├── 0029. PE - Lecture 13 C.mp4
+│   ├── 0030. PE - Lecture 13 B.mp4
+│   ├── 0031. PE - Lecture 13 A.mp4
+│   ├── 0032. PE - Lecture 12 C.mp4
+│   ├── 0033. PE - Lecture 12 B.mp4
+│   ├── 0034. PE - Lecture 12 A.mp4
+│   ├── 0035. PE - Lecture 11 B.mp4
+│   ├── 0036. PE - Lecture 11 A.mp4
+│   ├── 0037. PE - Lecture 10 B.mp4
+│   ├── 0038. PE - Lecture 10 A.mp4
+│   ├── 0039. PE - Lecture 9 B.mp4
+│   ├── 0040. PE - Lecture 9 A.mp4
+│   ├── 0041. Workbook Chapter 1.mp4
+│   ├── 0042. PE - Lecture 8 B.mp4
+│   ├── 0043. PE - Lecture 8 A.mp4
+│   ├── 0044. PE - Lecture 7 B.mp4
+│   ├── 0045. PE - Lecture 7 A.mp4
+│   ├── 0046. PE - Lecture 6 B.mp4
+│   ├── 0047. PE - Lecture 6 A.mp4
+│   ├── 0048. PE - Lecture 5 B.mp4
+│   ├── 0049. PE - Lecture 5 A.mp4
+│   ├── 0050. PE - Lecture 4 B.mp4
+│   ├── 0051. PE - Lecture 4 A.mp4
+│   ├── 0052. PE - Lecture 2 B New.mp4
+│   ├── 0053. PE - Lecture 2 A New.mp4
+│   ├── 0054. PE - Lecture 3 B.mp4
+│   ├── 0055. PE - Lecture 3 A.mp4
+│   └── 0056. PE - Lecture 1.mp4
+├── 0005. Power Electronics (J) - Live 2023 - EE - 10th May | PDF
+│   └── 0001. PE - Class Notes.pdf
+├── 0006. Power System II (BP) - EE - Live 2023 - 8th June
+│   ├── 0001. Remaining Part of Fault and Workbook solution.mp4
+│   ├── 0002. Fault Analysis (WB Discussion).mp4
+│   ├── 0003. PS - Lecture 17 B.mp4
+│   ├── 0004. PS - Lecture 17 A.mp4
+│   ├── 0005. PS - Lecture 16 B.mp4
+│   ├── 0006. PS - Lecture 16 A.mp4
+│   ├── 0007. PS - Lecture 15 B.mp4
+│   ├── 0008. PS - Lecture 15 A.mp4
+│   ├── 0009. PS - Lecture 14.mp4
+│   ├── 0010. PS - Lecture 13 B.mp4
+│   ├── 0011. PS - Lecture 13 A.mp4
+│   ├── 0012. PS - Lecture 12 B.mp4
+│   ├── 0013. PS - Lecture 12 A.mp4
+│   ├── 0014. PS - Lecture 11 B.mp4
+│   ├── 0015. PS - Lecture 11 A.mp4
+│   ├── 0016. PS - Lecture 10 B.mp4
+│   ├── 0017. PS - Lecture 10 A.mp4
+│   ├── 0018. PS - Lecture 9 B.mp4
+│   ├── 0019. PS - Lecture 9 A.mp4
+│   ├── 0020. PS - Lecture 8 B.mp4
+│   ├── 0021. PS - Lecture 8 A.mp4
+│   ├── 0022. PS - Lecture 7 B.mp4
+│   ├── 0023. PS - Lecture 7 A.mp4
+│   ├── 0024. PS - Lecture 6 B.mp4
+│   ├── 0025. PS - Lecture 6 A.mp4
+│   ├── 0026. PS - Lecture 5 C.mp4
+│   ├── 0027. PS - Lecture 5 B.mp4
+│   ├── 0028. PS - Lecture 5 A.mp4
+│   ├── 0029. PS - Lecture 4 C.mp4
+│   ├── 0030. PS - Lecture 4 B.mp4
+│   ├── 0031. PS - Lecture 4 A.mp4
+│   ├── 0032. PS - Lecture 3 B.mp4
+│   ├── 0033. PS - Lecture 3 A.mp4
+│   ├── 0034. PS - Lecture 2 B.mp4
+│   ├── 0035. PS - Lecture 2 A.mp4
+│   ├── 0036. PS - Lecture 1.mp4
+│   ├── 0037. PS - Lecture 18 B.mp4
+│   ├── 0038. PS - Lecture 18 A.mp4
+│   ├── 0039. PS - Lecture 19 A.mp4
+│   ├── 0040. PS - Lecture 19 B.mp4
+│   ├── 0041. PS - Lecture 20 B.mp4
+│   ├── 0042. PS - Lecture 20 A.mp4
+│   ├── 0043. PS - Lecture 21 A.mp4
+│   ├── 0044. PS - Lecture 21 B.mp4
+│   ├── 0045. PS - Lecture 21 C.mp4
+│   ├── 0046. PS - Lecture 22 A.mp4
+│   ├── 0047. PS - Lecture 22 C.mp4
+│   ├── 0048. PS - Lecture 22 B.mp4
+│   ├── 0049. PS - Lecture 23 B.mp4
+│   ├── 0050. PS - Lecture 23 A .mp4
+│   ├── 0051. PS - Lecture 24 .mp4
+│   ├── 0052. PS - Lecture 25 A.mp4
+│   ├── 0053. PS - Lecture 25 B.mp4
+│   ├── 0054. PS - Lecture 26 A .mp4
+│   ├── 0055. PS - Lecture 26 B.mp4
+│   ├── 0056. PS - Lecture 27 A.mp4
+│   ├── 0057. PS - Lecture 27 B.mp4
+│   ├── 0058. PS - Lecture 28 A.mp4
+│   ├── 0059. PS - Lecture 28 B.mp4
+│   ├── 0060. PS - Lecture 28 C.mp4
+│   ├── 0061. PS - Lecture 29 A.mp4
+│   ├── 0062. PS - Lecture 29 B.mp4
+│   ├── 0063. PS - Lecture 30 A.mp4
+│   ├── 0064. PS - Lecture 30 B .mp4
+│   ├── 0065. PS - Lecture 31 A .mp4
+│   ├── 0066. PS - Lecture 31 B.mp4
+│   ├── 0067. PS - Lecture 32 - R - (Last Lecture).mp4
+│   ├── 0068. Transient Stability Improving Method.mp4
+│   ├── 0069. Stability WB Discussion.mp4
+│   └── 0070. Load Flow (WB Discussion).mp4
+├── 0007. English (KS) - All Streams - Live 2023 - 16th June
+│   ├── 0001. English - Lecture 9.mp4
+│   ├── 0002. English - Lecture 8 B.mp4
+│   ├── 0003. English - Lecture 8 A.mp4
+│   ├── 0004. English - Lecture 7.mp4
+│   ├── 0005. English - Lecture 6.mp4
+│   ├── 0006. English  Lecture 5.mp4
+│   ├── 0007. English - Lecture 4.mp4
+│   ├── 0008. English - Lecture 3.mp4
+│   ├── 0009. English - Lecture 2.mp4
+│   └── 0010. English - Lecture 1.mp4
+├── 0008. Power System I (BL) - EE - Live 2023 - 26th June
+│   ├── 0001. PS I - Lecture 2.mp4
+│   ├── 0002. PS I - Lecture 1.mp4
+│   ├── 0003. PS I - Lecture 3.mp4
+│   ├── 0004. PS I - Lecture 4.mp4
+│   ├── 0005. PS I - Lecture 5.mp4
+│   ├── 0006. PS l - Lecture 6.mp4
+│   ├── 0007. PS I - Lecture 7.mp4
+│   ├── 0008. PS I - Lecture 8.mp4
+│   ├── 0009. PS I - Lecture 9 .mp4
+│   ├── 0010. PS I - Lecture 11.mp4
+│   ├── 0011. PS I - Lecture 10.mp4
+│   ├── 0012. Workbook Chapter 3.mp4
+│   ├── 0013. Workbook Chapter 2.mp4
+│   ├── 0014. PS I - Lecture 12 B.mp4
+│   ├── 0015. PS I - Lecture 12 A.mp4
+│   ├── 0016. PS I - Lecture 13.mp4
+│   ├── 0017. PS I - Lecture 14 C.mp4
+│   ├── 0018. PS I - Lecture 14 B.mp4
+│   ├── 0019. PS I - Lecture 14 A.mp4
+│   ├── 0020. Chapter 4 Cable  Solutions .mp4
+│   ├── 0021. PS l - Lecture 15 B.mp4
+│   ├── 0022. PS l - Lecture 15 A.mp4
+│   ├── 0023. Chapter 4 Cable MSQ Solutions .mp4
+│   ├── 0024. PS I - Lecture 16 A .mp4
+│   ├── 0025. PS I - Lecture 17 A.mp4
+│   ├── 0026. PS I - Lecture 16 B (New).mp4
+│   ├── 0027. PS I - Lecture 18  B.mp4
+│   ├── 0028. PS I - Lecture 18 A.mp4
+│   ├── 0029. PS I - Lecture 19 .mp4
+│   ├── 0030. PS I - Lecture 20.mp4
+│   ├── 0031. PS I - Lecture 21.mp4
+│   ├── 0032. PS I - Lecture 22.mp4
+│   ├── 0033. PS I - Lecture 23.mp4
+│   ├── 0034. PS I - Lecture 24 B.mp4
+│   ├── 0035. PS I - Lecture 24 A (3 Zone Protection).mp4
+│   ├── 0036. PS I - Lecture 25 (HVDC).mp4
+│   ├── 0037. WB Chapter 8 - CB Solutions.mp4
+│   └── 0038. WB Chapter 3 - Frequency Control Solutions.mp4
+├── 0009. Reasoning ＆ Aptitude (A) - All Streams - Live 2023 - 26th June
+│   ├── 0001. R & A - Lecture 1.mp4
+│   ├── 0002. R & A - Lecture 2.mp4
+│   ├── 0003. R & A - Lecture 3 .mp4
+│   ├── 0004. R & A - Lecture 4.mp4
+│   ├── 0005. R & A - Lecture 5.mp4
+│   ├── 0006. R & A - Lecture 6.mp4
+│   ├── 0007. R & A - Lecture 7.mp4
+│   ├── 0008. PROBABILITY.mp4
+│   ├── 0009. ESE QUESTIONS.mp4
+│   ├── 0010. GATE QUESTIONS.mp4
+│   ├── 0011. WORKBOOK DOUBTS.mp4
+│   ├── 0012. R & A - Lecture 8.mp4
+│   ├── 0013. R & A - Lecture 9.mp4
+│   ├── 0014. R & A - Lecture 10.mp4
+│   ├── 0015. R & A - Lecture 11.mp4
+│   ├── 0016. R & A - Lecture 12.mp4
+│   ├── 0017. R & A - Lecture 13.mp4
+│   ├── 0018. R & A - Lecture 14.mp4
+│   ├── 0019. R & A - Lecture 15.mp4
+│   └── 0020. R & A - Lecture 16.mp4
+├── 0010. Engineering Mathematics (PS) - All Streams - Live 2023 - 15th July
+│   ├── 0001. EM - Lecture 1.mp4
+│   ├── 0002. EM - Lecture 2.mp4
+│   ├── 0003. EM - Lecture 3.mp4
+│   ├── 0004. EM - Lecture 4.mp4
+│   ├── 0005. EM - Lecture 5.mp4
+│   ├── 0006. EM - Lecture 6.mp4
+│   ├── 0007. EM - Lecture 7.mp4
+│   ├── 0008. EM - Lecture 8 (Probability).mp4
+│   ├── 0009. EM - Lecture 9 (Probability).mp4
+│   ├── 0010. EM - Lecture 10 (Statistics).mp4
+│   ├── 0011. EM - Lecture 11 (Statistics).mp4
+│   ├── 0012. EM - Lecture 12 (Statistics).mp4
+│   ├── 0013. EM - Lecture 13 (Statistics).mp4
+│   ├── 0014. EM - Lecture 14 (Calculus).mp4
+│   ├── 0015. EM - Lecture 15 (Calculus).mp4
+│   ├── 0016. EM - Lecture 16 (Calculus).mp4
+│   ├── 0017. EM - Lecture 17 (Calculus).mp4
+│   ├── 0018. EM - Lecture 18 (Integration).mp4
+│   ├── 0019. EM - Lecture 19 (Integration).mp4
+│   ├── 0020. EM - Lecture 20 (Integration).mp4
+│   ├── 0021. EM - Lecture 21 (Vector Calculus).mp4
+│   ├── 0022. EM - Lecture 22 (Vector Calculus).mp4
+│   ├── 0023. EM - Lecture 23 (Differential Equations).mp4
+│   ├── 0024. EM - Lecture 24 (Differential Equations).mp4
+│   ├── 0025. EM Lecture 25 Differential Equations + Fourier Series.mp4
+│   ├── 0026. EM - lecture 26 (Complex Variable).mp4
+│   ├── 0027. EM - Lecture 27 (Complex Variables).mp4
+│   ├── 0028. EM Lecture 28 Laplace Transform and Numerical Techniques.mp4
+│   └── 0029. EM - Lecture 29 (Numerical Techniques).mp4
+├── 0011. Engineering Mathematics (PS) - All Streams - Live 2023 - 15th July | PDF
+│   └── 0001. Engg Mathematics Workbook.pdf
+├── 0012. DC Machine (R) - EE - Live 2023 - 24th July
+│   ├── 0001. DC - Lecture 1 A (Basics of DC Machine).mp4
+│   ├── 0002. DC - Lecture 1 B (Basics of DC Machine).mp4
+│   ├── 0003. DC - Lecture 2 B (Basics of DC Machine).mp4
+│   ├── 0004. DC - Lecture 2 A (Basics of DC Machine).mp4
+│   ├── 0005. DC - Lecture - 3 A (Armature Reaction).mp4
+│   ├── 0006. DC - Lecture - 3 B (Armature Reaction).mp4
+│   ├── 0007. DC - Lecture 4 B (Armature Reaction).mp4
+│   ├── 0008. DC - Lecture 4 A (Armature Reaction).mp4
+│   ├── 0009. DC - Lecture 5 A (Armature Reaction).mp4
+│   ├── 0010. DC - Lecture 5 B (Armature Reaction).mp4
+│   ├── 0011. DC - Lecture 6 B (Windings).mp4
+│   ├── 0012. DC - Lecture 6 A (Armature Reaction + Windings).mp4
+│   ├── 0013. DC - Lecture 7 A (Windings).mp4
+│   ├── 0014. DC - Lecture 7 B (Commutator Action).mp4
+│   ├── 0015. DC - Lecture 8 A (Commutator Action).mp4
+│   ├── 0016. DC - Lecture 8 B (Expression of Induced emf).mp4
+│   ├── 0017. DC - Lecture 9 A (Expression of Induced emf).mp4
+│   ├── 0018. DC - Lecture 9 B (Expression of Induced emf).mp4
+│   ├── 0019. DC - Lecture 10 A (Characteristics of DC Generators).mp4
+│   ├── 0020. DC - Lecture 10 B (Characteristics of DC Generators).mp4
+│   ├── 0021. DC Lecture 11 A Operating Characteristics of DC Motor.mp4
+│   ├── 0022. DC Lecture 11 B Operating Characteristics of DC Motor.mp4
+│   ├── 0023. DC Lecture 12 A Operating Characteristics of DC Motor.mp4
+│   ├── 0024. DC - Lecture 12 B (Speed Control of DC Motor).mp4
+│   ├── 0025. DC - Lecture 13 A (Speed Control of DC Motor).mp4
+│   ├── 0026. DC - Lecture 13 B (Starting of DC Motor).mp4
+│   ├── 0027. DC - Lecture 14 A (Starting of DC Motor).mp4
+│   ├── 0028. DC - Lecture 14 B (Braking of DC Motor).mp4
+│   ├── 0029. DC - Lecture 15 A (Losses and Efficiency).mp4
+│   └── 0030. DC - Lecture 15 B (Losses and Efficiency).mp4
+├── 0013. DC Machine (R) - EE - Live 2023 - 24th July | PDF
+│   └── 0001. DC Workbook Solutions PDF.pdf
+├── 0014. Synchronous Machine (R) - Live 2023 - EE - 9th Aug
+│   ├── 0001. SM - Lecture 1.mp4
+│   ├── 0002. SM - Lecture 2.mp4
+│   ├── 0003. SM - Lecture 3 A.mp4
+│   ├── 0004. SM - Lecture 3 B.mp4
+│   ├── 0005. SM - Lecture 4 B.mp4
+│   ├── 0006. SM - Lecture 4 A.mp4
+│   ├── 0007. SM - Lecture 5 A.mp4
+│   ├── 0008. SM - Lecture 5 B.mp4
+│   ├── 0009. SM - Lecture 5 C.mp4
+│   ├── 0010. SM - Lecture 5 D.mp4
+│   ├── 0011. SM - Lecture 6 A.mp4
+│   ├── 0012. SM - Lecture 6 B.mp4
+│   ├── 0013. SM - Lecture 7.mp4
+│   ├── 0014. SM - Lecture 8.mp4
+│   ├── 0015. SM - WB Solutions.mp4
+│   ├── 0016. SM - Lecture 9 B.mp4
+│   ├── 0017. SM - Lecture 9 A.mp4
+│   ├── 0018. SM - Lecture 10 C.mp4
+│   ├── 0019. SM - Lecture 10 B.mp4
+│   └── 0020. SM - Lecture 10 A.mp4
+├── 0015. Synchronous Machine (R) - Live 2023 - EE - 9th Aug | PDF
+│   └── 0001. SM - MSQ PDF.pdf
+├── 0016. Network (K) - EC + EE + IN - Live - 16th Aug
+│   ├── 0001. Network - Lecture 1 (Basics).mp4
+│   ├── 0002. Network - Lecture 2 (Basics).mp4
+│   ├── 0003. Network - Lecture 3 (Passive Elements).mp4
+│   ├── 0004. Network - Lecture 4 (Equivalent Resistance and KCL).mp4
+│   ├── 0005. Network - Lecture 5 (KVL and Star Delta) .mp4
+│   ├── 0006. Network - Lecture 5 B (KVL and Star Delta) .mp4
+│   ├── 0007. Network Lecture 6B Source transformation and Mesh Analysis.mp4
+│   ├── 0008. Network Lecture 6A Source transformation and Mesh Analysis.mp4
+│   ├── 0009. Network - Lecture 7 (Nodal Analysis).mp4
+│   ├── 0010. Network Lecture 8 Nodal Analysis and Steady State AC .mp4
+│   ├── 0011. Network - Lecture 9 (Steady State AC).mp4
+│   ├── 0012. Network - Lecture 10 (Steady State AC Circuits).mp4
+│   ├── 0013. Network - Lecture 11 ( Locus Diagram).mp4
+│   ├── 0014. Network Lecture 12 Superposition and Thevenins Theorem.mp4
+│   ├── 0015. Network Lecture 13 Thevenins , Nortons and Reciprocity Theorems.mp4
+│   ├── 0016. Network - Lecture 14 C (Theorems).mp4
+│   ├── 0017. Network - Lecture 14 B (Theorems).mp4
+│   ├── 0018. Network - Lecture 14 A (Theorems).mp4
+│   ├── 0019. Network Lecture 15 duality, substitution theorem and inductor.mp4
+│   ├── 0020. Network - Lecture 16 (Transients).mp4
+│   ├── 0021. Network - Lecture 17 (Transients - II).mp4
+│   ├── 0022. Network - Lecture 18 (Transients - lll).mp4
+│   ├── 0023. Network - Lecture 19 (Transients - IV).mp4
+│   ├── 0024. Network - Lecture 20 (Transients - V).mp4
+│   ├── 0025. Network - Lecture 21 (Transients - VI and Resonance 1).mp4
+│   ├── 0026.  Network - Lecture 22 (Resonance 2) - NEW.mp4
+│   ├── 0027. Network - Lecture 23 A (Two Port I).mp4
+│   ├── 0028.  Network - Lecture 23 B (Two Port I).mp4
+│   ├── 0029. Network - Lecture 24 A (Two Port II).mp4
+│   ├── 0030. Network - Lecture 24 B (Two Port II).mp4
+│   ├── 0031. Network - Lecture 25 C (Graph Theory).mp4
+│   ├── 0032. Network - Lecture 25 B (Two Port lll).mp4
+│   ├── 0033. Network - Lecture 25 A (Two Port lll).mp4
+│   ├── 0034. Network Lecture 26 B Magnetic Coupled Circuits and Filters.mp4
+│   └── 0035. Network Lecture 26 A Magnetic Coupled Circuits and Filters.mp4
+├── 0017. Analog (R) - Live 2023 - EE + IN - 22nd Aug
+│   ├── 0001. Analog - Lecture 1 B (Ideal Model).mp4
+│   ├── 0002. Analog - Lecture 1 A (Ideal Model).mp4
+│   ├── 0003. Analog Lecture 2 A CVD Model, PWL Model, Exponential Model.mp4
+│   ├── 0004. Analog - Lecture 2 B (Exponential Model).mp4
+│   ├── 0005. Analog - Lecture 3 B (Clippers).mp4
+│   ├── 0006. Analog - Lecture 3 A (Small Sijnal Model , Clippers).mp4
+│   ├── 0007. Analog - Lecture 4 A (Clipper, Peak Detector).mp4
+│   ├── 0008. Analog - Lecture 4 B (Peak Detector).mp4
+│   ├── 0009. Analog - Lecture 5 B (Clampers, Voltage multiplier).mp4
+│   ├── 0010. Analog - Lecture 5 A (Clampers, Voltage multiplier).mp4
+│   ├── 0011. Analog - Lecture 6 A (Rectifiers).mp4
+│   ├── 0012. Analog - Lecture 6 B (Rectifiers).mp4
+│   ├── 0013. Analog - Lecture 7 A (Capacitor Filter).mp4
+│   ├── 0014. Analog - Lecture 7 C (Zener as a Voltage Regulator).mp4
+│   ├── 0015. Analog - Lecture 7 B (Zener as a Voltage Regulator).mp4
+│   ├── 0016. Analog - Lecture 8 (PN Junction Theory).mp4
+│   ├── 0017. Analog - Lecture 9 A (PN Junction Theory).mp4
+│   ├── 0018. Analog - Lecture 9 B (PN Junction Theory) .mp4
+│   ├── 0019. Analog - Lecture 10 (PN Junction Theory).mp4
+│   ├── 0020. Analog - Lecture 11 A (BJT).mp4
+│   ├── 0021. Analog - Lecture 11 B (BJT).mp4
+│   ├── 0022. Analog - Lecture 12 B (JFET).mp4
+│   ├── 0023. Analog - Lecture 12 A (BJT , JFET).mp4
+│   ├── 0024. Analog - Lecture 13 B (MOSFET & Testing of BJT).mp4
+│   ├── 0025. Analog - Lecture 13 A (JFET & MOSFET).mp4
+│   ├── 0026. Analog - Lecture 14 (BJT Testing).mp4
+│   ├── 0027. Analog - Lecture 15 A (MOSFET Testing, BJT Biasing).mp4
+│   ├── 0028. Analog - Lecture 15 B (BJT Biasing).mp4
+│   ├── 0029. Analog - Lecture 16 B (BJT Biasing).mp4
+│   ├── 0030. Analog - Lecture 16 A (BJT Biasing).mp4
+│   ├── 0031. Analog - Lecture 17 B (Current minor using BJT).mp4
+│   ├── 0032. Analog Lecture 17 A MOs FET Biasing, Current minor using BJT.mp4
+│   ├── 0033. Analog - Lecture 18 B (Current Mirror).mp4
+│   ├── 0034. Analog - Lecture 18 A (Current Mirror).mp4
+│   ├── 0035. Analog - Lecture 19 A (small signal amplifiers part B).mp4
+│   ├── 0036. Analog - Lecture 19 B (Small Signal Amplifiers Part C).mp4
+│   ├── 0037. Analog Lecture 19 C small signal amplifiers part D .mp4
+│   ├── 0038. Analog Lecture 20 B Small Signal Amplifiers Part F .mp4
+│   ├── 0039. Analog Lecture 20 A Small Signal Amplifiers Part E.mp4
+│   ├── 0040. Analog Lecture 20 C Small Signal Amplifiers Part G .mp4
+│   ├── 0041. Analog - Lecture 21 B (Multi stage amplifiers) .mp4
+│   ├── 0042. Analog Lecture 21 A Small Signal Amplifiers Part H .mp4
+│   ├── 0043. Analog - Lecture 22 (Multi Stage Amplifiers).mp4
+│   ├── 0044. Analog - Lecture 23 A (Differential Amplifiers).mp4
+│   ├── 0045. Analog - Lecture 24 B (Amplifier Design in Opamp) .mp4
+│   ├── 0046. Analog - Lecture 24 A (Opamp basics).mp4
+│   ├── 0047. Analog - Lecture 25 B (Amplifier Design in Opamp).mp4
+│   ├── 0048. Analog - Lecture 25 A (Amplifier Design in Opamp).mp4
+│   ├── 0049. Analog - Lecture 26 B (Mathematical operations).mp4
+│   ├── 0050. Analog Lecture 26 A Amplifier Design in Opamp Part C.mp4
+│   ├── 0051. Analog - Lecture 27 B (Nonlinear Applications).mp4
+│   ├── 0052. Analog - Lecture 27 A (Nonlinear Applications).mp4
+│   ├── 0053. Analog Lecture 28 A Active Filters & Precession circuits.mp4
+│   ├── 0054. Analog Lecture 28 B Active Filters & Precession circuits.mp4
+│   ├── 0055. Power Amplifier.mp4
+│   ├── 0056. Analog - Lecture 29 B (linearOscillators).mp4
+│   ├── 0057. Analog - Lecture 29 A (Linear Oscillators).mp4
+│   ├── 0058. Analog Lecture 30 C voltage limiters&BJT voltage regulators.mp4
+│   ├── 0059. Analog Lecture 30 D how to practice analog electronics.mp4
+│   ├── 0060. Analog - Lecture 30 B (Negative FB Amplifiers).mp4
+│   └── 0061. Analog - Lecture 30 A (Negative FB Amplifiers).mp4
+├── 0018. Analog (R) - Live 2023 - EE + IN - 22nd Aug | PDF
+│   ├── 0001. Workbook (IN).pdf
+│   ├── 0002. IN - WB Unit 1 - Diode Applications.pdf
+│   ├── 0003. IN - WB Unit 2 - BJT biasing.pdf
+│   ├── 0004. IN - WB Unit 3.pdf
+│   ├── 0005. IN - WB Unit 4 - FET biasing.pdf
+│   ├── 0006. IN - WB Unit 5.pdf
+│   ├── 0007. IN - WB Unit 6 - Multistage amplifiers.pdf
+│   ├── 0008. IN - WB Unit 7 - Opamp.pdf
+│   ├── 0009. Analog MSQ Key.pdf
+│   ├── 0010. EE - WB Unit 4.pdf
+│   ├── 0011. EE - WB Unit 5.pdf
+│   ├── 0012. EE - WB Unit 6.pdf
+│   ├── 0013. EE - WB Unit 7.pdf
+│   ├── 0014. EE - WB Unit 8.pdf
+│   ├── 0015. EE - WB Unit 9 - Part 1.pdf
+│   ├── 0016. EE - WB Unit 9 - Part 2.pdf
+│   ├── 0017. EE - WB Unit 10 - Part 1.pdf
+│   ├── 0018. EE - WB Unit 10 - Part 2.pdf
+│   ├── 0019. EE - MSQ Part 1.pdf
+│   ├── 0020. EE - MSQ Part 2.pdf
+│   ├── 0021. Analog WB (EE+IN).pdf
+│   ├── 0022. EE - WB Unit 2 (Q1 to Q20).pdf
+│   ├── 0023. EE - WB Unit 3.pdf
+│   ├── 0024. EE - WB unit 1 (Q1 to Q10).pdf
+│   ├── 0025. EE - WB unit 1(Q11 to Q15).pdf
+│   ├── 0026. EE - WB unit 1(Q15 to Q20).pdf
+│   └── 0027. EE - WB unit 1(Q21 to Q38).pdf
+├── 0019. Electrical Machines - Transformer + Induction (M) - EE - Live 2023 - 14th Sep
+│   ├── 0001. EM - Lecture 1 (Transformers).mp4
+│   ├── 0002. EM - Lecture 2 B (Transformers).mp4
+│   ├── 0003. EM - Lecture 2 A (Transformers).mp4
+│   ├── 0004. EM - Lecture 3 B (Transformers).mp4
+│   ├── 0005. EM - Lecture 3 A (Transformers).mp4
+│   ├── 0006. EM - Lecture 4 B (Transformers).mp4
+│   ├── 0007. EM - Lecture 4 A (Transformers).mp4
+│   ├── 0008. EM - Lecture 5 B (Transformers).mp4
+│   ├── 0009. EM - Lecture 5 A (Transformers).mp4
+│   ├── 0010. EM - Lecture 6 A (Transformers).mp4
+│   ├── 0011. EM - Lecture 6 B (Transformers).mp4
+│   ├── 0012. EM - Lecture 7 B (Transformers).mp4
+│   ├── 0013. EM - Lecture 7 A (Transformers).mp4
+│   ├── 0014. EM - Lecture 8 B (Transformers).mp4
+│   ├── 0015. EM - Lecture 8 A (Transformers).mp4
+│   ├── 0016. EM - Lecture 9 (Transformers).mp4
+│   ├── 0017. EM - Lecture 10 (Transformers).mp4
+│   ├── 0018. EM - Lecture 11 A (Transformers) - NEW.mp4
+│   ├── 0019. EM - Lecture 11 B (Transformers).mp4
+│   ├── 0020. EM - Lecture 12 B (Transformers).mp4
+│   ├── 0021. EM - Lecture 12 A (Transformers) .mp4
+│   ├── 0022. EM - Lecture 13 A (Transformers).mp4
+│   ├── 0023. EM - Lecture 13 B (Transformers).mp4
+│   ├── 0024. EM - Lecture 14 B (Transformers).mp4
+│   ├── 0025. EM - Lecture 14 A (Transformers).mp4
+│   ├── 0026. EM - Lecture 15 B (Transformers).mp4
+│   ├── 0027. EM - Lecture 15 A (Transformers).mp4
+│   ├── 0028. EM - Lecture 16 B (Transformers).mp4
+│   ├── 0029. EM - Lecture 16 A (Transformers).mp4
+│   ├── 0030. EM - Lecture 17 B (Transformers).mp4
+│   ├── 0031. EM - Lecture 17 A (Transformers).mp4
+│   ├── 0032. EM - Lecture 18 B (Transformers).mp4
+│   ├── 0033. EM - Lecture 18 A (Transformers).mp4
+│   ├── 0034. EM - Lecture 19 (Induction).mp4
+│   ├── 0035. EM - Lecture 20 (Induction).mp4
+│   ├── 0036. EM - Lecture 21 (Induction).mp4
+│   ├── 0037. EM - Lecture 22 (Induction).mp4
+│   ├── 0038. EM - Lecture 23 B (Induction).mp4
+│   ├── 0039. EM - Lecture 23 A (Induction).mp4
+│   ├── 0040. EM - Lecture 24 (Induction).mp4
+│   ├── 0041. EM - Lecture 25 (Induction).mp4
+│   ├── 0042. EM - Lecture 26 (Induction).mp4
+│   ├── 0043. EM - Lecture 27 A (Induction).mp4
+│   ├── 0044. EM - Lecture 27 B (Induction).mp4
+│   ├── 0045. EM - Lecture 28 A (Induction).mp4
+│   ├── 0046. EM - Lecture 28 B (Induction).mp4
+│   ├── 0047. EM - Lecture 29 B (Induction).mp4
+│   ├── 0048. EM - Lecture 29 A (Induction).mp4
+│   ├── 0049. EM - Lecture 30 B (Induction).mp4
+│   ├── 0050. EM - Lecture 30 A (Induction).mp4
+│   ├── 0051. EM - Lecture 31 B (Induction).mp4
+│   ├── 0052. EM - Lecture 31 A (Induction).mp4
+│   ├── 0053. EM - Lecture 32 B (Induction).mp4
+│   └── 0054. EM - Lecture 32 A (Induction).mp4
+├── 0020. Signals ＆ Systems (R) - EE+EC+IN - Live 2023 - 1st Oct
+│   ├── 0001. S & S - Lecture 1 A (Basic Operations).mp4
+│   ├── 0002. S & S - Lecture 1 B (Basic Operations).mp4
+│   ├── 0003. S & S - Lecture 2 B (Classification Of Signals).mp4
+│   ├── 0004. S & S - Lecture 2 A (Classification Of Signals).mp4
+│   ├── 0005. S & S - Lecture 3 A (Classification Of Signals).mp4
+│   ├── 0006. S & S - Lecture 3 B (Classification Of Signals).mp4
+│   ├── 0007. S & S - Lecture 4 (Classification Of Signals).mp4
+│   ├── 0008. S & S - Lecture 5 B (Basic Signals).mp4
+│   ├── 0009. S & S - Lecture 5 A (Basic Signals).mp4
+│   ├── 0010. S & S Lecture 5 C Different Operations on Signals.mp4
+│   ├── 0011. S & S Lecture 6 A Different Operations on Signals.mp4
+│   ├── 0012. S & S - Lecture 6 B (Basic System Properties).mp4
+│   ├── 0013. S & S - Lecture 7 B (LTI System).mp4
+│   ├── 0014. S & S - Lecture 7 A (Basic System Properties) .mp4
+│   ├── 0015. S & S - Lecture 8 A (LTI System).mp4
+│   ├── 0016. S & S - Lecture 8 B (Fourier Series).mp4
+│   ├── 0017. S & S - Lecture 9 A (Fourier Series).mp4
+│   ├── 0018. S & S - Lecture 9 B (Fourier Series).mp4
+│   ├── 0019. S & S - Lecture 10 A (Fourier Transform).mp4
+│   ├── 0020. S & S - Lecture 10 B (Fourier Transform).mp4
+│   ├── 0021. S & S - WB Chapter 3.mp4
+│   ├── 0022. S & S - WB Chapter 2.mp4
+│   ├── 0023. S & S - WB Chapter 1.mp4
+│   ├── 0024. S & S - WB Chapter 8.mp4
+│   ├── 0025. S & S - WB Chapter 7.mp4
+│   ├── 0026. S & S - WB Chapter 6.mp4
+│   ├── 0027. S & S - WB Chapter 5.mp4
+│   ├── 0028. S & S - WB Chapter 4.mp4
+│   ├── 0029. S & S - Lecture 11 A (Fourier Transform).mp4
+│   ├── 0030. S & S - Lecture 11 B (Laplace Transform).mp4
+│   ├── 0031. S & S - Lecture 12 A (Laplace Transform).mp4
+│   ├── 0032. S & S - Lecture 12 B (Laplace Transform).mp4
+│   ├── 0033. S & S - Lecture 13 A (Laplace Transform).mp4
+│   ├── 0034. S & S - Lecture 13 B (Sampling Theorem).mp4
+│   ├── 0035. S & S Lecture 14 A Discrete Time Signal and System.mp4
+│   ├── 0036. S & S Lecture 14 B Discrete Time Signal and System.mp4
+│   ├── 0037. S & S - Lecture 15 (Z - Transform).mp4
+│   ├── 0038. S & S - Lecture 16 (Z - Transform) .mp4
+│   ├── 0039. S & S - Lecture 17 A (DTFS).mp4
+│   ├── 0040. S & S - Lecture 17 B (DTFT).mp4
+│   ├── 0041. S & S - Lecture 18 (DFT).mp4
+│   ├── 0042. S & S - Lecture 19 A (Digital Filter).mp4
+│   ├── 0043. S & S - Lecture 19 B (Digital Filter).mp4
+│   └── 0044. S & S - Lecture 20 (DT Processing of CT Signal).mp4
+├── 0021. Signals ＆ Systems (R) - EE+EC+IN - Live 2023 - 1st Oct | PDF
+│   ├── 0001. Signals ＆ Systems - WB Answer Keys.pdf
+│   ├── 0002. S＆S - WB Answer Keys (EC).pdf
+│   ├── 0003. S＆S - WB Answer Keys (EE).pdf
+│   └── 0004. S＆S - WB Answer Keys (IN).pdf
+├── 0022. Control Systems (H) - Live 2023 - EC + EE + IN - 26th Oct
+│   ├── 0001. CS - Lecture 1.mp4
+│   ├── 0002. CS - Lecture 2 (BDR, SFG).mp4
+│   ├── 0003. CS - Lecture 3 (Time Response Analysis).mp4
+│   ├── 0004. CS - WB Chapter 7.mp4
+│   ├── 0005. CS - WB Chapter 6.mp4
+│   ├── 0006. CS - WB Chapter 5.mp4
+│   ├── 0007. CS - WB Chapter 3 and 4.mp4
+│   ├── 0008. CS - WB Chapter 2.mp4
+│   ├── 0009. CS - WB Chapter 1.mp4
+│   ├── 0010. CS - Lecture 4 ( Time Response Analysis - 2).mp4
+│   ├── 0011. CS - Lecture 5 A ( Time Response Analysis - 3).mp4
+│   ├── 0012. CS - Lecture 5 C ( Time Response Analysis - 5 ).mp4
+│   ├── 0013. CS - Lecture 5 B ( Time Response Analysis - 4 ).mp4
+│   ├── 0014. CS - Lecture 6 A (Time Stability Analysis).mp4
+│   ├── 0015. CS - Lecture 6 B (Time Stability Analysis).mp4
+│   ├── 0016. CS - Lecture 7 B (Time Stability Analysis).mp4
+│   ├── 0017. CS - Lecture 7 C (root locus).mp4
+│   ├── 0018. CS - Lecture 7 A (Time stability Analysis).mp4
+│   ├── 0019. CS - Lecture 8 (Root Locus).mp4
+│   ├── 0020. CS - Lecture 9 (Root Locus Frequency Domain).mp4
+│   ├── 0021. CS - Lecture 10 (Polar Plot).mp4
+│   ├── 0022. CS - Lecture 11 (Nyquist Plot).mp4
+│   ├── 0023. CS - Lecture 12 (Bode Plot).mp4
+│   ├── 0024. CS - Lecture 13 (Controller).mp4
+│   ├── 0025. CS - Lecture 14 (Compensator).mp4
+│   └── 0026. CS - Lecture 15 (State Variable Analysis).mp4
+├── 0023. Control Systems (H) - Live 2023 - EC + EE + IN - 26th Oct | PDF
+│   ├── 0001. Control Systems - WB Answer Keys.pdf
+│   └── 0002. MSQ with solutions.pdf
+├── 0024. Computer Organisation (S) - EC+EE - Live 2023 - 31st Oct
+│   ├── 0001. CO - Lecture 1 B (Introduction).mp4
+│   ├── 0002. CO - Lecture 1 A (Introduction).mp4
+│   ├── 0003. CO - Lecture 2 B (Floating Point Data).mp4
+│   ├── 0004. CO - Lecture 2 A (Floating Point Data).mp4
+│   ├── 0005. CO - Lecture 3 B ( Floating Point Data).mp4
+│   ├── 0006. CO - Lecture 3 A ( Floating Point Data).mp4
+│   ├── 0007. CO - Lecture 4 B (Computer Architecture).mp4
+│   ├── 0008. CO - Lecture 4 A (Computer Architecture).mp4
+│   ├── 0009. CO - Lecture 5B  (Instruction Cycle).mp4
+│   ├── 0010. CO - Lecture 5 A (Instruction Cycle).mp4
+│   ├── 0011. CO - Lecture 6B (Computer Organisation).mp4
+│   ├── 0012. CO - Lecture 6 A (Computer Organization).mp4
+│   ├── 0013. CO - Lecture 7 (Control Unit Design).mp4
+│   ├── 0014. CO - Lecture 8 B ( Memory Organisation ).mp4
+│   ├── 0015. CO - Lecture 8 A ( Memory Organisation ).mp4
+│   ├── 0016. Lecture 9 B (Memory Organisation).mp4
+│   ├── 0017. CO - Lecture 9 A ( Memory Organisation).mp4
+│   ├── 0018. CO - Lecture 10 B ( Secondary Memory).mp4
+│   ├── 0019. CO - Lecture 10 A (Secondary Memory).mp4
+│   ├── 0020. CO - Lecture 11 A (OS Concepts).mp4
+│   ├── 0021. CO - Lecture 11 B (Programming elements).mp4
+│   └── 0022. CO - Lecture 12 (Database Concepts).mp4
+├── 0025. Computer Organisation (S) - EC+EE - Live 2023 - 31st Oct | PDF
+│   ├── 0001. CO - WB Answer Keys - EC.pdf
+│   └── 0002. CO - WB Answer Keys - EE.pdf
+├── 0026. Digital (R) - EE+EC - Live 2023 - 9th Nov
+│   ├── 0001. Digital - Lecture 1 A (Logic Gates).mp4
+│   ├── 0002. Digital - Lecture 1 B (Universal Gates).mp4
+│   ├── 0003. Digital - Lecture 2 B (Duality).mp4
+│   ├── 0004. Digital - Lecture 2 A (SOP - POS Forms).mp4
+│   ├── 0005. Digital - Lecture 3 B (Venn Diagram).mp4
+│   ├── 0006. Digital - Lecture 3 A (Cells Duality).mp4
+│   ├── 0007. Digital - Lecture 4 E (POS Forms in K - Map).mp4
+│   ├── 0008. Digital - Lecture 4 D (Dont Care Condition).mp4
+│   ├── 0009. Digital - Lecture 4 C (EPI - II).mp4
+│   ├── 0010. Digital - Lecture 4 B (EPI - 1).mp4
+│   ├── 0011. Digital - Lecture 4 A (K - Map).mp4
+│   ├── 0012. Digital - Lecture 5 C (Combination Circuits).mp4
+│   ├── 0013. Digital - Lecture 5 B (Combination Circuits).mp4
+│   ├── 0014. Digital - Lecture 5 A (Combination Circuits).mp4
+│   ├── 0015. Digital - Lecture 6 (Combination Circuits 2).mp4
+│   ├── 0016. Digital - Lecture 7 B (Combinational Circuits).mp4
+│   ├── 0017. Digital - Lecture 7 A (Combinational Circuits).mp4
+│   ├── 0018. Digital - Lecture 8 (Combinational Circuits).mp4
+│   ├── 0019. Digital - Lecture 9 (Combinational Circuits).mp4
+│   ├── 0020. Digital - Lecture 10 B (Sequential Circuits).mp4
+│   ├── 0021. Digital - Lecture 10 A (Sequential Circuits).mp4
+│   ├── 0022. Digital - lecture 11  (Sequential Circuits - Part 2).mp4
+│   ├── 0023. Digital - Lecture 12 A (Sequential Circuits - Parts 3).mp4
+│   ├── 0024. Digital - Lecture 13 (Counters).mp4
+│   ├── 0025. Digital - Lecture 14.mp4
+│   ├── 0026. Digital Lecture 15.mp4
+│   ├── 0027. Digital - Lecture 16.mp4
+│   └── 0028. Digital - Lecture 17 (Digital Doubts).mp4
+├── 0027. Digital (R) - EE+EC - Live 2023 - 9th Nov | PDF
+│   └── 0001. Digital WB Solutions PDF.pdf
+├── 0028. Microprocessor (V) - EC+EE - Live - 14th Nov
+│   ├── 0009. Microprocessor - Lecture 8 (ALU Instructions).mp4
+│   ├── 0010. Microprocessor - Lecture 9 (Branching Instructions).mp4
+│   ├── 0011. Microprocessor Lecture 10 Machine Instructions & Workbook Problems.mp4
+│   ├── 0012. Microprocessor - Lecture 11 (Interfacing ICs 8086).mp4
+│   └── 0013. For EC Only Microprocessor Lecture 12 Microcontroller.mp4
+├── 0029. ICT (S) - GS - Live 2023 - Prime - 15th Nov
+│   ├── 0001. ICT - Lecture 1 (e - Governance).mp4
+│   ├── 0002. ICT - Lecture 2 (e - Governance).mp4
+│   ├── 0003. ICT - Lecture 3 (e - Governance).mp4
+│   ├── 0004. ICT - Lecture 4 (e - Governance).mp4
+│   ├── 0005. ICT - Lecture 5 (e - Education).mp4
+│   ├── 0006. ICT - Lecture 6 (e - Education).mp4
+│   ├── 0007. ICT - Lecture 7 (ICT Tools).mp4
+│   ├── 0008. ICT - Lecture 8 (Hardware Components of Computer).mp4
+│   ├── 0009. ICT - Lecture 9 (Memory Devices).mp4
+│   ├── 0010. ICT - Lecture 10 (Networking).mp4
+│   ├── 0011. ICT - Lecture 11 (Network Models).mp4
+│   ├── 0012. ICT - Lecture 12 (Network) .mp4
+│   └── 0013. ICT - Lecture 13 (Network Security).mp4
+├── 0030. Communication Systems (NR) - Live 2023 - EE - 25th Nov
+│   ├── 0001. CS - Lecture 1 A.mp4
+│   ├── 0002. CS - Lecture 1 B.mp4
+│   ├── 0003. CS - Lecture 2.mp4
+│   ├── 0004. CS - Lecture 3.mp4
+│   ├── 0005. CS - Lecture 4.mp4
+│   ├── 0006. CS - Lecture 5.mp4
+│   ├── 0007. CS - Lecture 6.mp4
+│   ├── 0008. CS - Lecture 7.mp4
+│   ├── 0009. CS _ Lecture 8.mp4
+│   ├── 0010. CS - Lecture 9.mp4
+│   ├── 0011. CS - Lecture 10.mp4
+│   ├── 0012. CS - Lecture 11.mp4
+│   └── 0013. CS -Lecture 12.mp4
+├── 0031. Material Science (S) - GS - Live 2023 - Prime - 26th Nov
+│   ├── 0001. MS - Lecture 1 (Introduction).mp4
+│   ├── 0002. MS - Lecture 2 (Atomic Structure).mp4
+│   ├── 0003. MS - Lecture 3 (Atomic Structure).mp4
+│   ├── 0004. MS - Lecture 4 (Crystallography).mp4
+│   ├── 0005. MS - Lecture 5 (Crystallography).mp4
+│   ├── 0006. MS Lecture 6 Crystallography + Electric Properties of Materials.mp4
+│   ├── 0007. MS - Lecture 7 (Electric Properties of Materials).mp4
+│   ├── 0008. Material Science Lecture 7 [03-12-2022].mp4
+│   ├── 0009. MS Lecture 9 Electric Properties of Materials + Magnetic Properties.mp4
+│   ├── 0010. MS - Lecture 10 (Magnetic Properties + Ceramics).mp4
+│   ├── 0011. Mechanical Properties.mp4
+│   ├── 0012. MS - Lecture 11 (Polymers).mp4
+│   ├── 0013. MS - Lecture 12 (Alloys and Phase Diagram).mp4
+│   └── 0014. Composites & Alloys.mp4
+├── 0032. Digital (R) - EC + EE - Extra Contents | PDF
+│   └── 0001. Digital WB Solutions PDF.pdf
+├── 0033. Measurements (BL) - Live 2023 - EE - 29th Nov
+│   ├── 0001. Measurements - Lecture 1 B.mp4
+│   ├── 0002. Measurements - Lecture 1 A.mp4
+│   ├── 0003. Measurements - Lecture 1 D.mp4
+│   ├── 0004. Measurements - Lecture 1 C.mp4
+│   ├── 0005. Measurements - Lecture 2 (Analog Meters).mp4
+│   ├── 0006. Measurments - lecture 3 (Analog meters -2).mp4
+│   ├── 0007. Measurements - Lecture 4.mp4
+│   ├── 0008. Measurements - Lecture 5 C (Wattmeter Part 2).mp4
+│   ├── 0009. Measurements Lecture 6 C EMI Workbook Solutions Chapter 2.mp4
+│   ├── 0010. Measurements Lecture 6 B EMI Workbook Solutions Chapter 1.mp4
+│   ├── 0011. Measurements - Lecture 5 D (Error Analysis 1).mp4
+│   ├── 0012. Measurements - Lecture 6 A (Error Analysis 1).mp4
+│   ├── 0013. Measurements - Lecture 5 B (Wattmeter Part 1).mp4
+│   ├── 0014. Measurements - Lecture 5 A (EMMC Applications).mp4
+│   ├── 0015. Measurements - Lecture 6 D (Energy Meter).mp4
+│   ├── 0016. Measurements Lecture 6 E Chapter 3 Workbook Solution.mp4
+│   ├── 0017. Measurements - Lecture 7 A (AC BRIDGES - 1).mp4
+│   ├── 0018. Measurements - Lecture 7 B (AC BRIDGES - 2).mp4
+│   ├── 0019. Measurements - Lecture 8.mp4
+│   ├── 0020. Transducers - Part 1.mp4
+│   ├── 0021. Transducers - Part 2.mp4
+│   ├── 0022. Transducers - Part 3.mp4
+│   ├── 0023. Transducers - Part 4 A.mp4
+│   ├── 0024. Transducers - Part 4 B.mp4
+│   ├── 0025. Transducers - Part 4 C.mp4
+│   ├── 0026. Power Factor Meter.mp4
+│   ├── 0027. Measurements - Lecture 9 (Q Meter).mp4
+│   ├── 0028. Measurements - Workbook Chapter 5.mp4
+│   ├── 0029. Measurements - Lec 9 (Q Meter).mp4
+│   ├── 0030. Measurements - Lecture 10.mp4
+│   ├── 0031. Measurements - Lecture 11 A (DVM 1).mp4
+│   ├── 0032. Measurements - Lecture 11 B (DVM 2).mp4
+│   ├── 0033. Measurements - Lecture 12 A.mp4
+│   ├── 0034. Measurements - Lecture 12 B.mp4
+│   ├── 0035. EMI - Ch 7 - WB Solutions.mp4
+│   └── 0036. EMI - Ch 9 - WB Solutions.mp4
+├── 0034. Microprocessor (V) - OFFLINE + ONLINE - EC+EE - All 2023 ESE batches - Delhi + Outside | PDF
+│   ├── 0001. ESE - Microprocessor WB Answer Keys.pdf
+│   ├── 0002. FOR EC ONLY - Microcontrollers and Embedded Systems.pdf
+│   ├── 0003. Interfacing ICs Notes.pdf
+│   └── 0004. Interfacing ICs.pdf
+├── 0035. Energy ＆ Environment (V) - GS - Live 2023 - Prime - 13th Dec
+│   ├── 0001. ENV - Lecture 1.mp4
+│   ├── 0002. ENV - Lecture 2.mp4
+│   ├── 0003. ENV - Lecture 3.mp4
+│   ├── 0004. ENV - Lecture 4.mp4
+│   ├── 0005. ENV - Lecture 5.mp4
+│   ├── 0006. ENV - Lecture 6.mp4
+│   ├── 0007. ENV - Lecture 7.mp4
+│   ├── 0008. ENV - Lecture 8.mp4
+│   ├── 0009. ENV - Lecture 9.mp4
+│   ├── 0010. ENV - Lecture 10.mp4
+│   ├── 0011. ENV - Lecture 11.mp4
+│   └── 0012. ENV - Lecture 12.mp4
+├── 0036. Energy ＆ Environment (V) - GS - Live 2023 - Prime - 13th Dec | PDF
+│   └── 0001. GS - Workbook.pdf
+├── 0037. Power Systems I (BL) - EE - Extra Contents
+│   ├── 0001. Smart Grid & PMU.mp4
+│   └── 0002. HVDC.mp4
+├── 0038. Power Electronics (J) - Live 2023 - EE - 20th Dec
+│   ├── 0001. PE - Lecture 1 A.mp4
+│   ├── 0002. PE - Lecture 1 B (Power Diode).mp4
+│   ├── 0003. PE - Lecture 2 A (SCR - 1).mp4
+│   ├── 0004. PE - Lecture 2 B (SCR - 2).mp4
+│   ├── 0005. PE - Lecture 3 A (Diode Circuits).mp4
+│   ├── 0006. PE - Lecture 3 B (Diode Circuits).mp4
+│   ├── 0007. PE - Lecture 4 A.mp4
+│   ├── 0008. PE - Lecture 4 B.mp4
+│   ├── 0009. PE - Lecture 4 C.mp4
+│   ├── 0010. PE - Lecture 5 B.mp4
+│   ├── 0011. PE - Lecture 5 A.mp4
+│   ├── 0012. PE - Lecture 5 C.mp4
+│   ├── 0013. Hormonic Analysis 1 Phase HWR - R Load.mp4
+│   ├── 0014. PE Lecture 5 B Hormonic Analysis 1 Phase HWR R L Load.mp4
+│   ├── 0015. PE Lecture 5 C Hormonic Analysis 1 Phase HWR R L Load FD.mp4
+│   ├── 0016. PE - Lecture 7 A.mp4
+│   ├── 0017. PE - Lecture 7 B.mp4
+│   ├── 0018. PE - Lecture 7 C.mp4
+│   ├── 0019. PE - Lecture 8 (Single Phase Semi Converter).mp4
+│   ├── 0020. PE - Lecture 9 A (3 Phase Half Wave Rectifier).mp4
+│   ├── 0021. PE - Lecture 9 B (3 Phase Full Wave Rectifier).mp4
+│   ├── 0022. PE - Lecture 10 A (6 Pulse Converter).mp4
+│   ├── 0023. PE - Lecture 10 B (3 Phase Semi Converter) .mp4
+│   ├── 0024. PE - Lecture 11 A (DC Drives).mp4
+│   ├── 0025. PE -Lecture 11 B (DC Drives).mp4
+│   ├── 0026. PE - Chapter 1 WB Solutions.mp4
+│   ├── 0027. PE - Lecture 12 A (Effects of Source Inductance).mp4
+│   ├── 0028. PE - Lecture 12 B (Buck Converter - Without Filter).mp4
+│   ├── 0029. PE - Lecture 12 C (Buck Converter - With Filter).mp4
+│   ├── 0030. PE - Lecture 13 A (Boost Converter).mp4
+│   ├── 0031. PE - Lecture 13 B (Buck Boost Converter).mp4
+│   ├── 0032. PE - Lecture 13 C (Buck Boost Converter).mp4
+│   ├── 0033. PE - Chapter 2 WB Solutions.mp4
+│   ├── 0034. PE - Lecture 14 A.mp4
+│   ├── 0035. PE - Lecture 14 B.mp4
+│   ├── 0036. PE - Lecture 15 B.mp4
+│   ├── 0037. PE - Lecture 15 A.mp4
+│   ├── 0038. PE - Lecture 16.mp4
+│   ├── 0039. PE - Lecture 17 C (AC Drives).mp4
+│   ├── 0040. PE - Lecture 17 B (CSI).mp4
+│   ├── 0041. PE - Lecture 17 A (Sin Triangle Unipolar PWM).mp4
+│   ├── 0042. PE _ Lecture 18 A.mp4
+│   ├── 0043. PE - Lecture 18 B.mp4
+│   ├── 0044. PE - Lecture 18 C.mp4
+│   ├── 0045. PE - Lecture 19 A.mp4
+│   ├── 0046. PE - Lecture 19 B.mp4
+│   ├── 0047. PE - Lecture 20 A.mp4
+│   ├── 0048. PE - Lecture 20 B.mp4
+│   ├── 0049. PE - Chapter 3 WB Solutions.mp4
+│   ├── 0050. PE - Chapter 4 WB Solutions.mp4
+│   └── 0051. PE - Chapter 5 WB Solutions.mp4
+├── 0039. Material Science (S) - Tech - EC+EE - Live 2023 - 26th Dec
+│   ├── 0001. MS - Lecture 1 A (Dielectric Properties of Materials).mp4
+│   ├── 0002. MS - Lecture 1 B (Dielectric Properties of Materials).mp4
+│   ├── 0003. MS - Lecture 2 (Dielectric Properties of Materials) .mp4
+│   ├── 0004. MS - Lecture 3 (Dielectrics).mp4
+│   ├── 0005. MS - Lecture 4 (Conductors & Superconductors).mp4
+│   └── 0006. MS - Lecture 5 (Superconductors and Nanomaterials).mp4
+├── 0040. Standards ＆ Quality (R) - GS - Live 2023 - Prime - 27th Dec
+│   ├── 0001. S & Q - Lecture 1 A.mp4
+│   ├── 0002. S & Q - Lecture 1 B.mp4
+│   ├── 0003. S & Q - Lecture 2 A.mp4
+│   ├── 0004. S & Q - Lecture 2 B.mp4
+│   ├── 0005. S & Q - Lecture 3 A.mp4
+│   ├── 0006. S & Q - Lecture 3 B.mp4
+│   ├── 0007. S & Q - Lecture 4 A.mp4
+│   ├── 0008. S & Q - Lecture 4 B.mp4
+│   ├── 0009. S & Q - Lecture 5 A.mp4
+│   ├── 0010. S & Q - Lecture 5 B.mp4
+│   ├── 0011. S & Q - Lecture 6.mp4
+│   ├── 0012. S & Q - Lecture 7 A.mp4
+│   ├── 0013. S & Q - Lecture 7 B.mp4
+│   ├── 0014. S & Q - Lecture 8 A.mp4
+│   ├── 0015. S & Q - Lecture 8 B.mp4
+│   ├── 0016. S & Q - Lecture 9 B.mp4
+│   ├── 0017. S & Q - Lecture 9 A.mp4
+│   └── 0018. S & Q - Lecture 10.mp4
+├── 0041. Standards ＆ Quality (R) - GS - Live 2023 - Prime - 27th Dec | PDF
+│   ├── 0001. GS - Workbook.pdf
+│   └── 0002. S＆Q - WB Answer Keys.pdf
+├── 0042. EMT (H) - EE - Live 2023 - 2nd Jan
+│   ├── 0001. EMT - Lecture 1 (Vector Analysis, Co-ordinate System).mp4
+│   ├── 0002. EMT - Lecture 2 (Vector Calculus).mp4
+│   ├── 0003. EMT - Lecture 3 (Electrostatics - Gauss Law).mp4
+│   ├── 0004. EMT - Lecture 4 (Electrostats).mp4
+│   ├── 0005. EMT - Lecture 5 (Electrostats).mp4
+│   ├── 0006. EMT - Lecture 6 (Electrostats).mp4
+│   ├── 0007. EMT - Lecture 7 (Magnetostats).mp4
+│   ├── 0008. EMT - Lecture 8 (Magnetostats).mp4
+│   ├── 0009. EMT - Lecture 9 (MagnetostatsTime Varying Field).mp4
+│   └── 0010. EMT - Lecture 10 (Time Varying Field).mp4
+├── 0043. Engineering Drawing (H) - GS - Live 2023 - Prime - 7th Jan
+│   ├── 0001. ED - Lecture 1.mp4
+│   ├── 0002. ED - Lecture 2.mp4
+│   ├── 0003. ED - Lecture 3.mp4
+│   ├── 0004. ED - Lecture 4.mp4
+│   ├── 0005. ED - Lecture 5.mp4
+│   ├── 0006. ED - Lecture 6.mp4
+│   ├── 0007. ED - Lecture 7.mp4
+│   ├── 0008. ED - Lecture 8.mp4
+│   ├── 0009. ED - Lecture 9.mp4
+│   ├── 0010. ED - Lecture 10.mp4
+│   ├── 0011. ED - Lecture 11.mp4
+│   └── 0012. ED - Lecture 12.mp4
+├── 0044. Engineering Drawing (H) - GS - Live 2023 - Prime - 7th Jan | PDF
+│   ├── 0001. Design Safety Answer Keys.pdf
+│   └── 0002. ANSWER KEYS TO DRAWING.pdf
+├── 0045. Annual Current Affairs 2023 | PDF
+│   └── 0001. Annual Current Affairs 2023.pdf
+├── 0046. Project Management (G) - GS - Live 2023 - 17th Jan
+│   ├── 0001. PM - Lecture 1.mp4
+│   ├── 0002. PM - Lecture 2.mp4
+│   ├── 0003. PM - Lecture 3.mp4
+│   ├── 0004. PM - Lecture 4 A.mp4
+│   ├── 0005. PM - Lecture 4 B.mp4
+│   ├── 0006. PM - Lecture 5.mp4
+│   └── 0007. PM - Lecture 6.mp4
+├── 0047. Current Affairs (SP) - GS - Live 2023 - 19th Jan
+│   ├── 0001. CA - Lecture 1 A.mp4
+│   ├── 0002. CA - Lecture 1 B.mp4
+│   ├── 0003. CA - Lecture 2.mp4
+│   ├── 0004. CA - Lecture 3.mp4
+│   ├── 0005. CA - Lecture 4 A.mp4
+│   ├── 0006. CA - Lecture 4 B.mp4
+│   ├── 0007. CA - Lecture 5 A.mp4
+│   ├── 0008. CA - Lecture 5 B.mp4
+│   ├── 0009. CA - Lecture 5 C.mp4
+│   ├── 0010. CA - Lecture 6 A.mp4
+│   ├── 0011. CA - Lecture 6 B.mp4
+│   └── 0012. CA - Lecture 6 C.mp4
+├── 0048. Current Affairs (SP) - GS - Live 2023 - 19th Jan | PDF
+│   ├── 0001. Current Affairs PDF 2.pdf
+│   └── 0002. Current Affairs PDF.pdf
+└── 0049. Ethics (KM) - GS - Live 2023 - 22nd Jan
+    ├── 0001. Ethics - Lecture 1.mp4
+    ├── 0002. Ethics - Lecture 2.mp4
+    ├── 0003. Ethics - Lecture 3.mp4
+    ├── 0004. Ethics - Lecture 4.mp4
+    ├── 0005. Ethics - Lecture 5 A.mp4
+    └── 0006. Ethics - Lecture 5 B.mp4
+
+49 directories, 832 files

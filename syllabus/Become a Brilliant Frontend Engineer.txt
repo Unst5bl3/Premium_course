@@ -1,0 +1,74 @@
+Become a Brilliant Frontend Engineer
+├── 01. Getting Started with Web Dev
+│   ├── 01. Introduction
+│   │   ├── 01. How Web Works - coursedl.org.mp4
+│   │   └── 02. Components of Frontend - coursedl.org.mp4
+│   ├── 02. HTML
+│   │   ├── 01. Starting with HTML - coursedl.org.mp4
+│   │   ├── 02. Typographies in HTML - coursedl.org.mp4
+│   │   ├── 03. Head Tag - coursedl.org.mp4
+│   │   ├── 04. Tables in HTML - coursedl.org.mp4
+│   │   ├── 05. Images in HTML - coursedl.org.mp4
+│   │   ├── 06. Links in HTML - coursedl.org.mp4
+│   │   ├── 07. Forms in HTML - coursedl.org.mp4
+│   │   ├── 08. Lists in HTML - coursedl.org.mp4
+│   │   └── 09. More on Tags - coursedl.org.mp4
+│   ├── 03. CSS
+│   │   ├── 01. Introduction to CSS - coursedl.org.mp4
+│   │   ├── 02. Getting Started with CSS - coursedl.org.mp4
+│   │   ├── 03. Backgrounds in CSS - coursedl.org.mp4
+│   │   ├── 04. Box Model - coursedl.org.mp4
+│   │   ├── 05. Units In CSS - coursedl.org.mp4
+│   │   ├── 06. Responsiveness in CSS - coursedl.org.mp4
+│   │   └── 07. Positions in CSS - coursedl.org.mp4
+│   └── 04. Flex and Grid Models
+│       ├── 01. Flexbox - coursedl.org.mp4
+│       ├── 02. Flex Order and Grow - coursedl.org.mp4
+│       └── 03. Grid Model - coursedl.org.mp4
+├── 02. Javascript: Creating Dynamic Websites
+│   ├── 01. Javascript Introduction
+│   │   ├── 01. Introduction to Javascript - coursedl.org.mp4
+│   │   └── 02. Compiled vs Interpreted Language - coursedl.org.mp4
+│   ├── 02. Writing JS Code
+│   │   ├── 01. Datatypes in Javascript - coursedl.org.mp4
+│   │   ├── 02. Undefined vs Null - coursedl.org.mp4
+│   │   ├── 03. Operators in Javascript - coursedl.org.mp4
+│   │   ├── 04. If Else in Javascript - coursedl.org.mp4
+│   │   ├── 05. Switch in Javascript - coursedl.org.mp4
+│   │   ├── 06. Loops in Javascript - coursedl.org.mp4
+│   │   ├── 07. Nested Loops in Javascript - coursedl.org.mp4
+│   │   ├── 08. Introduction to Arrays - coursedl.org.mp4
+│   │   ├── 09. Shallow vs Deep Copying - coursedl.org.mp4
+│   │   ├── 10. Functions in Javascript - coursedl.org.mp4
+│   │   ├── 11. Looping on Arrays - coursedl.org.mp4
+│   │   ├── 12. Searching in Arrays - coursedl.org.mp4
+│   │   ├── 13. Filteration in Arrays - coursedl.org.mp4
+│   │   ├── 14. Sorting in Arrays - coursedl.org.mp4
+│   │   ├── 15. CRUD in Arrays - coursedl.org.mp4
+│   │   ├── 16. Map Function - coursedl.org.mp4
+│   │   ├── 17. Reduce Function - coursedl.org.mp4
+│   │   ├── 18. String Methods - coursedl.org.mp4
+│   │   ├── 19. Introduction to Objects - coursedl.org.mp4
+│   │   └── 20. Rest Spread and Destructuring - coursedl.org.mp4
+│   └── 03. Async JS 
+│       ├── 01. Execution Context - coursedl.org.mp4
+│       ├── 02. SetInterval  SetTimeout - coursedl.org.mp4
+│       ├── 03. Async JS - coursedl.org.mp4
+│       ├── 04. ES 6 - coursedl.org.mp4
+│       ├── 05. DOM Manipulation - coursedl.org.mp4
+│       ├── 06. Callbacks - coursedl.org.mp4
+│       └── 07. Promises and AsyncAwait - coursedl.org.mp4
+└── 03. ReactJS And Redux
+    └── 01. React JS
+        ├── 01. Angular vs React vs Vue - coursedl.org.mp4
+        ├── 02. Why React - coursedl.org.mp4
+        ├── 03. Virtual DOM - coursedl.org.mp4
+        ├── 04. Starting with React - coursedl.org.mp4
+        ├── 05. JSX - coursedl.org.mp4
+        ├── 06. Styling with JSX - coursedl.org.mp4
+        ├── 07. Props in React - coursedl.org.mp4
+        ├── 08. State in React - coursedl.org.mp4
+        ├── 09. Maps and Filters in React - coursedl.org.mp4
+        └── 10. Tailwind CSS - coursedl.org.mp4
+
+11 directories, 60 files

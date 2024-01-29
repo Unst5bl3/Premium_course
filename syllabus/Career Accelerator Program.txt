@@ -1,0 +1,94 @@
+Career Accelerator Program
+├── 001. Salesforce Admin Session 1.mp4
+├── 002. Salesforce Admin Session 2.mp4
+├── 003. Java Introduction.mp4
+├── 004. EIP Demo.mp4
+├── 005. OnBoarding Session.mp4
+├── 006. Programming Basics 1.mp4
+├── 007. Programming basics 2.mp4
+├── 008. Programming basics 3.mp4
+├── 009. Programming Basics 4.mp4
+├── 010. Programming Basics 5.mp4
+├── 011. Day1  Identity.mp4
+├── 012. Day 2  Proofs.mp4
+├── 013. Day 3  Network.mp4
+├── 014. Day 4  Authority.mp4
+├── 015. Core Java 2  10 Jan 2023.mp4
+├── 016. JDK Installation.mp4
+├── 017. Core Java 3  11 Jan.mp4
+├── 018. Core Java 4.mp4
+├── 019. Core Java 5.mp4
+├── 020. Core Java Session 6  User Input and Arrays.mp4
+├── 021. Core Java Session 7  Multidimensional Arrays and Strings.mp4
+├── 022. Core Java Session 8  Classes Objects and Methods.mp4
+├── 023. Core Java Session 9 Methods Constructors Access Modifieri.mp4
+├── 024. Core Java Session 10  Encapsulation and Inheritance.mp4
+├── 025. Core Java Session 11 Polymorphism and Abstraction.mp4
+├── 026. Core Java Session 12 Interfaces in Java.mp4
+├── 027. Core Java Session 13 Exception Handling and Packages.mp4
+├── 028. Core Java Session 14 Wrapper Classes and Collections.mp4
+├── 029. Core Java Session 15 HashSet and HashMap.mp4
+├── 030. Core Java Session 16 Searching Algorithms.mp4
+├── 031. Core Java Session 17 Sorting Algorithms.mp4
+├── 032. Core Java Session 18 Sorting Algorithms.mp4
+├── 033. Core Java Session 19 Revision Session.mp4
+├── 034. HTML basics.mp4
+├── 035. SF Admin 3  Object Relationships.mp4
+├── 036. SF Admin 4  Formulae fields.mp4
+├── 037. SF Admin 5  Validation Rules.mp4
+├── 038. SF Admin 6  Analytics basics.mp4
+├── 039. SF Admin 7  SF Analytics 2.mp4
+├── 040. Video Session  Pagelayout and Record Types.mp4
+├── 041. Video Session  Functional Salesforce.mp4
+├── 042. Video session  Data management and flow basics.mp4
+├── 043. SF Admin 8  BPA 1.mp4
+├── 044. Lightning Flows  3 hour class.mp4
+├── 045. CSS Basics.mp4
+├── 046. SF Admin 9  BPA 2.mp4
+├── 047. Java Script 1.mp4
+├── 048. Java Script 2.mp4
+├── 049. Java Script 3.mp4
+├── 050. Java script 4.mp4
+├── 051. Java Script 5.mp4
+├── 052. Security Model 1.mp4
+├── 053. Security Model 2.mp4
+├── 054. Apex 1.mp4
+├── 055. Apex 2.mp4
+├── 056. Apex 3.mp4
+├── 057. Apex 4.mp4
+├── 058. Deployment and Testing Framework.mp4
+├── 059. Video Session  Advance triggers.mp4
+├── 060. Apex 5.mp4
+├── 061. Lightning Introduction Session 1.mp4
+├── 062. Lightning Introduction Session 2.mp4
+├── 063. Integration  REST API.mp4
+├── 064. Lightning Aura Session 3.mp4
+├── 065. Lightning Aura Session 4.mp4
+├── 066. Lightning Aura Session 5.mp4
+├── 067. Asynchronous Apex1.mp4
+├── 068. Lightning Aura Session 6.mp4
+├── 069. Lightning Aura Session 7.mp4
+├── 070. Lightning Aura Session 8.mp4
+├── 071. Lightning Web Component 1.mp4
+├── 072. VSCode Setup with SF ORG.mp4
+├── 073. Lightning Web Component 2.mp4
+├── 074. Sales Cloud.mp4
+├── 075. LinkedIn A.mp4
+├── 076. LinkedIn B.mp4
+├── 077. Asynchronous Apex 2  Exceptions.mp4
+├── 078. SOQL Session.mp4
+├── 079. LWC Session 3  Decorators.mp4
+├── 080. LWC Session 4  LDS.mp4
+├── 081. LWC 5 Calling Apex.mp4
+├── 082. LWC 6  Styling LWC and Conditional Rendering.mp4
+├── 083. LWC 7 Iteration and Slots in LWC.mp4
+├── 084. LWC 8 Component Communication 1.mp4
+├── 085. LWC 9  Component Communication 2.mp4
+├── 086. LWC 10  Navigation and ShowToast Event.mp4
+├── 087. LWC 11 Lightning Message Service and Lifecycle Hooks.mp4
+├── 088. Lightning Revision Session.mp4
+├── 089. Project Session 1.mp4
+├── 090. Project Session 2.mp4
+└── 091. Project Session 3.mp4
+
+0 directories, 91 files

@@ -1,0 +1,219 @@
+DSA Prep LITE
+└── DSA Prep LITE
+    ├── 01.[Must Watch] Course Details.mp4
+    ├── 02.Intro Session with Nishant sir.mp4
+    ├── 03.Output, Input and basic data types [21st - Sep].mp4
+    ├── 04.Data types + Operators 23rd Sept.mp4
+    ├── 05.If Else [26 Sept].mp4
+    ├── 06.Mentorship Session 1 - AI [Recording].mp4
+    ├── 07.Loops - 1 [28 Sept].mp4
+    ├── 08.Loops - 2 [30 Sept].mp4
+    ├── 09.Pattern [3 Oct].mp4
+    ├── 100.LU: DP 3.mp4
+    ├── 101.LU: DP 4.mp4
+    ├── 102.LU: DP 5.mp4
+    ├── 103.Course Content.mp4
+    ├── 104.Intro to OOPS - Introduction.mp4
+    ├── 105.Intro to OOPS - Classes and Objects.mp4
+    ├── 106.Intro to OOPS - Access Modifiers .mp4
+    ├── 107.Intro to OOPS - Constructors.mp4
+    ├── 108.Intro to OOPs - Objects In Memory.mp4
+    ├── 109.Inheritance - Intro.mp4
+    ├── 10.Function [5 Oct].mp4
+    ├── 110.Inheritance - Constructor Chaining.mp4
+    ├── 111.Inheritance - Protected Access Modifier .mp4
+    ├── 112.Inheritance - This Keyword.mp4
+    ├── 113.Polymorphism - Intro.mp4
+    ├── 114.Polymorphism - Static.mp4
+    ├── 115.Polymorphism - Compile time.mp4
+    ├── 116.Polymorphism -  Runtime.mp4
+    ├── 117.Interfaces - Intro.mp4
+    ├── 118.Interfaces - Inheritance .mp4
+    ├── 119.Interfaces - Abstract Keyword.mp4
+    ├── 11.Introduction to Problem Solving [10 Oct].mp4
+    ├── 12.Time Complexity [12 Oct].mp4
+    ├── 13.Arrays - 1 [13 Oct}.mp4
+    ├── 14.Arrays - 2 [17 Oct].mp4
+    ├── 15.2D - Arrays [19 Oct].mp4
+    ├── 16.Strings [21 Oct].mp4
+    ├── 17.Bit Manipulations [26 Oct].mp4
+    ├── 18.HashMap [28 Oct].mp4
+    ├── 19.Recursion 1 [31 Oct].mp4
+    ├── 20.Recursion 2 [2 Nov].mp4
+    ├── 21.Sorting [4 Nov].mp4
+    ├── 22.Binary Search [7 Nov].mp4
+    ├── 23.Classes and Objects [9 Nov].mp4
+    ├── 24.LinkedList [ 14 Nov].mp4
+    ├── 25.LinkedList Continued [16 Nov].mp4
+    ├── 26.[21 Nov] Stacks.mp4
+    ├── 27.Queue [23 Nov].mp4
+    ├── 28.[25 Nov] Trees-1.mp4
+    ├── 29.[28 Nov] Trees 2.mp4
+    ├── 30.[30 Nov] Heap.mp4
+    ├── 31.[2 Dec] DP 1.mp4
+    ├── 32.[5 Dec] DP 2.mp4
+    ├── 33.[7 Dec] Graphs 1 .mp4
+    ├── 34.Graphs 2 [Recording].mp4
+    ├── 35.Graphs 3 [Recording].mp4
+    ├── 36.Intro to Programming.mp4
+    ├── 37.Class 1 (Data types and Operators).mp4
+    ├── 38.Class 2 - If else.mp4
+    ├── 39.Class 3- Loops 1.mp4
+    ├── 40.Class 4 - Loops 2.mp4
+    ├── 41.Class 5 - Function.mp4
+    ├── 42.Class 6 - Extra Class.mp4
+    ├── 43.class 7: Intro to Problem Solving 31 July.mp4
+    ├── 44.class 8: Arrays 1.mp4
+    ├── 45.Class 9: Arrays 2.mp4
+    ├── 46.Class 10: 2D Arrays.mp4
+    ├── 47.Class 11 Strings.mp4
+    ├── 48.Class 12: Time Complexity.mp4
+    ├── 49.Class 13 :Bit Manipulation.mp4
+    ├── 50.Class 14: HashMap.mp4
+    ├── 51.Recursion 1.mp4
+    ├── 52.Class 16 : Recursion 2.mp4
+    ├── 53.Class 17 :Sorting.mp4
+    ├── 54.Class 18: Binary Search.mp4
+    ├── 55.Class 19 : Classes and Objects.mp4
+    ├── 56.Class 20 : Linkedlist.mp4
+    ├── 57.Class 21:Stacks.mp4
+    ├── 58.Class 22: Queues.mp4
+    ├── 59.Class 23: Tress 1.mp4
+    ├── 60.Class 24: Trees 2.mp4
+    ├── 61.Class 25: Heaps.mp4
+    ├── 62.Class 26: DP 1.mp4
+    ├── 63.Class 27: DP 2.mp4
+    ├── 64.Class 28: Graphs 1.mp4
+    ├── 65.Class 29: Graphs 2.mp4
+    ├── 66.Class 30: Graphs 3.mp4
+    ├── 67.Arrays 1.mp4
+    ├── 68.Arrays 2 .mp4
+    ├── 69.Arrays 3.mp4
+    ├── 70.Arrays 4.mp4
+    ├── 71.Arrays 5.mp4
+    ├── 72.BITS 1.mp4
+    ├── 73.BITS 2.mp4
+    ├── 74.Maths (GCD).mp4
+    ├── 75.Maths (Prime Numbers).mp4
+    ├── 76.Sorting 1.mp4
+    ├── 77.Sorting 2.mp4
+    ├── 78.sorting 3.mp4
+    ├── 79.Two pointers.mp4
+    ├── 80.LU: Binary Search 1.mp4
+    ├── 81.LU: Binary Search 2.mp4
+    ├── 82.LU: Binary Search 3.mp4
+    ├── 83.LU: Stack 1.mp4
+    ├── 84.LU: Stack 2.mp4
+    ├── 85.LU: Stack 3.mp4
+    ├── 86.LU: Queue + Dequeue.mp4
+    ├── 87.LU: LinkedList 1.mp4
+    ├── 88.LU: LinkedList 2.mp4
+    ├── 89.LU: LinkedList 3.mp4
+    ├── 90.LU: Trees 1.mp4
+    ├── 91.LU: Trees 2.mp4
+    ├── 92.LU: Trees 3.mp4
+    ├── 93.LU: Trees 4.mp4
+    ├── 94.LU: Trees 5.mp4
+    ├── 95.LU: HashMap 1.mp4
+    ├── 96.LU: HashMap 2.mp4
+    ├── 97.LU: HashMap 3.mp4
+    ├── 98.LU: DP 1.mp4
+    ├── 99.LU: DP 2.mp4
+    └── Notes
+        ├── 2D - Arrays [Notes].pdf
+        ├── 2D Arrays [Notes].pdf
+        ├── Arrays 1 [Notes].1.pdf
+        ├── Arrays - 1 [Notes].pdf
+        ├── Arrays 1 [Notes].pdf
+        ├── Arrays 2 [notes].pdf
+        ├── Arrays - 2 [Notes].pdf
+        ├── Arrays 2 [Notes].pdf
+        ├── Arrays 3 [Notes].pdf
+        ├── Arrays 4 [Notes].pdf
+        ├── Arrays 5 [Notes].pdf
+        ├── Binary Search 1 [Notes].pdf
+        ├── Binary Search 2 [Notes].pdf
+        ├── Binary Search 3 [Notes].pdf
+        ├── Binary Search [Notes].1.pdf
+        ├── Binary Search [Notes].pdf
+        ├── Bit Manipulations [Notes].pdf
+        ├── BITS 1 [Notes].pdf
+        ├── BITS 2[Notes].pdf
+        ├── BITS [Notes].pdf
+        ├── Classes and Objects [Notes].pdf
+        ├── Data Types and Operators [Notes].pdf
+        ├── Data types + Operators [Notes].pdf
+        ├── DP 1 [Notes].1.pdf
+        ├── DP 1 [Notes].2.pdf
+        ├── DP 1 [Notes].pdf
+        ├── DP 2 [Notes].1.pdf
+        ├── DP 2 [Notes].2.pdf
+        ├── DP 2 [Notes].pdf
+        ├── DP 3 [Notes].pdf
+        ├── Extra Class [Notes].pdf
+        ├── Function [Notes].1.pdf
+        ├── Function [Notes].pdf
+        ├── GCD [Notes].pdf
+        ├── Graphs 1 [Notes].1.pdf
+        ├── Graphs 1 [Notes].pdf
+        ├── Graphs 2 [Notes].pdf
+        ├── Graphs 3 [Notes].pdf
+        ├── HashMap 1 [Notes].pdf
+        ├── HashMap 2 [Notes].pdf
+        ├── HashMap 3 [Notes].pdf
+        ├── HashMap [Notes].1.pdf
+        ├── HashMap [Notes].pdf
+        ├── Heap [Notes].pdf
+        ├── Heaps [Notes].pdf
+        ├── If Else [Notes].1.pdf
+        ├── If Else [Notes].pdf
+        ├── Introduction to Problem Solving [Notes].pdf
+        ├── Intro to Problem Solving [Notes].pdf
+        ├── Intro to Programming [Notes].pdf
+        ├── LinkedList 1 [Notes].pdf
+        ├── LinkedList 2 [Notes].pdf
+        ├── LinkedList 3 [Notes].pdf
+        ├── LinkedList Continued [Notes].pdf
+        ├── LinkedList [Notes].1.pdf
+        ├── LinkedList [Notes].pdf
+        ├── Loops - 1 [Notes].pdf
+        ├── Loops 1 [Notes].pdf
+        ├── Loops - 2 [Notes].pdf
+        ├── Loops 2 [Notes].pdf
+        ├── LU: DP 4 [Notes].pdf
+        ├── LU: DP 5 [Notes].pdf
+        ├── Output, Input [Notes].pdf
+        ├── Pattern [Notes].pdf
+        ├── Prime Numbers [Notes].pdf
+        ├── Queue [Notes].1.pdf
+        ├── Queue [Notes].pdf
+        ├── Recursion 1 [Notes].1.pdf
+        ├── Recursion 1 [Notes].pdf
+        ├── Recursion 2 [Notes].1.pdf
+        ├── Recursion 2 [Notes].pdf
+        ├── Sorting 1[Notes].pdf
+        ├── Sorting 2 [Notes].pdf
+        ├── Sorting 3 [Notes].pdf
+        ├── Sorting [Notes].1.pdf
+        ├── Sorting [Notes].pdf
+        ├── Stacks 1 [Notes].pdf
+        ├── Stacks 2 [Notes].pdf
+        ├── Stacks 3 [Notes].pdf
+        ├── Stacks [Notes].1.pdf
+        ├── Stacks [Notes].pdf
+        ├── Strings [Notes].1.pdf
+        ├── Strings [Notes].pdf
+        ├── Time Complexity [Notes].1.pdf
+        ├── Time Complexity [Notes].pdf
+        ├── Tree 1 [Notes].pdf
+        ├── Tree 2 [Notes].pdf
+        ├── Trees 1 [Notes].1.pdf
+        ├── Trees 1 [Notes].pdf
+        ├── Trees 2 [Notes].1.pdf
+        ├── Trees 2 [Notes].pdf
+        ├── Trees 3 [Notes].pdf
+        ├── Trees 4 [Notes].pdf
+        ├── Trees 5 [Notes].pdf
+        └── Two Pointers [Notes].pdf
+
+2 directories, 214 files

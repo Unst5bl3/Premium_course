@@ -1,0 +1,851 @@
+Renaissance - Master Data Structure, Algorithms and System Design
+├── 01. Section 1
+│   ├── 01. Begin with Programming
+│   │   ├── 01. Introduction to Programming
+│   │   │   ├── 01. Orientation.mp4
+│   │   │   ├── 02. What is Programming.mp4
+│   │   │   ├── 03. Running a Program.mp4
+│   │   │   └── 04. Understanding a small Program.mp4
+│   │   ├── 02. Datatypes
+│   │   │   ├── 01. Fundamental Datatypes.mp4
+│   │   │   ├── 02. Integer Overflows.mp4
+│   │   │   ├── 03. TypeCasting.mp4
+│   │   │   ├── 04. Ascii Codes.mp4
+│   │   │   └── 05. Precision Issues.mp4
+│   │   ├── 03. Input Output
+│   │   │   ├── 01. Printing Output.mp4
+│   │   │   └── 02. Reading Input.mp4
+│   │   ├── 04. Operators
+│   │   │   ├── 01. Basic Arithmetic Operators.mp4
+│   │   │   ├── 02. Modulo Operator.mp4
+│   │   │   ├── 03. Increment and Decrement.mp4
+│   │   │   ├── 04. Evaluation of Expression.mp4
+│   │   │   ├── 05. Assignment Operators.mp4
+│   │   │   ├── 06. Relational Operators.mp4
+│   │   │   ├── 07. Logical Operators.mp4
+│   │   │   └── 08. Swapping with and without extra variable.mp4
+│   │   ├── 05. Decision Making
+│   │   │   ├── 01. Intro to Decision Making.mp4
+│   │   │   ├── 02. Simple If.mp4
+│   │   │   ├── 03. Multiple Statements in Simple If.mp4
+│   │   │   ├── 04. Carefully writing If conditions.mp4
+│   │   │   ├── 05. If Else.mp4
+│   │   │   ├── 06. Multiple If Else.mp4
+│   │   │   ├── 07. Else If Ladder.mp4
+│   │   │   ├── 08. Nested If Else.mp4
+│   │   │   ├── 09. Finding Maximum.mp4
+│   │   │   └── 10. Finding Second Maximum.mp4
+│   │   ├── 06. Loops
+│   │   │   ├── 01. Intro to Loops.mp4
+│   │   │   ├── 02. While Loop.mp4
+│   │   │   ├── 03. Infinite Loop.mp4
+│   │   │   ├── 04. Printing Natural Numbers.mp4
+│   │   │   ├── 05. Printing Odds and Evens.mp4
+│   │   │   ├── 06. Predict the Output.mp4
+│   │   │   ├── 07. Printing Multiplication Table.mp4
+│   │   │   ├── 08. Factorial of N.mp4
+│   │   │   ├── 09. All Factors of N.mp4
+│   │   │   ├── 10. Prime Testing.mp4
+│   │   │   ├── 11. Sum of Digits of N.mp4
+│   │   │   ├── 12. Digits Pattern.mp4
+│   │   │   ├── 13. Reverse Digits Pattern.mp4
+│   │   │   ├── 14. Nested While Loops.mp4
+│   │   │   ├── 15. Printing Stars.mp4
+│   │   │   ├── 16. Predict Output in Nested Loop  1.mp4
+│   │   │   ├── 17. Predict Output in Nested Loop  2.mp4
+│   │   │   ├── 18. Printing Pyramid.mp4
+│   │   │   ├── 19. Strong Number.mp4
+│   │   │   ├── 20. Strong Numbers in a range.mp4
+│   │   │   ├── 21. GCD of Two Numbers.mp4
+│   │   │   ├── 22. LCM of Two Numbers.mp4
+│   │   │   ├── 23. Intro to break keyword.mp4
+│   │   │   ├── 24. More on break.mp4
+│   │   │   ├── 25. Intro to For Loop.mp4
+│   │   │   ├── 26. Nth Fibonacci Number.mp4
+│   │   │   ├── 27. A Special Series.mp4
+│   │   │   ├── 28. Fractional Terms in a series.mp4
+│   │   │   ├── 29. Sum of terms  1.mp4
+│   │   │   ├── 30. Sum of terms  2.mp4
+│   │   │   ├── 31. Nested For Loop.mp4
+│   │   │   ├── 32. More on For Loop.mp4
+│   │   │   ├── 33. Continue keyword.mp4
+│   │   │   ├── 34. Math Library.mp4
+│   │   │   ├── 35. Power Function.mp4
+│   │   │   ├── 36. Reverse a Number  1.mp4
+│   │   │   ├── 37. Reverse a Number  2.mp4
+│   │   │   └── 38. Absolute Values.mp4
+│   │   ├── 07. Arrays
+│   │   │   ├── 01. Intro to Arrays.mp4
+│   │   │   ├── 02. Working with Arrays.mp4
+│   │   │   ├── 03. Right usage of Array  1.mp4
+│   │   │   ├── 04. Right usage of Array  2.mp4
+│   │   │   ├── 05. Copying an Array.mp4
+│   │   │   ├── 06. Printing in reverse order.mp4
+│   │   │   ├── 07. Reversing an Array.mp4
+│   │   │   ├── 08. Max in Array.mp4
+│   │   │   ├── 09. Insert in Array.mp4
+│   │   │   ├── 10. Delete in Array.mp4
+│   │   │   ├── 11. Frequency of an Element.mp4
+│   │   │   ├── 12. Frequency of Array Elements.mp4
+│   │   │   ├── 13. Pairs with given sum.mp4
+│   │   │   ├── 14. Pairs with given sum  2.mp4
+│   │   │   ├── 15. Triplets with given sum.mp4
+│   │   │   ├── 16. Selection Sort.mp4
+│   │   │   ├── 17. Bubble Sort.mp4
+│   │   │   └── 18. Insertion Sort.mp4
+│   │   ├── 08. Two Dimensional Arrays
+│   │   │   ├── 01. Intro to 2D Arrays.mp4
+│   │   │   ├── 02. Scanning Data in 2D Arrays.mp4
+│   │   │   ├── 03. Adding two Matrices.mp4
+│   │   │   ├── 04. Diagonals in Matrix.mp4
+│   │   │   ├── 05. Lower and Upper Triangular Parts.mp4
+│   │   │   ├── 06. Initialising a 2D Array with values.mp4
+│   │   │   ├── 07. Transpose of a Matrix.mp4
+│   │   │   ├── 08. Multiplication of Matrices.mp4
+│   │   │   └── 09. Multidimensional Arrays.mp4
+│   │   ├── 09. Strings
+│   │   │   ├── 01. Character Array.mp4
+│   │   │   ├── 02. Scanning and Printing Strings.mp4
+│   │   │   ├── 03. Length of a String.mp4
+│   │   │   ├── 04. Vowels in a String.mp4
+│   │   │   ├── 05. Uppercasing a String.mp4
+│   │   │   ├── 06. Sorting a String.mp4
+│   │   │   ├── 07. Copy a String.mp4
+│   │   │   ├── 08. Comparing Strings.mp4
+│   │   │   ├── 09. String to Number.mp4
+│   │   │   ├── 10. Pattern Matching.mp4
+│   │   │   ├── 11. 2D Character Array.mp4
+│   │   │   ├── 12. Length of every String.mp4
+│   │   │   ├── 13. Inbuilt String Functions.mp4
+│   │   │   └── 14. More String Functions.mp4
+│   │   ├── 10. Pointers
+│   │   │   ├── 01. Address of Variables.mp4
+│   │   │   ├── 02. First Encounter with Pointer.mp4
+│   │   │   ├── 03. Data Manipulation using Pointers.mp4
+│   │   │   ├── 04. Predict the output.mp4
+│   │   │   ├── 05. How not to use Address operator.mp4
+│   │   │   ├── 06. Intro to Pointer Arithmetic.mp4
+│   │   │   ├── 07. More on Pointer Arithmetic.mp4
+│   │   │   ├── 08. Base Address of Array.mp4
+│   │   │   ├── 09. Constant Pointer.mp4
+│   │   │   ├── 10. Pointer to Pointer.mp4
+│   │   │   ├── 11. Array of Pointers.mp4
+│   │   │   ├── 12. Using Pointer like Arrays.mp4
+│   │   │   ├── 13. Interpreting a 2D Array.mp4
+│   │   │   ├── 14. Analogy with 2D Arrays.mp4
+│   │   │   └── 15. Pointers and Strings.mp4
+│   │   ├── 11. Functions
+│   │   │   ├── 01. Code Redundancy.mp4
+│   │   │   ├── 02. Parameters and Return Types.mp4
+│   │   │   ├── 03. Control Flow in Function Calls.mp4
+│   │   │   ├── 04. Pass by Value and Pass by Reference.mp4
+│   │   │   ├── 05. Some Code Snippets.mp4
+│   │   │   ├── 06. Passing an Array.mp4
+│   │   │   ├── 07. Alternate Way to pass Array.mp4
+│   │   │   ├── 08. Returning an Array.mp4
+│   │   │   └── 09. Passing a 2D Array.mp4
+│   │   ├── 12. Structures
+│   │   │   ├── 01. Intro to Structures.mp4
+│   │   │   ├── 02. Alternate Declaration and Initialisation.mp4
+│   │   │   ├── 03. Addition of Structure Variables.mp4
+│   │   │   ├── 04. Array of Structs.mp4
+│   │   │   ├── 05. Sorting an Array of Structs.mp4
+│   │   │   ├── 06. Nested Structures.mp4
+│   │   │   ├── 07. Size of Structures.mp4
+│   │   │   ├── 08. Relationship among Structures.mp4
+│   │   │   └── 09. Pointer to Structures.mp4
+│   │   └── 13. Transitioning from C to C++
+│   │       ├── 01. C to C.mp4
+│   │       ├── 02. Watermelon.mp4
+│   │       ├── 03. Young Physicist.mp4
+│   │       ├── 04. Wrong Subtraction.mp4
+│   │       ├── 05. Intro to Vectors.mp4
+│   │       ├── 06. Vector Functions.mp4
+│   │       ├── 07. Vector Iteration.mp4
+│   │       ├── 08. Presents.mp4
+│   │       ├── 09. Arrival of the General.mp4
+│   │       ├── 10. Arrival of the General  2.mp4
+│   │       ├── 11. Beautiful Matrix.mp4
+│   │       ├── 12. Pairs.mp4
+│   │       ├── 13. Games.mp4
+│   │       ├── 14. Strings.mp4
+│   │       ├── 15. Way Too Long Words.mp4
+│   │       ├── 16. Queue at School.mp4
+│   │       ├── 17. DYZ loves chessboard.mp4
+│   │       ├── 18. Unordered Map.mp4
+│   │       ├── 19. Ordered Map.mp4
+│   │       ├── 20. Unordered Set.mp4
+│   │       ├── 21. Ordered Set.mp4
+│   │       ├── 22. Make Them Odd.mp4
+│   │       ├── 23. Radio Station.mp4
+│   │       └── 24. Tom Riddle Diary.mp4
+│   ├── 02. Gearing Up
+│   │   ├── 01. Arrays and Dynamic Arrays
+│   │   │   ├── 01. Orientation.mp4
+│   │   │   ├── 02. Fundamental Concepts.mp4
+│   │   │   ├── 03. Precomputation Techniques.mp4
+│   │   │   ├── 04. Maximize the Expression.mp4
+│   │   │   ├── 05. Histogram Problem.mp4
+│   │   │   ├── 06. Maximum Chunks.mp4
+│   │   │   ├── 07. Rotate the Array.mp4
+│   │   │   ├── 08. Sliding Window Technique.mp4
+│   │   │   ├── 09. Reverse Lookup in 1Dimension.mp4
+│   │   │   ├── 10. Reverse Lookup in 2Dimension.mp4
+│   │   │   ├── 11. Processing Queries Efficiently.mp4
+│   │   │   ├── 12. A Special Searching Problem.mp4
+│   │   │   ├── 13. Max Gap Problem Bucketing.mp4
+│   │   │   ├── 14. Array Rearrangement.mp4
+│   │   │   └── 15. Array Rearrangement Alternate Technique.mp4
+│   │   ├── 02. Mathematics
+│   │   │   ├── 01. Greatest Common Divisor.mp4
+│   │   │   ├── 02. More on GCD.mp4
+│   │   │   ├── 03. Lowest Common Multiple.mp4
+│   │   │   ├── 04. Generating All Factors.mp4
+│   │   │   ├── 05. Open Close Problem.mp4
+│   │   │   ├── 06. Primality Test.mp4
+│   │   │   ├── 07. Primality Test in a range.mp4
+│   │   │   ├── 08. Implementing Sieve.mp4
+│   │   │   ├── 09. Prime Factorization.mp4
+│   │   │   ├── 10. Fast Factorization.mp4
+│   │   │   ├── 11. Counting Divisors Faster.mp4
+│   │   │   ├── 12. Segmented Sieve.mp4
+│   │   │   ├── 13. Implementing Segmented Sieve.mp4
+│   │   │   ├── 14. Fundamentals of Modular Arithmetic.mp4
+│   │   │   ├── 15. Counting Pairs.mp4
+│   │   │   ├── 16. Counting Triplets.mp4
+│   │   │   ├── 17. Basics of Combinatorics.mp4
+│   │   │   ├── 18. Permutations and Combinations.mp4
+│   │   │   ├── 19. Understanding nCr.mp4
+│   │   │   ├── 20. Pascal Triangle for nCr.mp4
+│   │   │   ├── 21. Introduction to Catalan Numbers.mp4
+│   │   │   └── 22. Applications of Catalan Numbers.mp4
+│   │   ├── 03. Time and Space Complexities
+│   │   │   ├── 01. Introducing Time Complexity.mp4
+│   │   │   ├── 02. Order of Expressions and Recurrence Relations.mp4
+│   │   │   ├── 03. Interesting Code Snippets.mp4
+│   │   │   └── 04. Space Complexity.mp4
+│   │   ├── 04. Recursion
+│   │   │   ├── 01. Basics of Recursion.mp4
+│   │   │   ├── 02. Single Branch Recursion.mp4
+│   │   │   ├── 03. Recursion Tree Diagram.mp4
+│   │   │   ├── 04. Recursion Stack Diagram.mp4
+│   │   │   ├── 05. Pass by Reference.mp4
+│   │   │   ├── 06. Print from 1 to N.mp4
+│   │   │   ├── 07. Distinct Paths  1.mp4
+│   │   │   ├── 08. Distinct Paths Alternate Implementation.mp4
+│   │   │   ├── 09. Letter Combinations.mp4
+│   │   │   ├── 10. Letter Combinations Saving Space.mp4
+│   │   │   ├── 11. All Subsets of a set.mp4
+│   │   │   ├── 12. Subsets of a set with Bitmasking.mp4
+│   │   │   ├── 13. Divide and Conquer.mp4
+│   │   │   ├── 14. Fast Exponentiation.mp4
+│   │   │   ├── 15. Balanced Parantheses.mp4
+│   │   │   ├── 16. Lexicographic Subsets.mp4
+│   │   │   ├── 17. Subset Sum1.mp4
+│   │   │   └── 18. Subset Sum2.mp4
+│   │   └── 05. Backtracking
+│   │       ├── 01. Permutations of a String  1.mp4
+│   │       ├── 02. Permutations of a String  2.mp4
+│   │       ├── 03. Permutations of a String  3.mp4
+│   │       ├── 04. Paths  1.mp4
+│   │       ├── 05. Paths  2.mp4
+│   │       ├── 06. NQueens.mp4
+│   │       └── 07. Sudoku Solver.mp4
+│   ├── 03. Fundamental Algorithms
+│   │   ├── 01. Searching
+│   │   │   ├── 01. Binary Search.mp4
+│   │   │   ├── 02. Common Observations.mp4
+│   │   │   ├── 03. First and Last Occurrence.mp4
+│   │   │   ├── 04. Search in Sorted Rotated Array.mp4
+│   │   │   ├── 05. Peak Element.mp4
+│   │   │   ├── 06. Repeated Element.mp4
+│   │   │   ├── 07. Single Element.mp4
+│   │   │   ├── 08. Monotonic Functions.mp4
+│   │   │   ├── 09. Square Root.mp4
+│   │   │   ├── 10. Kth Smallest in Array1.mp4
+│   │   │   ├── 11. Kth Smallest in Array2.mp4
+│   │   │   ├── 12. Kth Smallest in Matrix.mp4
+│   │   │   ├── 13. Maximize K.mp4
+│   │   │   ├── 14. Place the Cows.mp4
+│   │   │   ├── 15. Allocate the Books.mp4
+│   │   │   ├── 16. Smallest Good Base.mp4
+│   │   │   └── 17. Family of Strings.mp4
+│   │   ├── 02. Sorting Algorithms
+│   │   │   ├── 01. Comparators and Stability.mp4
+│   │   │   ├── 02. Custom Comparators.mp4
+│   │   │   ├── 03. Custom Sorting.mp4
+│   │   │   ├── 04. Insertion Sort.mp4
+│   │   │   ├── 05. Bubble Sort.mp4
+│   │   │   ├── 06. Dealing with Absolute Values.mp4
+│   │   │   ├── 07. Solve the Equation.mp4
+│   │   │   ├── 08. Next Greater Permutation.mp4
+│   │   │   ├── 09. Maximize the Index Difference.mp4
+│   │   │   ├── 10. Smallest Subarray.mp4
+│   │   │   ├── 11. Processing Range Queries.mp4
+│   │   │   ├── 12. Special Election.mp4
+│   │   │   ├── 13. Merge Process.mp4
+│   │   │   ├── 14. Applications of Merge Process.mp4
+│   │   │   ├── 15. Merge Sort.mp4
+│   │   │   ├── 16. Inversion Count.mp4
+│   │   │   ├── 17. Application of Inversion Count.mp4
+│   │   │   ├── 18. Quick Sort.mp4
+│   │   │   ├── 19. Space Efficient Partition.mp4
+│   │   │   ├── 20. Applications of Partition.mp4
+│   │   │   ├── 21. Count Sort.mp4
+│   │   │   ├── 22. Radix Sort.mp4
+│   │   │   └── 23. Sorting in Linear Time.mp4
+│   │   ├── 03. Two Pointers
+│   │   │   ├── 01. Pair Sum1.mp4
+│   │   │   ├── 02. Pair Sum2.mp4
+│   │   │   ├── 03. Pair Difference.mp4
+│   │   │   ├── 04. Subarray Sum.mp4
+│   │   │   ├── 05. Triplet Sum.mp4
+│   │   │   ├── 06. Quadruplet Sum.mp4
+│   │   │   ├── 07. Distinct Rectangles.mp4
+│   │   │   ├── 08. Longest Substring without repetition.mp4
+│   │   │   ├── 09. Smallest substring with all characters.mp4
+│   │   │   ├── 10. Minimize the Expression.mp4
+│   │   │   └── 11. Specific Prime Factorization.mp4
+│   │   └── 04. Bit Manipulation
+│   │       ├── 01. Bitwise Operators1.mp4
+│   │       ├── 02. Bitwise Operators2.mp4
+│   │       ├── 03. Using Bitwise Operators.mp4
+│   │       ├── 04. Count of set bits.mp4
+│   │       ├── 05. Cumulative Bitwise AND.mp4
+│   │       ├── 06. Detecting odd one out.mp4
+│   │       ├── 07. Hamming Distances.mp4
+│   │       ├── 08. Bitwise OR of subarrays.mp4
+│   │       ├── 09. Finding Minimum XOR.mp4
+│   │       ├── 10. Multiple XOR queries.mp4
+│   │       ├── 11. Pair with given XOR.mp4
+│   │       └── 12. Find Two Elements.mp4
+│   └── 04. Fundamental Data Structures
+│       ├── 01. Hashing
+│       │   ├── 01. What is Hashing.mp4
+│       │   ├── 02. How Hashtables work.mp4
+│       │   ├── 03. Using Hashtables and TreeMaps.mp4
+│       │   ├── 04. Processing Queries.mp4
+│       │   ├── 05. Check for a pair.mp4
+│       │   ├── 06. Subarray with given sum.mp4
+│       │   ├── 07. Longest Subarray with given sum.mp4
+│       │   ├── 08. Count of Subarrays.mp4
+│       │   ├── 09. Consecutive Elements.mp4
+│       │   ├── 10. Longest Consecutive Sequence.mp4
+│       │   ├── 11. Longest Consecutive Sequence2.mp4
+│       │   ├── 12. Boolean Matrix.mp4
+│       │   ├── 13. Boolean Matrix2.mp4
+│       │   ├── 14. Maximum Points on same line.mp4
+│       │   ├── 15. Substring containing all words.mp4
+│       │   ├── 16. Making Palindromes  1.mp4
+│       │   └── 17. Making Palindromes  2.mp4
+│       ├── 02. Stacks
+│       │   ├── 01. What is a Stack.mp4
+│       │   ├── 02. Two Stacks in same Array.mp4
+│       │   ├── 03. Push Bottom in a Stack.mp4
+│       │   ├── 04. Reverse a Stack.mp4
+│       │   ├── 05. Next Greater Element.mp4
+│       │   ├── 06. Largest Area Rectangle.mp4
+│       │   ├── 07. Binary Matrix  1.mp4
+│       │   ├── 08. Binary Matrix  2.mp4
+│       │   ├── 09. Sum of Minimums.mp4
+│       │   ├── 10. Remove Duplicates.mp4
+│       │   ├── 11. Design Min Stack.mp4
+│       │   └── 12. Design Min Stack Efficiently.mp4
+│       ├── 03. Queues
+│       │   ├── 01. What is a Queue.mp4
+│       │   ├── 02. Circular Queue.mp4
+│       │   ├── 03. Inbuilt Queue.mp4
+│       │   ├── 04. Design Queue With Stacks.mp4
+│       │   ├── 05. Design Queue With Stacks  2.mp4
+│       │   ├── 06. Design Stack With Queues.mp4
+│       │   ├── 07. Reverse a Queue.mp4
+│       │   ├── 08. Level Order Traversal.mp4
+│       │   ├── 09. Binary Forms.mp4
+│       │   ├── 10. Doublyended Queue.mp4
+│       │   ├── 11. Maximum in Sliding Window.mp4
+│       │   ├── 12. Maximum in Sliding Window  2.mp4
+│       │   └── 13. First Negative Integer.mp4
+│       ├── 04. Linked Lists
+│       │   ├── 01. What is a Linked List.mp4
+│       │   ├── 02. Basic Operations.mp4
+│       │   ├── 03. Middle Node.mp4
+│       │   ├── 04. Delete Nth Node From End.mp4
+│       │   ├── 05. Reverse Linked List Iteratively.mp4
+│       │   ├── 06. Reverse Linked List Recursively.mp4
+│       │   ├── 07. Palindrome Linked List.mp4
+│       │   ├── 08. KReverse a Linked List.mp4
+│       │   ├── 09. Cycle Detection  1.mp4
+│       │   ├── 10. Cycle Detection  2.mp4
+│       │   ├── 11. Cycle Detection  3.mp4
+│       │   ├── 12. Merge Linked Lists Iteratively.mp4
+│       │   ├── 13. Merge Linked Lists Recursively.mp4
+│       │   ├── 14. Merge K Linked Lists.mp4
+│       │   ├── 15. Clone Linked List  1.mp4
+│       │   ├── 16. Clone Linked List  2.mp4
+│       │   ├── 17. Flatten a Linked List.mp4
+│       │   ├── 18. Doubly Linked List.mp4
+│       │   ├── 19. LRU Cache  1.mp4
+│       │   └── 20. LRU Cache  2.mp4
+│       ├── 05. Binary Trees
+│       │   ├── 01. What are Trees.mp4
+│       │   ├── 02. Counting Nodes.mp4
+│       │   ├── 03. Counting Leaves.mp4
+│       │   ├── 04. Mirror Image of Binary Tree.mp4
+│       │   ├── 05. Symmetric Binary Tree.mp4
+│       │   ├── 06. Height of Binary Tree.mp4
+│       │   ├── 07. Minimum Height of Binary Tree.mp4
+│       │   ├── 08. Root to Leaf Paths.mp4
+│       │   ├── 09. Diameter of Binary Tree  1.mp4
+│       │   ├── 10. Diameter of Binary Tree  2.mp4
+│       │   ├── 11. Diameter of Binary Tree  3.mp4
+│       │   ├── 12. Height Balanced Binary Tree.mp4
+│       │   ├── 13. Maximum Sum Path.mp4
+│       │   ├── 14. Binary Tree to Doubly Linked List.mp4
+│       │   ├── 15. All Possible Binary Trees.mp4
+│       │   ├── 16. All Possible Binary Trees  2.mp4
+│       │   ├── 17. Recursive Tree Traversals.mp4
+│       │   ├── 18. Iterative Preorder Traversal.mp4
+│       │   ├── 19. A Generic Tree Traversal Technique.mp4
+│       │   ├── 20. Iterative Inorder Traversal without flag.mp4
+│       │   ├── 21. Level Order Traversal.mp4
+│       │   ├── 22. ZigZag Level Order Traversal.mp4
+│       │   ├── 23. Left and Right Views of Binary Tree.mp4
+│       │   ├── 24. Vertical Order Traversal  1.mp4
+│       │   ├── 25. Vertical Order Traversal  2.mp4
+│       │   ├── 26. Top and Bottom Views of Binary Tree.mp4
+│       │   ├── 27. Count of Nodes in Complete Binary Tree  1.mp4
+│       │   ├── 28. Count of Nodes in Complete Binary Tree  2.mp4
+│       │   ├── 29. Count of Nodes in Complete Binary Tree  3.mp4
+│       │   ├── 30. Binary Tree Reconstruction.mp4
+│       │   ├── 31. Reconstructing Tree from given traversals  1.mp4
+│       │   ├── 32. Reconstructing Tree from given traversals  2.mp4
+│       │   ├── 33. Reconstructing Tree from Preorder traversal.mp4
+│       │   ├── 34. Subtree of a Tree.mp4
+│       │   ├── 35. Serialization and Deserialization of Tree.mp4
+│       │   ├── 36. LCA  1.mp4
+│       │   ├── 37. LCA  2.mp4
+│       │   └── 38. Distance between Nodes.mp4
+│       ├── 06. Binary Search Trees
+│       │   ├── 01. What is a BST.mp4
+│       │   ├── 02. Search in BST.mp4
+│       │   ├── 03. Insert in BST.mp4
+│       │   ├── 04. Delete in BST.mp4
+│       │   ├── 05. Implementing Delete in BST.mp4
+│       │   ├── 06. Kth smallest Node in BST.mp4
+│       │   ├── 07. Check if a Binary Tree is BST  1.mp4
+│       │   ├── 08. Check if a Binary Tree is BST  2.mp4
+│       │   ├── 09. Check if a Binary Tree is BST  3.mp4
+│       │   ├── 10. Creating BST from Sorted Array.mp4
+│       │   ├── 11. Largest BST in a Binary Tree.mp4
+│       │   ├── 12. Reconstructing a BST.mp4
+│       │   ├── 13. BST Iterator  1.mp4
+│       │   ├── 14. BST Iterator  2.mp4
+│       │   ├── 15. Pair Sum in BST.mp4
+│       │   ├── 16. LCA in BST.mp4
+│       │   ├── 17. BST Recovery  1.mp4
+│       │   └── 18. BST Recovery  2.mp4
+│       └── 07. N-ary and Generic Trees
+│           ├── 01. Introduction and Representation.mp4
+│           ├── 02. Rooted and Unrooted Trees.mp4
+│           ├── 03. Generic Tree Traversal.mp4
+│           ├── 04. Diameter and Height.mp4
+│           ├── 05. Diameter and Height  2.mp4
+│           ├── 06. Cats in Park.mp4
+│           └── 07. Industries in Kingdom.mp4
+├── 02. Section 2
+│   ├── 01. Advanced DSA - 1
+│   │   ├── 01. Range Queries
+│   │   │   ├── 01. Intro to Range Queries.mp4
+│   │   │   ├── 02. Square Root Decomposition.mp4
+│   │   │   └── 03. Sparse Table.mp4
+│   │   ├── 02. Tries
+│   │   │   ├── 01. Prefix Match Problem.mp4
+│   │   │   ├── 02. Introduction to Tries.mp4
+│   │   │   ├── 03. Prefix Search in Trie.mp4
+│   │   │   ├── 04. Insertion in Tries.mp4
+│   │   │   ├── 05. Deletion in Tries.mp4
+│   │   │   ├── 06. Shortest Unique Prefixes.mp4
+│   │   │   ├── 07. Storing Binary Numbers in Tries.mp4
+│   │   │   └── 08. Maximum XOR in an Array.mp4
+│   │   └── 03. Graph Algorithms
+│   │       ├── 01. What is a Graph.mp4
+│   │       ├── 02. Important Terms for Graph.mp4
+│   │       ├── 03. Degree of a Node.mp4
+│   │       ├── 04. Graph Representation.mp4
+│   │       ├── 05. Breadth First Search.mp4
+│   │       ├── 06. BFS Tree.mp4
+│   │       ├── 07. Shortest Path in an Undirected Graph.mp4
+│   │       ├── 08. Knight Tour.mp4
+│   │       ├── 09. Closest Zero.mp4
+│   │       ├── 10. Rotten Oranges.mp4
+│   │       ├── 11. Word Ladder.mp4
+│   │       ├── 12. Word Ladder  Alternate Approach.mp4
+│   │       ├── 13. Depth First Search.mp4
+│   │       ├── 14. Number of Connected Components.mp4
+│   │       ├── 15. Number of Islands.mp4
+│   │       ├── 16. Capture Surrounded Regions.mp4
+│   │       ├── 17. Check Bipartite Graph.mp4
+│   │       ├── 18. Detect Cycle in Undirected Graph.mp4
+│   │       ├── 19. Detect Cycle in Directed Graph.mp4
+│   │       ├── 20. Topological Sorting.mp4
+│   │       ├── 21. Course Schedule.mp4
+│   │       ├── 22. Topological Sort in Alternate way.mp4
+│   │       ├── 23. Order of Characters.mp4
+│   │       ├── 24. Disjoint Set Union.mp4
+│   │       ├── 25. Optimised Union.mp4
+│   │       ├── 26. Min Spanning Tree  Kruskal Algorithm.mp4
+│   │       ├── 27. Strongly Connected Component.mp4
+│   │       ├── 28. Articulation Points.mp4
+│   │       ├── 29. Prim Algorithm  1.mp4
+│   │       ├── 30. Prim Algorithm  2.mp4
+│   │       └── 31. Dijkstra Algorithm.mp4
+│   ├── 02. CS Fundamentals
+│   │   ├── 01. Operating Systems
+│   │   │   ├── 01. Introduction.mp4
+│   │   │   ├── 02. Resource Management.mp4
+│   │   │   ├── 03. CPU Virtualization.mp4
+│   │   │   ├── 04. Memory Virtualization.mp4
+│   │   │   ├── 05. Introduction to Processes.mp4
+│   │   │   ├── 06. Process Lifecycle.mp4
+│   │   │   ├── 07. Creation of Processes.mp4
+│   │   │   ├── 08. Termination of Processes.mp4
+│   │   │   ├── 09. Introduction to Process Scheduling FIFO.mp4
+│   │   │   ├── 10. Shortest Job First Algorithm.mp4
+│   │   │   ├── 11. Shortest Time to Completion Algorithm.mp4
+│   │   │   ├── 12. Round Robin Algorithm.mp4
+│   │   │   ├── 13. Multilevel Feedback Queue Scheduling.mp4
+│   │   │   ├── 14. Modes of Process Execution.mp4
+│   │   │   ├── 15. Context Switch.mp4
+│   │   │   ├── 16. Interprocess Communication.mp4
+│   │   │   ├── 17. Memory Hierarchy Model.mp4
+│   │   │   ├── 18. Address Translation.mp4
+│   │   │   ├── 19. Segmentation.mp4
+│   │   │   ├── 20. Fragmentation.mp4
+│   │   │   ├── 21. Paging.mp4
+│   │   │   ├── 22. Translation Lookaside Buffer.mp4
+│   │   │   ├── 23. Hierarchical  Inverted Page Tables.mp4
+│   │   │   ├── 24. Swap Space.mp4
+│   │   │   ├── 25. Page Replacement Policies.mp4
+│   │   │   ├── 26. LRU Page Replacement.mp4
+│   │   │   ├── 27. Second Chance Algorithm.mp4
+│   │   │   ├── 28. Concurrency vs Parallellism.mp4
+│   │   │   ├── 29. Threads  Memory Model.mp4
+│   │   │   ├── 30. Threading Models.mp4
+│   │   │   ├── 31. Problem of Synchronisation.mp4
+│   │   │   ├── 32. Peterson Solution.mp4
+│   │   │   ├── 33. Mutexes.mp4
+│   │   │   ├── 34. Semaphores.mp4
+│   │   │   ├── 35. Introduction to Deadlocks.mp4
+│   │   │   ├── 36. Deadlock Prevention.mp4
+│   │   │   ├── 37. Resource Allocation Graph.mp4
+│   │   │   ├── 38. Banker Algorithm.mp4
+│   │   │   ├── 39. Deadlock Detection  Recovery.mp4
+│   │   │   ├── 40. Monitors.mp4
+│   │   │   ├── 41. Bounded Buffer Problem.mp4
+│   │   │   ├── 42. Readers Writers Problem.mp4
+│   │   │   ├── 43. Dining Philosopher Problem.mp4
+│   │   │   └── 44. Thrashing.mp4
+│   │   ├── 02. Database Management Systems
+│   │   │   ├── 01. Introduction to DBMS.mp4
+│   │   │   ├── 02. Database Evolution in Software.mp4
+│   │   │   ├── 03. Types of Databases.mp4
+│   │   │   ├── 04. Entity Relationship Diagram.mp4
+│   │   │   ├── 05. Types of Relations.mp4
+│   │   │   ├── 06. Converting ER Diagrams to Tables.mp4
+│   │   │   ├── 07. CREATE Command and Keys.mp4
+│   │   │   ├── 08. CRUD Operations using SQL.mp4
+│   │   │   ├── 09. Grouping and Aggregations.mp4
+│   │   │   ├── 10. Joins in SQL.mp4
+│   │   │   ├── 11. Nested Queries in SQL.mp4
+│   │   │   ├── 12. Transactions ACID Properties.mp4
+│   │   │   ├── 13. Transaction Schedules.mp4
+│   │   │   ├── 14. Conflict Serialisability.mp4
+│   │   │   ├── 15. Precendence Graph.mp4
+│   │   │   ├── 16. View Serialisability.mp4
+│   │   │   ├── 17. Recoverable and Cascadeless Schedules.mp4
+│   │   │   ├── 18. Bad vs Good DB Design.mp4
+│   │   │   ├── 19. Functional Dependencies.mp4
+│   │   │   ├── 20. Second Normal Form.mp4
+│   │   │   ├── 21. Third Normal Form.mp4
+│   │   │   └── 22. Boyce Codd Normal Form.mp4
+│   │   └── 03. Computer Networks
+│   │       ├── 01. Introduction to Computer Networks.mp4
+│   │       ├── 02. OSI Model.mp4
+│   │       ├── 03. Introduction to Physical Layer.mp4
+│   │       ├── 04. Modem Device.mp4
+│   │       ├── 05. Multiplexing.mp4
+│   │       ├── 06. Switching Technologies.mp4
+│   │       ├── 07. Introduction to Data Link Layer.mp4
+│   │       ├── 08. Error Control.mp4
+│   │       ├── 09. Flow Control.mp4
+│   │       ├── 10. Access Control.mp4
+│   │       ├── 11. Devices in Physical and Data Link Layer.mp4
+│   │       ├── 12. Network Topologies.mp4
+│   │       ├── 13. MAC Addresses.mp4
+│   │       ├── 14. Network Delays.mp4
+│   │       ├── 15. Introduction to Network Layer.mp4
+│   │       ├── 16. Connection Oriented Routing.mp4
+│   │       ├── 17. Connectionless Routing.mp4
+│   │       ├── 18. Distance Vector Routing.mp4
+│   │       ├── 19. Link State Routing and Hierarchical Routing.mp4
+│   │       ├── 20. Broadcasting Algorithms.mp4
+│   │       ├── 21. Multicasting and Anycasting Algorithms.mp4
+│   │       ├── 22. IP Addressing.mp4
+│   │       ├── 23. Public vs Private IP.mp4
+│   │       ├── 24. VPNs and Firewalls.mp4
+│   │       ├── 25. Introduction To Transport Layer.mp4
+│   │       ├── 26. Error And Flow Control.mp4
+│   │       ├── 27. Congestion Control Traffic Aware Routing.mp4
+│   │       ├── 28. Congestion Control Traffic Throttling.mp4
+│   │       ├── 29. Congestion Control Admission Control.mp4
+│   │       ├── 30. Congestion Control Load Shedding and RED.mp4
+│   │       ├── 31. Three Way Handshake.mp4
+│   │       ├── 32. TCP vs UDP.mp4
+│   │       ├── 33. Session Layer.mp4
+│   │       ├── 34. Presentation Layer.mp4
+│   │       ├── 35. Introduction to Application Layer.mp4
+│   │       ├── 36. Socket Programming.mp4
+│   │       ├── 37. Common Application Layer Protocols.mp4
+│   │       └── 38. How any website opens up on Browser.mp4
+│   └── 03. Low Level Design
+│       ├── 01. Let us learn Clean Coding
+│       │   ├── 01. What is Clean Coding.mp4
+│       │   ├── 02. Importance of Naming.mp4
+│       │   ├── 03. Best Practices for Naming.mp4
+│       │   ├── 04. Clean Functions.mp4
+│       │   └── 05. Best Practices for Functions.mp4
+│       ├── 02. Object Oriented Principles and Concepts
+│       │   ├── 01. Separating out Files.mp4
+│       │   ├── 02. A Basic Intro to Class.mp4
+│       │   ├── 03. A Basic Intro to Objects.mp4
+│       │   ├── 04. Access Modifiers.mp4
+│       │   ├── 05. Static Variables.mp4
+│       │   ├── 06. Static Methods.mp4
+│       │   ├── 07. All about Constructors.mp4
+│       │   ├── 08. this Keyword.mp4
+│       │   ├── 09. final Keyword.mp4
+│       │   ├── 10. Encapsulation.mp4
+│       │   ├── 11. Polymorphism.mp4
+│       │   ├── 12. Generic Sorting Using Polymorphism.mp4
+│       │   ├── 13. Runtime vs Compile time Polymorphism.mp4
+│       │   ├── 14. More on Polymorphism.mp4
+│       │   └── 15. Intro to Inheritance.mp4
+│       ├── 03. Design Principles
+│       │   ├── 01. Single Responsibility Principle.mp4
+│       │   ├── 02. Open Closed Principle.mp4
+│       │   ├── 03. Liskov Substitution Principle.mp4
+│       │   ├── 04. Interface Segregation Principle.mp4
+│       │   └── 05. Dependency Inversion Principle.mp4
+│       └── 04. Design Patterns and Case Studies
+│           ├── 01. Design TicTacToe1.mp4
+│           ├── 02. Design TicTacToe2.mp4
+│           ├── 03. Right Way to Approach Problem.mp4
+│           ├── 04. Library Management System  Requirements.mp4
+│           ├── 05. Figuring out the flows.mp4
+│           ├── 06. Structure.mp4
+│           ├── 07. A General Guideline.mp4
+│           ├── 08. Execution.mp4
+│           ├── 09. Food Delivery System  Requirements.mp4
+│           ├── 10. High Level APIs.mp4
+│           ├── 11. Designing Searcher.mp4
+│           ├── 12. Implementing Searcher.mp4
+│           ├── 13. Designing Cart Operations.mp4
+│           ├── 14. Implementing Cart Operations.mp4
+│           ├── 15. Finishing up the Cart.mp4
+│           ├── 16. PlaceOrder API.mp4
+│           ├── 17. UpdateOrder API.mp4
+│           ├── 18. Builder Pattern.mp4
+│           ├── 19. Decorator Pattern  1.mp4
+│           ├── 20. Decorator Pattern  2.mp4
+│           ├── 21. Factory Pattern.mp4
+│           ├── 22. Abstract Factory Pattern.mp4
+│           ├── 23. Design Chess.mp4
+│           ├── 24. Design Parking Lot.mp4
+│           └── 25. Strategy Pattern.mp4
+└── 03. Section 3
+    ├── 01. Advanced DSA - 2
+    │   ├── 01. Heaps
+    │   │   ├── 01. What is Heap.mp4
+    │   │   ├── 02. Building a Max Heap  1.mp4
+    │   │   ├── 03. Building a Max Heap  2.mp4
+    │   │   ├── 04. Heap Operations.mp4
+    │   │   ├── 05. Priority Queue.mp4
+    │   │   ├── 06. Heap Sort.mp4
+    │   │   ├── 07. K Closest Points on XY plane.mp4
+    │   │   ├── 08. Tying Ropes.mp4
+    │   │   ├── 09. Merge K sorted Arrays.mp4
+    │   │   ├── 10. K smallest sum pairs.mp4
+    │   │   ├── 11. K smallest sum pairs  Implementation.mp4
+    │   │   ├── 12. Kth smallest in special Matrix.mp4
+    │   │   ├── 13. Task Scheduling.mp4
+    │   │   ├── 14. Numbers with Limited Prime Factors  1.mp4
+    │   │   └── 15. Numbers with Limited Prime Factors  2.mp4
+    │   ├── 02. Greedy
+    │   │   ├── 01. What is Greedy Algorithm.mp4
+    │   │   ├── 02. Activity Selection  1.mp4
+    │   │   ├── 03. Activity Selection  2.mp4
+    │   │   ├── 04. Activity Selection  3.mp4
+    │   │   ├── 05. Minimum no of platforms  1.mp4
+    │   │   ├── 06. Minimum no of platforms  2.mp4
+    │   │   ├── 07. Job Sequencing  1.mp4
+    │   │   ├── 08. Job Sequencing  2.mp4
+    │   │   ├── 09. Fractional Knapsack Problem.mp4
+    │   │   ├── 10. K Max in Running Stream.mp4
+    │   │   ├── 11. Median in Running Stream  1.mp4
+    │   │   ├── 12. Median in Running Stream  2.mp4
+    │   │   ├── 13. Data Compression.mp4
+    │   │   ├── 14. Huffman Encoding  1.mp4
+    │   │   └── 15. Huffman Encoding  2.mp4
+    │   └── 03. Dynamic Programming
+    │       ├── 01. What is DP.mp4
+    │       ├── 02. Top Bottom vs Bottom Top.mp4
+    │       ├── 03. Staircase Problem.mp4
+    │       ├── 04. Tile the Lane.mp4
+    │       ├── 05. Maximum Non Adjacent Sum  1.mp4
+    │       ├── 06. Maximum Non Adjacent Sum  2.mp4
+    │       ├── 07. Count of Decodings  1.mp4
+    │       ├── 08. Count of Decodings  2.mp4
+    │       ├── 09. Rod Cutting Problem.mp4
+    │       ├── 10. Coin Change  1.mp4
+    │       ├── 11. Coin Change  2.mp4
+    │       ├── 12. Bottom Top For Coin Change  2.mp4
+    │       ├── 13. Space Optimised Coin Change  2.mp4
+    │       ├── 14. 01 Bounded Knapsack  1.mp4
+    │       ├── 15. 01 Bounded Knapsack  2.mp4
+    │       ├── 16. Longest Increasing Subsequence.mp4
+    │       ├── 17. Longest Bitonic Subsequence.mp4
+    │       ├── 18. Envelopes  1.mp4
+    │       ├── 19. Envelopes  2.mp4
+    │       ├── 20. Longest Common Subsequence  1.mp4
+    │       ├── 21. Longest Common Subsequence  2.mp4
+    │       ├── 22. Printing Longest Common Subsequence.mp4
+    │       ├── 23. Longest Palindromic Subsequence  1.mp4
+    │       ├── 24. Longest Palindromic Subsequence  2.mp4
+    │       ├── 25. Longest Palindromic Subsequence  3.mp4
+    │       ├── 26. Longest Palindromic Substring.mp4
+    │       ├── 27. Edit Distance  1.mp4
+    │       ├── 28. Edit Distance  2.mp4
+    │       ├── 29. Pattern Matching  1.mp4
+    │       ├── 30. Pattern Matching  2.mp4
+    │       ├── 31. Counting Subsequences  1.mp4
+    │       ├── 32. Counting Subsequences  2.mp4
+    │       ├── 33. Matrix Chain Multiplication  1.mp4
+    │       ├── 34. Matrix Chain Multiplication  2.mp4
+    │       ├── 35. Counting Paths  1.mp4
+    │       ├── 36. Counting Paths  2.mp4
+    │       └── 37. Min Sum Path.mp4
+    ├── 02. High Level Design
+    │   ├── 01. Understanding Web Architecture & Intro to HLD Concepts
+    │   │   ├── 01. Understanding Web Architecture  Frontend.mp4
+    │   │   ├── 02. Understanding Web Architecture  Databases.mp4
+    │   │   ├── 03. Understanding Web Architecture  Backend.mp4
+    │   │   ├── 04. Reliability.mp4
+    │   │   ├── 05. Scalability.mp4
+    │   │   └── 06. Maintainability.mp4
+    │   ├── 02. Databases
+    │   │   ├── 01. Database Reliability Replication.mp4
+    │   │   ├── 02. CAP Theorem.mp4
+    │   │   ├── 03. Leaderless Replication Model.mp4
+    │   │   ├── 04. Single Leader Replication Model.mp4
+    │   │   ├── 05. Multiple Leader Replication Model.mp4
+    │   │   ├── 06. Database Reliability Transactions Write Ahead Logs.mp4
+    │   │   ├── 07. Database Maintainability Federation.mp4
+    │   │   ├── 08. Database Maintainability SQL vs NoSQL.mp4
+    │   │   ├── 09. Database Scalability Denormalisation.mp4
+    │   │   ├── 10. Database Scalability Indexing.mp4
+    │   │   ├── 11. Types of Indices.mp4
+    │   │   └── 12. Database Scalability Sharding.mp4
+    │   ├── 03. Backend and Frontend System Design
+    │   │   ├── 01. Backend Reliability REST APIs.mp4
+    │   │   ├── 02. Load Balancers.mp4
+    │   │   ├── 03. Load Balancing Algorithms.mp4
+    │   │   ├── 04. Consistent Hashing.mp4
+    │   │   ├── 05. Backend Maintainability Microservices.mp4
+    │   │   ├── 06. Service Discovery.mp4
+    │   │   ├── 07. Forward and Reverse Proxies.mp4
+    │   │   ├── 08. Backend Scalability Message Queues.mp4
+    │   │   ├── 09. Polling and Websockets.mp4
+    │   │   └── 10. Frontend System Design Content Delivery Networks.mp4
+    │   ├── 04. Cache
+    │   │   ├── 01. Introduction to Caches.mp4
+    │   │   ├── 02. Cache Positions in Web Architecture.mp4
+    │   │   ├── 03. Cache Invalidation and Cache Eviction.mp4
+    │   │   └── 04. Cache Patterns.mp4
+    │   └── 05. Case Studies
+    │       ├── 01. Tackling System Design Problems.mp4
+    │       ├── 02. Designing URL Shortener Functional and Non Functional Requirements.mp4
+    │       ├── 03. Designing URL Shortener Back of The Envelop Calculations.mp4
+    │       ├── 04. Designing URL Shortener System Design Part 1.mp4
+    │       ├── 05. Designing URL Shortener System Design Part 2.mp4
+    │       └── 06. Designing URL Shortener Scaling It Further.mp4
+    └── 03. Frontend Development
+        ├── 01. Introduction
+        │   ├── 01. How Web Works.mp4
+        │   └── 02. Components of Frontend.mp4
+        ├── 02. HTML
+        │   ├── 01. Starting with HTML.mp4
+        │   ├── 02. Typographies in HTML.mp4
+        │   ├── 03. Head Tag.mp4
+        │   ├── 04. Tables in HTML.mp4
+        │   ├── 05. Images in HTML.mp4
+        │   ├── 06. Links in HTML.mp4
+        │   ├── 07. Forms in HTML.mp4
+        │   ├── 08. Lists in HTML.mp4
+        │   └── 09. More on Tags.mp4
+        ├── 03. CSS
+        │   ├── 01. Introduction to CSS.mp4
+        │   ├── 02. Getting Started with CSS.mp4
+        │   ├── 03. Backgrounds in CSS.mp4
+        │   ├── 04. Box Model.mp4
+        │   ├── 05. Units In CSS.mp4
+        │   ├── 06. Responsiveness in CSS.mp4
+        │   └── 07. Positions in CSS.mp4
+        ├── 04. Flex and Grid Models
+        │   ├── 01. Flexbox.mp4
+        │   ├── 02. Flex Order and Grow.mp4
+        │   └── 03. Grid Model.mp4
+        ├── 05. Javascript Introduction
+        │   ├── 01. Introduction to Javascript.mp4
+        │   └── 02. Compiled vs Interpreted Language.mp4
+        ├── 06. Writing JS Code
+        │   ├── 01. Datatypes in Javascript.mp4
+        │   ├── 02. Undefined vs Null.mp4
+        │   ├── 03. Operators in Javascript.mp4
+        │   ├── 04. If Else in Javascript.mp4
+        │   ├── 05. Switch in Javascript.mp4
+        │   ├── 06. Loops in Javascript.mp4
+        │   ├── 07. Nested Loops in Javascript.mp4
+        │   ├── 08. Introduction to Arrays.mp4
+        │   ├── 09. Shallow vs Deep Copying.mp4
+        │   ├── 10. Functions in Javascript.mp4
+        │   ├── 11. Looping on Arrays.mp4
+        │   ├── 12. Searching in Arrays.mp4
+        │   ├── 13. Filteration in Arrays.mp4
+        │   ├── 14. Sorting in Arrays.mp4
+        │   ├── 15. CRUD in Arrays.mp4
+        │   ├── 16. Map Function.mp4
+        │   ├── 17. Reduce Function.mp4
+        │   ├── 18. String Methods.mp4
+        │   ├── 19. Introduction to Objects.mp4
+        │   └── 20. Rest Spread and Destructuring.mp4
+        ├── 07. Async JS 
+        │   ├── 01. Execution Context.mp4
+        │   ├── 02. SetInterval  SetTimeout.mp4
+        │   ├── 03. Async JS.mp4
+        │   ├── 04. ES 6.mp4
+        │   ├── 05. DOM Manipulation.mp4
+        │   ├── 06. Callbacks.mp4
+        │   └── 07. Promises and AsyncAwait.mp4
+        └── 08. React JS
+            ├── 01. Angular vs React vs Vue.mp4
+            ├── 02. Why React.mp4
+            ├── 03. Virtual DOM.mp4
+            ├── 04. Starting with React.mp4
+            ├── 05. JSX.mp4
+            ├── 06. Styling with JSX.mp4
+            ├── 07. Props in React.mp4
+            ├── 08. State in React.mp4
+            ├── 09. Maps and Filters in React.mp4
+            └── 10. Tailwind CSS.mp4
+
+68 directories, 780 files

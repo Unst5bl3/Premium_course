@@ -1,0 +1,289 @@
+Low Level Design for Professionals
+├── 01. Clean Code
+│   └── 01. Writing a Clean Code
+│       ├── 01. What is Clean Coding.mp4
+│       ├── 02. Importance of Naming.mp4
+│       ├── 03. Best Practices for Naming.mp4
+│       ├── 04. Clean Functions.mp4
+│       └── 05. Best Practices for Functions.mp4
+├── 02. OOPS Concepts
+│   ├── 01. The World of Objects
+│   │   ├── 01. Separating out Files.mp4
+│   │   ├── 02. A Basic Intro to Class.mp4
+│   │   └── 03. A Basic Intro to Objects.mp4
+│   ├── 02. Important Constructs
+│   │   ├── 01. Access Modifiers.mp4
+│   │   ├── 02. Static Variables.mp4
+│   │   ├── 03. Static Methods.mp4
+│   │   ├── 04. All about Constructors.mp4
+│   │   ├── 05. this Keyword.mp4
+│   │   └── 06. final Keyword.mp4
+│   └── 03. Pillars of OOPS
+│       ├── 01. Encapsulation.mp4
+│       ├── 02. Polymorphism.mp4
+│       ├── 03. Generic Sorting Using Polymorphism.mp4
+│       ├── 04. Runtime vs Compile time Polymorphism.mp4
+│       ├── 05. More on Polymorphism.mp4
+│       ├── 06. Intro to Inheritance.mp4
+│       ├── 07. Abstract Class.mp4
+│       ├── 08. Constructor Chaining.mp4
+│       └── 09. Abstraction.mp4
+├── 03. Design Principles
+│   ├── 01. SOLID Principles
+│   │   ├── 01. Single Responsibility Principle.mp4
+│   │   ├── 02. Open Closed Principle.mp4
+│   │   ├── 03. Liskov Substitution Principle.mp4
+│   │   ├── 04. Interface Segregation Principle.mp4
+│   │   └── 05. Dependency Inversion Principle.mp4
+│   └── 02. Composition vs Inheritance
+│       ├── 01. Perils of Inheritance.mp4
+│       └── 02. Prefer Composition over Inheritance.mp4
+├── 04. Design Patterns And Case Studies - Easy
+│   ├── 01. Thought Process before Designing
+│   │   ├── 01. Right Way to Approach Problem.mp4
+│   │   ├── 02. Library Management System  Requirements.mp4
+│   │   ├── 03. Figuring out the flows.mp4
+│   │   ├── 04. Structure.mp4
+│   │   ├── 05. A General Guideline.mp4
+│   │   └── 06. Execution.mp4
+│   ├── 02. Our first Design Pattern
+│   │   └── 01. Builder Pattern.mp4
+│   ├── 03. Centralising the Creational Responsibility
+│   │   ├── 01. Factory Pattern.mp4
+│   │   └── 02. Abstract Factory Pattern.mp4
+│   ├── 04. Changing Strategies during runtime
+│   │   └── 01. Strategy Pattern.mp4
+│   ├── 05. Designing for Extension
+│   │   └── 01. Design Chess.mp4
+│   └── 06. Iterating in a Smarter Way
+│       ├── 01. Introduction .mp4
+│       ├── 02. Responsibility of Iteration .mp4
+│       ├── 03. Iterable and Iterators.mp4
+│       ├── 04. Concrete Iterators.mp4
+│       └── 05. Conclusion.mp4
+├── 05. Design Patterns And Case Studies - Medium
+│   ├── 01. Practising Top Bottom design approach
+│   │   ├── 01. Food Delivery System  Requirements.mp4
+│   │   ├── 02. High Level APIs.mp4
+│   │   ├── 03. Designing Searcher.mp4
+│   │   ├── 04. Implementing Searcher.mp4
+│   │   ├── 05. Designing Cart Operations.mp4
+│   │   ├── 06. Implementing Cart Operations.mp4
+│   │   ├── 07. Finishing up the Cart.mp4
+│   │   ├── 08. PlaceOrder API.mp4
+│   │   └── 09. UpdateOrder API.mp4
+│   ├── 02. Practising Top Bottom everywhere
+│   │   └── 01. Design Parking Lot.mp4
+│   ├── 03. Design JSON Parser
+│   │   ├── 01. Requirements.mp4
+│   │   ├── 02. Parser and Tokenizer.mp4
+│   │   ├── 03. Implementation.mp4
+│   │   ├── 04. Completing Tokenizer.mp4
+│   │   └── 05. Conclusion.mp4
+│   ├── 04. Observer Pattern
+│   │   ├── 01. Introduction.mp4
+│   │   ├── 02. Initial Code.mp4
+│   │   ├── 03. Publisher Subscriber.mp4
+│   │   ├── 04. Publisher Interface.mp4
+│   │   ├── 05. Testing.mp4
+│   │   ├── 06. Pulling Data.mp4
+│   │   ├── 07. Many To Many.mp4
+│   │   ├── 08. FootBall PubSub Part 1.mp4
+│   │   └── 09. FootBall PubSub Part 2.mp4
+│   ├── 05. Stock Trading App
+│   │   ├── 01. Introduction.mp4
+│   │   ├── 02. Implementation Part 1.mp4
+│   │   └── 03. Implementation Part 2.mp4
+│   ├── 06. Decorating the Objects
+│   │   ├── 01. Decorator Pattern  1.mp4
+│   │   └── 02. Decorator Pattern  2.mp4
+│   ├── 07. Chain Of Responsibility Pattern
+│   │   ├── 01. Introduction.mp4
+│   │   ├── 02. Request Handlers.mp4
+│   │   ├── 03. Chain.mp4
+│   │   ├── 04. Implementation Part 1.mp4
+│   │   ├── 05. Implementation Part 2.mp4
+│   │   ├── 06. Enquiry Handler.mp4
+│   │   └── 07. Conclusion.mp4
+│   └── 08. Design Logger
+│       ├── 01. Requirements.mp4
+│       ├── 02. Implementing Loggers.mp4
+│       ├── 03. Log Destinations.mp4
+│       ├── 04. Implementing with Observer Pattern.mp4
+│       ├── 05. Initialising the Chain.mp4
+│       └── 06. Conclusion.mp4
+├── 06. Design Patterns And Case Studies - Hard
+│   ├── 01. Command Pattern
+│   │   ├── 01. Requirements of Tag Manager.mp4
+│   │   ├── 02. Introduction to Command Pattern.mp4
+│   │   ├── 03. Implementation.mp4
+│   │   ├── 04. Testing it out.mp4
+│   │   └── 05. Undo Operations.mp4
+│   ├── 02. State Pattern and ATM Design
+│   │   ├── 01. Requirements.mp4
+│   │   ├── 02. Deciding APIs and Flows.mp4
+│   │   ├── 03. Basic ATM Class.mp4
+│   │   ├── 04. Problems with Initial Code.mp4
+│   │   ├── 05. State Diagram.mp4
+│   │   ├── 06. Refining the Solution.mp4
+│   │   ├── 07. Problem With Many States.mp4
+│   │   ├── 08. Abiding by Dependency Inversion.mp4
+│   │   ├── 09. State Design Pattern.mp4
+│   │   ├── 10. Database Persistence.mp4
+│   │   ├── 11. Introducing a Factory.mp4
+│   │   ├── 12. Implementing Ready State.mp4
+│   │   ├── 13. Implementing Card Reading State.mp4
+│   │   ├── 14. Implementing Withdrawal Details Reading State.mp4
+│   │   ├── 15. Implementing Cash Dispensing State.mp4
+│   │   └── 16. Implementing Card Ejecting State.mp4
+│   ├── 03. Elevator Design
+│   │   ├── 01. Requirements.mp4
+│   │   ├── 02. States.mp4
+│   │   ├── 03. Implementing States and MoveStore.mp4
+│   │   ├── 04. Concrete States.mp4
+│   │   └── 05. Testing.mp4
+│   ├── 04. Singleton Pattern
+│   │   ├── 01. Why Singletons.mp4
+│   │   └── 02. Complete Implementation.mp4
+│   ├── 05. Design an In-Memory MySQL
+│   │   ├── 01. Introduction.mp4
+│   │   ├── 02. Requirements.mp4
+│   │   ├── 03. Database and Table.mp4
+│   │   ├── 04. Primary Key Constraint.mp4
+│   │   ├── 05. Foreign Key Constraint.mp4
+│   │   ├── 06. Commands.mp4
+│   │   ├── 07. Implementing Commands Part 1.mp4
+│   │   ├── 08. Implementing Commands Part 2.mp4
+│   │   ├── 09. Filters and Operators.mp4
+│   │   ├── 10. AND OR filter.mp4
+│   │   └── 11. Conclusion.mp4
+│   └── 06. Design an e-commerce application
+│       ├── 01. Requirements.mp4
+│       ├── 02. Searcher Part 1.mp4
+│       ├── 03. Searcher Part 2.mp4
+│       ├── 04. Designing Permissions.mp4
+│       ├── 05. Designing Cart.mp4
+│       ├── 06. Placing Order.mp4
+│       ├── 07. Order State.mp4
+│       ├── 08. Notifications.mp4
+│       └── 09. Command.mp4
+├── 07. Testability
+│   ├── 01. Introduction
+│   │   ├── 01. What is Unit Test.mp4
+│   │   ├── 02. A Simple Test Class.mp4
+│   │   ├── 03. Introduction to Mocking.mp4
+│   │   ├── 04. How is Unit Testing Different.mp4
+│   │   └── 05. Need of Frameworks.mp4
+│   ├── 02. Using frameworks
+│   │   ├── 01. Introduction to Testing Framework.mp4
+│   │   ├── 02. Mocking Using Framework.mp4
+│   │   └── 03. Mocking Searcher.mp4
+│   └── 03. Pain in Testing
+│       ├── 01. A Hard Class to Test.mp4
+│       ├── 02. Making it Testable.mp4
+│       ├── 03. Dealing with static entities.mp4
+│       ├── 04. Avoid static Initialisers.mp4
+│       ├── 05. Problem with New Keyword.mp4
+│       └── 06. Powermock.mp4
+├── 08. Understanding Concurrency
+│   ├── 01. How is Concurrency different?
+│   │   ├── 01. From the Real World - coursedl.org.mp4
+│   │   ├── 02. Concurrency vs Parallelism - coursedl.org.mp4
+│   │   ├── 03. Benefits of Concurrency - coursedl.org.mp4
+│   │   ├── 04. Is Concurrency always great - coursedl.org.mp4
+│   │   ├── 05. Our first program - coursedl.org.mp4
+│   │   ├── 06. Separate Call Stacks - coursedl.org.mp4
+│   │   └── 07. Concurrent sum in Array - coursedl.org.mp4
+│   └── 02. Race Conditions and Locks
+│       ├── 01. Intro to Race Conditions - coursedl.org.mp4
+│       ├── 02. Into to Lock - coursedl.org.mp4
+│       ├── 03. More on Locks - coursedl.org.mp4
+│       ├── 04. Correct placement of Locks - coursedl.org.mp4
+│       ├── 05. Compound Actions and Reentrancy - coursedl.org.mp4
+│       ├── 06. More Compound Actions - coursedl.org.mp4
+│       └── 07. Thread Safety Overview - coursedl.org.mp4
+├── 09. Building blocks of Thread Synchronization
+│   ├── 01. Memory Visibility and other concerns
+│   │   ├── 01. Second Danger with Concurrency - coursedl.org.mp4
+│   │   ├── 02. Memory Visibility and Volatile - coursedl.org.mp4
+│   │   ├── 03. Synchronised The Saviour - coursedl.org.mp4
+│   │   ├── 04. Instructions Reordering - coursedl.org.mp4
+│   │   └── 05. Skipping Volatile - coursedl.org.mp4
+│   ├── 02. Coding Exercises
+│   │   ├── 01. Challenge  1 - coursedl.org.mp4
+│   │   ├── 02. Challenge  2 - coursedl.org.mp4
+│   │   ├── 03. Even Odd - coursedl.org.mp4
+│   │   ├── 04. Even Odd Multiple Threads - coursedl.org.mp4
+│   │   └── 05. Multiple Locks - coursedl.org.mp4
+│   ├── 03. Busy waiting vs Thread Signaling
+│   │   ├── 01. Intro to Busy Waiting - coursedl.org.mp4
+│   │   ├── 02. Thread Sleep - coursedl.org.mp4
+│   │   ├── 03. An overview of Thread Signaling - coursedl.org.mp4
+│   │   ├── 04. Wait and Notify - coursedl.org.mp4
+│   │   ├── 05. Applying WaitNotify - coursedl.org.mp4
+│   │   ├── 06. Sorted sequence using waitnotify - coursedl.org.mp4
+│   │   ├── 07. FizzBuzz  1 - coursedl.org.mp4
+│   │   ├── 08. FizzBuzz  2 - coursedl.org.mp4
+│   │   └── 09. Special Series - coursedl.org.mp4
+│   └── 04. The Famous Producer Consumer Problem
+│       ├── 01. Producer Consumer  1 - coursedl.org.mp4
+│       ├── 02. Producer Consumer  2 - coursedl.org.mp4
+│       ├── 03. Multiple Producers and Consumers - coursedl.org.mp4
+│       └── 04. Caution with waitnotify - coursedl.org.mp4
+├── 10. Deadlocks in Concurrent applications
+│   └── 01. Deadlocks
+│       ├── 01. Intro to Deadlock - coursedl.org.mp4
+│       ├── 03. Banking Problem - coursedl.org.mp4
+│       ├── 04. Fixing the Banking Problem - coursedl.org.mp4
+│       ├── 05. Dining Philosopher problem - coursedl.org.mp4
+│       ├── 06. Hash Based Order - coursedl.org.mp4
+│       ├── 07. Caution with Alien Method calls - coursedl.org.mp4
+│       └── 08. Nested Monitor Lockout - coursedl.org.mp4
+├── 11. Thread synchronizers
+│   ├── 01. Custom Locks
+│   │   ├── 01. Going Beyond Synchronised - coursedl.org.mp4
+│   │   ├── 02. Using Custom Locks - coursedl.org.mp4
+│   │   ├── 03. Sorted Doubly Linked List - coursedl.org.mp4
+│   │   ├── 04. Hand over hand locking - coursedl.org.mp4
+│   │   ├── 05. Our own Lock - coursedl.org.mp4
+│   │   ├── 06. Improving Unlock - coursedl.org.mp4
+│   │   ├── 07. Ensuring Reentrancy - coursedl.org.mp4
+│   │   ├── 08. A basic ReadWrite Lock - coursedl.org.mp4
+│   │   ├── 09. Starvation of Writers - coursedl.org.mp4
+│   │   ├── 10. Read Reentrance - coursedl.org.mp4
+│   │   ├── 11. Deadlock free Read Reentrance - coursedl.org.mp4
+│   │   ├── 12. Write Reentrance - coursedl.org.mp4
+│   │   ├── 13. Full Reentrancy - coursedl.org.mp4
+│   │   └── 14. Inbuilt Read Write Lock - coursedl.org.mp4
+│   └── 02. Useful Synchronisers
+│       ├── 01. Latch - coursedl.org.mp4
+│       ├── 02. Semaphore - coursedl.org.mp4
+│       ├── 03. Water Molecules - coursedl.org.mp4
+│       ├── 04. Blocking Queue - coursedl.org.mp4
+│       ├── 05. Barrier - coursedl.org.mp4
+│       ├── 06. Barrier Implementation  1 - coursedl.org.mp4
+│       ├── 07. Barrier Implementation  2 - coursedl.org.mp4
+│       └── 08. Futures - coursedl.org.mp4
+└── 12. Thread Pools and Non blocking Algorithms
+    ├── 01. Thread Pools
+    │   ├── 01. A Simple Multithreaded Server - coursedl.org.mp4
+    │   ├── 02. Intro to Thread Pool - coursedl.org.mp4
+    │   ├── 03. Requirements of Thread Pool - coursedl.org.mp4
+    │   ├── 04. Implementation - coursedl.org.mp4
+    │   ├── 05. Shutting Down a Thread Pool - coursedl.org.mp4
+    │   ├── 06. Handling Thread Deaths - coursedl.org.mp4
+    │   ├── 07. One Shot and Periodic Tasks - coursedl.org.mp4
+    │   └── 08. Executor Service - coursedl.org.mp4
+    ├── 02. Problem Solving with basics
+    │   ├── 01. Help a Professor  1 - coursedl.org.mp4
+    │   ├── 02. Help a Professor  2 - coursedl.org.mp4
+    │   ├── 03. API Client - coursedl.org.mp4
+    │   └── 04. API Client Implementation - coursedl.org.mp4
+    ├── 03. CopyOnWrite and Lock Striping
+    │   ├── 01. Copy on Write - coursedl.org.mp4
+    │   ├── 02. Concurrent Hashmap - coursedl.org.mp4
+    │   └── 03. Lock Striping - coursedl.org.mp4
+    └── 04. Problem Solving and Non-blocking algorithms
+        └── 01. Compare and Swap - coursedl.org.mp4
+
+54 directories, 232 files

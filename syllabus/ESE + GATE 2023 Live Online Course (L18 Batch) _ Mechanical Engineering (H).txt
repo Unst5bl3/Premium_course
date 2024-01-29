@@ -1,0 +1,738 @@
+madeeasy: ESE + GATE 2023 Live Online Course (L18 Batch) : Mechanical Engineering (H)
+├── 0001. Promotional Video (NEXT IAS)
+│   └── 0001. Promotional Video (NEXT IAS).mp4
+├── 0002. WORKBOOK 2023 - ME | PDF
+│   ├── 0001. Reasoning and Aptitude.pdf
+│   ├── 0002. English.pdf
+│   ├── 0003. Engineering Mathematics.pdf
+│   ├── 0004. Renewable Sources of Energy.pdf
+│   ├── 0005. Mechatronics.pdf
+│   ├── 0006. Material Science.pdf
+│   ├── 0007. Production + Robotics.pdf
+│   ├── 0008. Engineering Mechanics.pdf
+│   ├── 0009. Machine Design.pdf
+│   ├── 0010. SOM.pdf
+│   ├── 0011. Industrial.pdf
+│   ├── 0012. TOM.pdf
+│   ├── 0013. Power Plant.pdf
+│   ├── 0014. IC Engine.pdf
+│   ├── 0015. FM.pdf
+│   ├── 0016. HMT.pdf
+│   ├── 0017. RAC.pdf
+│   └── 0018. Thermodynamics.pdf
+├── 0003. Engineering Mechanics (R) - Live 2023 - ME - 7th April 2022
+│   ├── 0001. EM - Lecture 12.mp4
+│   ├── 0002. EM - Lecture 11.mp4
+│   ├── 0003. EM - Lecture 10 B.mp4
+│   ├── 0004. EM - Lecture 10 A.mp4
+│   ├── 0005. EM - Lecture 9.mp4
+│   ├── 0006. EM - Lecture 8.mp4
+│   ├── 0007. EM - Lecture 7.mp4
+│   ├── 0008. EM - Lecture 6.mp4
+│   ├── 0009. EM - Lecture 5.mp4
+│   ├── 0010. EM - Lecture 4 B.mp4
+│   ├── 0011. EM - Lecture 4 A.mp4
+│   ├── 0012. EM - Lecture 3 B.mp4
+│   ├── 0013. EM - Lecture 3 A.mp4
+│   ├── 0014. EM - Lecture 2.mp4
+│   └── 0015. EM - Lecture 1.mp4
+├── 0004. TOM I (A) - Live 2023 - Evening Batch - 22nd April
+│   ├── 0001. Vibrations Workbook Discussion.mp4
+│   ├── 0002. TOM - Lecture 19.mp4
+│   ├── 0003. TOM - Lecture 18.mp4
+│   ├── 0004. TOM - Lecture 17.mp4
+│   ├── 0005. TOM - Lecture 16.mp4
+│   ├── 0006. Gear Trains Workbook.mp4
+│   ├── 0007. Gears Workbook.mp4
+│   ├── 0008. TOM - Lecture 15.mp4
+│   ├── 0009. TOM - Lecture 14.mp4
+│   ├── 0010. TOM - Lecture 13 B.mp4
+│   ├── 0011. TOM - Lecture 13 A.mp4
+│   ├── 0012. TOM - Lecture 12 B.mp4
+│   ├── 0013. TOM - Lecture 12 A.mp4
+│   ├── 0014. Velocity & Acceleration Workbook.mp4
+│   ├── 0015. TOM - Lecture 11.mp4
+│   ├── 0016. TOM - Lecture 10.mp4
+│   ├── 0017. TOM - Lecture 9.mp4
+│   ├── 0018. TOM - Lecture 8.mp4
+│   ├── 0019. Mass Moment of Inertia Part-2.mp4
+│   ├── 0020. Mass Moment of Inertia Part-1.mp4
+│   ├── 0021. TOM - Lecture 7.mp4
+│   ├── 0022. Mechanisms - Workbook.mp4
+│   ├── 0023. TOM - Lecture 6.mp4
+│   ├── 0024. TOM - Lecture 5.mp4
+│   ├── 0025. TOM - Lecture 4.mp4
+│   ├── 0026. TOM - Lecture 3.mp4
+│   ├── 0027. TOM - Lecture 2.mp4
+│   └── 0028. TOM - Lecture 1.mp4
+├── 0005. Thermodynamics (A) - ME - Live 2023 - Hinglish - 16th May
+│   ├── 0001. Thermo - Lecture 16.mp4
+│   ├── 0002. Thermo - Lecture 15 B.mp4
+│   ├── 0003. Thermo - Lecture 15 A.mp4
+│   ├── 0004. Thermo - Lecture 14 B.mp4
+│   ├── 0005. Thermo - Lecture 14 A.mp4
+│   ├── 0006. Thermo - Lecture 13 B.mp4
+│   ├── 0007. Thermo - Lecture 13 A.mp4
+│   ├── 0008. Thermo - Lecture 12.mp4
+│   ├── 0009. Thermo - Lecture 11.mp4
+│   ├── 0010. Thermo - Lecture 10.mp4
+│   ├── 0011. Thermo - Lecture 9.mp4
+│   ├── 0012. Thermo - Lecture 8.mp4
+│   ├── 0013. Thermo - Lecture 7 B.mp4
+│   ├── 0014. Thermo - Lecture 7 A.mp4
+│   ├── 0015. Thermo - Lecture 6 B.mp4
+│   ├── 0016. Thermo - Lecture 6 A.mp4
+│   ├── 0017. Thermo - Lecture 5.mp4
+│   ├── 0018. Thermo - Lecture 4.mp4
+│   ├── 0019. Thermo - Lecture 3.mp4
+│   ├── 0020. MSQ Discussion.mp4
+│   ├── 0021. WB CH7 SOLUTION.mp4
+│   ├── 0022. WB CH6 SOLUTION.mp4
+│   ├── 0023. WB CH4 SOLUTION.mp4
+│   ├── 0024. WB CH3 SOLUTION.mp4
+│   ├── 0025. WB CH2 SOLUTION.mp4
+│   ├── 0026. WB CH1 SOLUTION.mp4
+│   ├── 0027. H.W THEORY BOOK P-67 Q.3.mp4
+│   ├── 0028. ENTROPY MIXING OF ICE & WATER.mp4
+│   ├── 0029. ENTROPY ELECTRICAL RESISTOR.mp4
+│   ├── 0030. REVERSIBLE & IRREVERSIBLE PROCESSES.mp4
+│   ├── 0031. Mixing of Gases-Entropy (HW).mp4
+│   ├── 0032. Thermo - Lecture 2.mp4
+│   ├── 0033. Thermo - Lecture 1 B.mp4
+│   └── 0034. Thermo - Lecture 1 A.mp4
+├── 0006. Machine Tool + Metrology (G) - Hinglish - Live 2023 - ME - 1st June - Evening
+│   ├── 0001. MT - Lecture 15.mp4
+│   ├── 0002. MT - Lecture 14 B.mp4
+│   ├── 0003. MT - Lecture 14 A.mp4
+│   ├── 0004. MT - Lecture 13.mp4
+│   ├── 0005. MT - Lecture 12.mp4
+│   ├── 0006. MT - Lecture 11.mp4
+│   ├── 0007. MT - Lecture 10 B.mp4
+│   ├── 0008. MT - Lecture 10 A.mp4
+│   ├── 0009. MT - Lecture 9 B.mp4
+│   ├── 0010. MT - Lecture 9 A.mp4
+│   ├── 0011. MT - Lecture 8 A.mp4
+│   ├── 0012. MT - Lecture 8 B.mp4
+│   ├── 0013. MT - Lecture 7.mp4
+│   ├── 0014. MT - Lecture 6.mp4
+│   ├── 0015. MT - Lecture 5 A.mp4
+│   ├── 0016. MT - Lecture 5 B.mp4
+│   ├── 0017. MT - Lecture 5 C.mp4
+│   ├── 0018. MT - Lecture 4 D.mp4
+│   ├── 0019. MT - Lecture 4 C.mp4
+│   ├── 0020. MT - Lecture 4 B.mp4
+│   ├── 0021. MT - Lecture 4 A.mp4
+│   ├── 0022. MT - Lecture 3 C.mp4
+│   ├── 0023. MT - Lecture 3 B.mp4
+│   ├── 0024. MT - Lecture 3 A.mp4
+│   ├── 0025. MT - Lecture 2.mp4
+│   ├── 0026. MT - Lecture 1 B.mp4
+│   └── 0027. MT - Lecture 1 A.mp4
+├── 0007. English (KS) - All Streams - Live 2023 - 16th June
+│   ├── 0001. English - Lecture 9.mp4
+│   ├── 0002. English - Lecture 8 B.mp4
+│   ├── 0003. English - Lecture 8 A.mp4
+│   ├── 0004. English - Lecture 7.mp4
+│   ├── 0005. English - Lecture 6.mp4
+│   ├── 0006. English  Lecture 5.mp4
+│   ├── 0007. English - Lecture 4.mp4
+│   ├── 0008. English - Lecture 3.mp4
+│   ├── 0009. English - Lecture 2.mp4
+│   └── 0010. English - Lecture 1.mp4
+├── 0008. Industrial Engineering (S) - Hinglish - Live 2023 - ME - 19th June
+│   ├── 0001. IE - Lecture 21.mp4
+│   ├── 0002. IE - Lecture 20.mp4
+│   ├── 0003. IE - Lecture 19.mp4
+│   ├── 0004. IE - Lecture 18.mp4
+│   ├── 0005. IE - Lecture 17.mp4
+│   ├── 0006. IE - Lecture 16.mp4
+│   ├── 0007. IE - Lecture 15.mp4
+│   ├── 0008. IE - Lecture 14.mp4
+│   ├── 0009. IE - Lecture 13.mp4
+│   ├── 0010. IE - Lecture 12.mp4
+│   ├── 0011. IE - Lecture 11 B.mp4
+│   ├── 0012. IE - Lecture 11 A.mp4
+│   ├── 0013. IE - Lecture 10 B.mp4
+│   ├── 0014. IE - Lecture 10 A.mp4
+│   ├── 0015. IE - Lecture 9.mp4
+│   ├── 0016. IE - Lecture 8.mp4
+│   ├── 0017. IE - Lecture 7.mp4
+│   ├── 0018. IE - Lecture 6.mp4
+│   ├── 0019. Industrial WB Solution - Part 3.mp4
+│   ├── 0020. Industrial WB Solution - Part 2.mp4
+│   ├── 0021. Industrial WB Solution - Part 1.mp4
+│   ├── 0022. IE - Lecture 5.mp4
+│   ├── 0023. IE - Lecture 4.mp4
+│   ├── 0024. IE - Lecture 3.mp4
+│   ├── 0025. IE - Lecture 2.mp4
+│   └── 0026. IE - Lecture 1.mp4
+├── 0009. SOM (K) - ME - Extra Contents
+│   ├── 0002. Thick Pressure Vessels.mp4
+│   └── 0003. Shear Centre Concept by S M Krishna Sir.mp4
+├── 0010. SOM (K) - ME - Extra Contents | PDF
+│   └── 0001. SOM Answer Keys.pdf
+├── 0011. Reasoning ＆ Aptitude (A) - All Streams - Live 2023 - 26th June
+│   ├── 0001. R & A - Lecture 1.mp4
+│   ├── 0002. R & A - Lecture 2.mp4
+│   ├── 0003. R & A - Lecture 3 .mp4
+│   ├── 0004. R & A - Lecture 4.mp4
+│   ├── 0005. R & A - Lecture 5.mp4
+│   ├── 0006. R & A - Lecture 6.mp4
+│   ├── 0007. R & A - Lecture 7.mp4
+│   ├── 0008. PROBABILITY.mp4
+│   ├── 0009. ESE QUESTIONS.mp4
+│   ├── 0010. GATE QUESTIONS.mp4
+│   ├── 0011. WORKBOOK DOUBTS.mp4
+│   ├── 0012. R & A - Lecture 8.mp4
+│   ├── 0013. R & A - Lecture 9.mp4
+│   ├── 0014. R & A - Lecture 10.mp4
+│   ├── 0015. R & A - Lecture 11.mp4
+│   ├── 0016. R & A - Lecture 12.mp4
+│   ├── 0017. R & A - Lecture 13.mp4
+│   ├── 0018. R & A - Lecture 14.mp4
+│   ├── 0019. R & A - Lecture 15.mp4
+│   └── 0020. R & A - Lecture 16.mp4
+├── 0012. RAC (B) - ME - Live 2023 - Hinglish - 15th July
+│   ├── 0001. RAC - Lecture 1 B.mp4
+│   ├── 0002. RAC - Lecture 1 A.mp4
+│   ├── 0003. RAC - Lecture 2 .mp4
+│   ├── 0004. RAC - Lecture 3.mp4
+│   ├── 0005. RAC - Lecture 4.mp4
+│   ├── 0006. RAC - Lecture 5.mp4
+│   ├── 0007. RAC - Lecture 6.mp4
+│   ├── 0008. RAC - Lecture 7.mp4
+│   ├── 0009. RAC - Lecture 8 (RBC).mp4
+│   ├── 0010. RAC - Lecture 9 (RBC - 2).mp4
+│   ├── 0011. RAC - Lecture 10 (Ac).mp4
+│   ├── 0012. RAC - Lecture 11 (Ac).mp4
+│   ├── 0013. VCRS HEAT EXCHANGER PROBLEM.mp4
+│   ├── 0014. RAC Important Questions Part 1.mp4
+│   ├── 0015. RAC Important Questions Part 2.mp4
+│   ├── 0016. RAC MSQ Discussion.mp4
+│   ├── 0017. RAC Sheet Solutions.mp4
+│   ├── 0018. RAC - Lecture 12 (Ac).mp4
+│   ├── 0019. RAC - Lecture 13 (Ac).mp4
+│   ├── 0020. RAC - Lecture 14 (Ac).mp4
+│   └── 0021. RAC - Lecture 15 (Ac).mp4
+├── 0013. RAC (B) - ME - Live 2023 - Hinglish - 15th July | PDF
+│   ├── 0001. Additional Part of ESE PDF.pdf
+│   ├── 0002. RAC Sheet.pdf
+│   ├── 0003. RAC MSQ PDF.pdf
+│   └── 0004. RAC Workbook.pdf
+├── 0014. Engineering Mathematics (PS) - All Streams - Live 2023 - 15th July
+│   ├── 0001. EM - Lecture 1.mp4
+│   ├── 0002. EM - Lecture 2.mp4
+│   ├── 0003. EM - Lecture 3.mp4
+│   ├── 0004. EM - Lecture 4.mp4
+│   ├── 0005. EM - Lecture 5.mp4
+│   ├── 0006. EM - Lecture 6.mp4
+│   ├── 0007. EM - Lecture 7.mp4
+│   ├── 0008. EM - Lecture 8 (Probability).mp4
+│   ├── 0009. EM - Lecture 9 (Probability).mp4
+│   ├── 0010. EM - Lecture 10 (Statistics).mp4
+│   ├── 0011. EM - Lecture 11 (Statistics).mp4
+│   ├── 0012. EM - Lecture 12 (Statistics).mp4
+│   ├── 0013. EM - Lecture 13 (Statistics).mp4
+│   ├── 0014. EM - Lecture 14 (Calculus).mp4
+│   ├── 0015. EM - Lecture 15 (Calculus).mp4
+│   ├── 0016. EM - Lecture 16 (Calculus).mp4
+│   ├── 0017. EM - Lecture 17 (Calculus).mp4
+│   ├── 0018. EM - Lecture 18 (Integration).mp4
+│   ├── 0019. EM - Lecture 19 (Integration).mp4
+│   ├── 0020. EM - Lecture 20 (Integration).mp4
+│   ├── 0021. EM - Lecture 21 (Vector Calculus).mp4
+│   ├── 0022. EM - Lecture 22 (Vector Calculus).mp4
+│   ├── 0023. EM - Lecture 23 (Differential Equations).mp4
+│   ├── 0024. EM - Lecture 24 (Differential Equations).mp4
+│   ├── 0025. EM Lecture 25 Differential Equations + Fourier Series.mp4
+│   ├── 0026. EM - lecture 26 (Complex Variable).mp4
+│   ├── 0027. EM - Lecture 27 (Complex Variables).mp4
+│   ├── 0028. EM Lecture 28 Laplace Transform and Numerical Techniques.mp4
+│   └── 0029. EM - Lecture 29 (Numerical Techniques).mp4
+├── 0015. Engineering Mathematics (PS) - All Streams - Live 2023 - 15th July | PDF
+│   └── 0001. Engg Mathematics Workbook.pdf
+├── 0016. Fluid Mechanics (V) - ME - Live 2023 - Hinglish - 1st Aug
+│   ├── 0001. FM - Lecture 1 (Introduction ).mp4
+│   ├── 0002. FM - Lecture 2 ( Fluid Properties -1 ).mp4
+│   ├── 0003. FM - Lecture 3 ( Fluid Properties -2 ).mp4
+│   ├── 0004. FM - Lecture 4 ( Fluid Properties -3 ).mp4
+│   ├── 0005. FM - Lecture 5 ( Fluid Properties -4 ).mp4
+│   ├── 0006. FM - Lecture 6 ( Pressure ).mp4
+│   ├── 0007. FM - Lecture 7 ( Pressure ).mp4
+│   ├── 0008. FM - Lecture 8 ( Numerical ).mp4
+│   ├── 0009. FM - Lecture 9 ( Hydrostatic force).mp4
+│   ├── 0010. FM - Lecture 10 ( Hydrostatic force 2).mp4
+│   ├── 0011. FM - Lecture 11 ( Buoyancy ).mp4
+│   ├── 0012. FM - Lecture 12 A ( Buoyancy 2 ).mp4
+│   ├── 0013. FM - Lecture 12 B ( KINEMATICS  ).mp4
+│   ├── 0014. FM - Lecture 13 A ( KINEMATICS -2 ).mp4
+│   ├── 0015. FM - Lecture 13 B ( KINEMATICS -2 ).mp4
+│   ├── 0016. FM - Lecture 14 ( KINEMATICS -3).mp4
+│   ├── 0017. FM - Lecture 15 ( KINEMATICS -4).mp4
+│   ├── 0018. FM - Lecture 16 ( Fluid dynamics).mp4
+│   ├── 0019. FM - Lecture 17 A ( Fluid dynamics -2).mp4
+│   ├── 0020. FM - Lecture 17 B ( Fluid Dynamics -2 ).mp4
+│   ├── 0021. FM - Lecture 17 C ( Fluid dynamics -2).mp4
+│   ├── 0022. FM - Lecture 17 D ( Fluid dynamics -2).mp4
+│   ├── 0023. FM - Lecture 18 A ( Laminar Flow ).mp4
+│   ├── 0024. FM - Lecture 18 B ( Laminar Flow ).mp4
+│   ├── 0025. FM - Lecture 18 C ( Flow Through Pipe ).mp4
+│   ├── 0026. FM - Lecture 19 A ( Flow Through Pipe 2 ).mp4
+│   ├── 0027. FM - Lecture 19 B ( Flow Through Pipe 3 ).mp4
+│   ├── 0028. FM - Lecture 19 C ( Dynamic Analysis ).mp4
+│   ├── 0029. FM - Lecture 20 ( Boundary layer Theory 1 ).mp4
+│   ├── 0030. Vortex Motion.mp4
+│   ├── 0031. Turbulent Flow.mp4
+│   └── 0032. FM - Lecture 21 Boundary layer Theory 2.mp4
+├── 0017. Fluid Mechanics (V) - ME - Live 2023 - Hinglish - 1st Aug | PDF
+│   ├── 0001. Advanced Question Bank.pdf
+│   └── 0002. FM - Class Notes.pdf
+├── 0018. TOM - II (R) - ME - Live 2023 - Hinglish - 24th Aug
+│   ├── 0001. TOM- II Lec 1.mp4
+│   ├── 0002. TOM - II Lec 2(Flywheel).mp4
+│   ├── 0003. TOM - II Lec 3 (Flywheel).mp4
+│   ├── 0004. TOM -ll Lec 4 A (Governor).mp4
+│   ├── 0005. TOM - II Lec 4 B (Governor).mp4
+│   ├── 0006. TOM - II Lec 4 C (Governor).mp4
+│   ├── 0007. TOM - II Lec 5 A (Governor).mp4
+│   ├── 0008. TOM - II Lec 5 B (Governor).mp4
+│   ├── 0009. TOM - II Lec 6 (Governor+ balancing).mp4
+│   ├── 0010. TOM - II Lec 7 ( Balancing).mp4
+│   ├── 0011. TOM - II Lec 8 A( Balancing).mp4
+│   ├── 0012. TOM - II Lec 8 B( Balancing).mp4
+│   ├── 0013. TOM - II Gyroscope part of ESE.mp4
+│   ├── 0014. TOM - II Cam part of ESE.mp4
+│   ├── 0015. TOM - II Balancing part of ESE.mp4
+│   ├── 0016. TOM - II Lec 9 ( Cam ).mp4
+│   ├── 0017. TOM - II Lec 10 ( Cam ).mp4
+│   ├── 0018. TOM - II  Lec 11 A ( Cam ).mp4
+│   ├── 0019. TOM - II Lec 11 B ( Cam ).mp4
+│   ├── 0020. TOM - II Lec 12 ( Gyroscope ).mp4
+│   └── 0021. TOM - II Lec 13 ( Gyroscope ).mp4
+├── 0019. Engineering Mechanics (R) - ME - Live 2023 - 4th Sep
+│   ├── 0001. EM - Lecture 1 B ( Basics ).mp4
+│   ├── 0002. EM - Lecture 1 A ( Basics ).mp4
+│   ├── 0003. EM - Lecture 2 ( Equilibrium ).mp4
+│   ├── 0004. EM - Lecture 3 ( Truss ).mp4
+│   ├── 0005. EM - Lecture 4 A ( Truss ).mp4
+│   ├── 0006. EM - Lecture 4 B ( Truss ).mp4
+│   ├── 0007. EM - Lecture 5 (POVW & Centroid ).mp4
+│   ├── 0008. EM - Lecture 6 [Translation].mp4
+│   ├── 0009. EM - Lecture 7 (Friction).mp4
+│   ├── 0010. EM - Lecture 8 (CIRCULAR MOTION).mp4
+│   ├── 0011. EM - Lecture 9 (Rotation).mp4
+│   ├── 0012. EM - Lecture 10 (General Motion).mp4
+│   ├── 0013. EM - Lecture 11 (Rolling friction & Wedge).mp4
+│   ├── 0014. EM - Lecture 12 (Screw jack).mp4
+│   ├── 0015. EM - Lecture 13 ( Friction in Vehicles ).mp4
+│   └── 0016. EM - Lecture 14 Belt friction & Lagrange equation.mp4
+├── 0020. Production (Metal Cutting) - (S) - ME - Live 2023 - 6th Sep
+│   ├── 0001. Metal Cutting - Lecture 1.mp4
+│   ├── 0002. Metal Cutting - Lecture 2.mp4
+│   ├── 0003. Metal Cutting - Lecture 3.mp4
+│   ├── 0004. Metal Cutting - Lecture 4.mp4
+│   ├── 0005. Metal Cutting - Lecture 5.mp4
+│   └── 0006. Metal Cutting - Lecture 6.mp4
+├── 0021. Fluid Machinery (S) - ME - Live 2023 - Hinglish -12th Sep
+│   ├── 0001. FMC - Lecture 1 (Impact of Jets - I).mp4
+│   ├── 0002. FMC - Lecture 2 (Impact of Jets - II).mp4
+│   ├── 0003. FMC - WB Q15 and Q67.mp4
+│   ├── 0004. FMC Lecture 3 A Introduction to Impulse Turbine and Basic of.mp4
+│   ├── 0005. FMC Lecture 3 B Introduction to Impulse Turbine and Basic of.mp4
+│   ├── 0006. FMC - Lecture 4 (Discussion on Francis Turbine).mp4
+│   ├── 0007. FMC Lecture 5 Axial Flow Turbine, Draft Tube & performance.mp4
+│   ├── 0008. FMC - Lecture 6 (Basics of Centrifugal Pump) .mp4
+│   ├── 0009. FMC - Lecture 7 A (Discussion on Centrifugal Pump).mp4
+│   └── 0010. FMC - Lecture 7 B (Introduction to Reciprocating Pump).mp4
+├── 0022. IC Engine (A) - ME - Live 2023 - H - 19th Sep
+│   ├── 0001. IC Engine - Lec - 1 (Engine Basics) .mp4
+│   ├── 0002. IC Engine - Lec - 2 (Otto and Diesel Cycle).mp4
+│   ├── 0003. IC Engine - Lec - 3 (Diesel Cycle & Dual Cycle).mp4
+│   ├── 0004. Valve Timing Diagram SI Engine.mp4
+│   ├── 0005. IC Engine Lec 4 Effect of parameters on Air Std Efficiency.mp4
+│   ├── 0006. IC Engine - Lec - 5 B (Performance Parameter) .mp4
+│   ├── 0007. IC Engine - Lec - 5 A (Thermochemistry) .mp4
+│   ├── 0008. IC Engine - Lec - 6 A (Engine Performance Parameters) .mp4
+│   ├── 0009. IC Engine - Lec - 6 B (Engine Testing) .mp4
+│   ├── 0010. IC Engine - Lec - 7 (Combustion in SI Engine).mp4
+│   ├── 0011. IC Engine - Lec - 8 A.mp4
+│   ├── 0012. IC Engine - Lec - 8 B.mp4
+│   ├── 0013. IC Engine Lec 9 Knocking in SI vs CI and Fuel Injection in.mp4
+│   ├── 0014. IC Engine Lec 10 A Emissions and Control + Supercharging.mp4
+│   └── 0015. IC Engine Lec 10 B Engine Components & Systems and Actual PV.mp4
+├── 0023. Power Plant (B) - ME - Live 2023 - H - 26th Sep
+│   ├── 0001. PP - Lec 1 (GAS Turbine ).mp4
+│   ├── 0002. PP - Lec 2 (GAS Turbine ).mp4
+│   ├── 0003. PP - Lec 3 (GAS Turbine ).mp4
+│   ├── 0004. PP - Lec 4 (GAS Turbine ).mp4
+│   ├── 0005. PP - Lec 5 A (GAS Turbine ).mp4
+│   ├── 0006. PP - Lec 5 B (GAS Turbine ).mp4
+│   ├── 0007. PP - Lec 6 A (Rankine Cycle ).mp4
+│   ├── 0008. PP - Lec 6 B (Rankine Cycle ) .mp4
+│   ├── 0009. PP - Lec 7 (Rankine Cycle ).mp4
+│   ├── 0010. PP - Lec 8 A (Compressor ).mp4
+│   ├── 0011. PP - Lec 8 B (Compressor ).mp4
+│   ├── 0012. PP - Lec 9 (Compressor ).mp4
+│   ├── 0013. PP - Lec 10(Compressor ).mp4
+│   ├── 0014. Layout of TPP.mp4
+│   ├── 0015. PP - Lec 11(Compressor ) .mp4
+│   ├── 0016. Boiler and its components.mp4
+│   ├── 0017. PP - Lec 12(Compressor ).mp4
+│   ├── 0018. PP Additional Video.mp4
+│   ├── 0019. PP - Lec 13(Compressor ).mp4
+│   ├── 0020. Condenser & Cooling Tower (For ESE Only).mp4
+│   ├── 0021. PP - Lec 14 (Compressor ).mp4
+│   ├── 0022. PP - Lec 15 (Compressor ) .mp4
+│   ├── 0023. PP - Lec 16 (Compressible flow ).mp4
+│   └── 0024. PP - Lec 17 (Compressible flow ).mp4
+├── 0024. Power Plant (B) - ME - Live 2023 - H - 26th Sep | PDF
+│   ├── 0001. PP Answer Keys.pdf
+│   ├── 0002. PP Notes 3.pdf
+│   ├── 0003. GATE POWER PLANT SHEET.pdf
+│   ├── 0004. MY POWER PLANT NOTES 1.pdf
+│   └── 0005. MY POWER PLANT NOTES 2.pdf
+├── 0025. Mechatronics (S) - ME - (All) - Live 2023 - 27th Sep
+│   ├── 0001. Mechatronics - Lecture 1 (Introduction).mp4
+│   ├── 0002. Mechatronics - Lecture 2 (Sensor Specification) .mp4
+│   ├── 0003. Mechatronics - Lecture 3 (Temperature Sensors) .mp4
+│   ├── 0004. Mechatronics Lecture 4 Strain Gauge & Capacitive Based Sensor.mp4
+│   ├── 0005. Mechatronics - Lecture 5 (Control System).mp4
+│   ├── 0006. Mechatronics - Lecture 6 (Types of Control System).mp4
+│   ├── 0007. Mechatronics - Lecture 7 (State Space Analysis).mp4
+│   ├── 0008. Mechatronics - Lecture 8 (Time Response Analysis).mp4
+│   ├── 0009. Mechatronics - Lecture 9 (Inductive Based Sensor) .mp4
+│   ├── 0010. Mechatronics - Lecture 10 (Inductosyn).mp4
+│   └── 0011. Mechatronics - Lecture 11 (Actuators).mp4
+├── 0026. IC Engine (A) - ME - Extra
+│   ├── 0001. Two - Stroke Engines.mp4
+│   ├── 0002. Valve Timing Diagram SI Engine.mp4
+│   ├── 0003. SCAVANGING EFFICIENCY ESE2020 PROBLEM.mp4
+│   ├── 0004. IC Engine_WORKBOOK.mp4
+│   └── 0005. FUEL INJECTION.mp4
+├── 0027. Heat Transfer (A) - Live 2023 - ME - E - 6th Oct
+│   ├── 0001. HT - Lecture 1.mp4
+│   ├── 0002. HT - Lecture 2.mp4
+│   ├── 0003. HT - Lecture 3.mp4
+│   ├── 0004. HT - Lecture 4.mp4
+│   ├── 0005. HT - Lecture 5.mp4
+│   ├── 0006. HT - Lecture 6.mp4
+│   ├── 0007. HT - Lecture 7.mp4
+│   ├── 0008. HT - Lecture 8.mp4
+│   ├── 0009. HT - Lecture 9.mp4
+│   ├── 0010. HT - Lecture 10.mp4
+│   ├── 0011. HT - Lecture 11.mp4
+│   ├── 0012. HT - Lecture 12.mp4
+│   ├── 0013. HT - Lecture 14.mp4
+│   ├── 0014. HT - Lecture 13.mp4
+│   ├── 0015. HT - Lecture 15.mp4
+│   ├── 0016. HT - Lecture 16.mp4
+│   ├── 0017. HT - Lecture 17.mp4
+│   ├── 0018. HT - Lecture 18.mp4
+│   ├── 0019. HT - Lecture 19.mp4
+│   ├── 0020. HT - Lecture 20.mp4
+│   ├── 0021. HT - Lecture 21.mp4
+│   ├── 0022. HT - Lecture 22.mp4
+│   ├── 0023. HT - Lecture 23.mp4
+│   ├── 0024. HT - Lecture 24.mp4
+│   └── 0025. HT - Lecture 25.mp4
+├── 0028. Mechatronics (V) - (MP ＆ MC) - Live 2023 - ME - All - 8th Oct
+│   ├── 0001. MP - Lecture 1 (Basics of Microprocessor).mp4
+│   ├── 0002. MP - Lecture 2 (Data Representation).mp4
+│   ├── 0003. MP - Lecture 3 (System Bus).mp4
+│   ├── 0004. MP - Lecture 4 (Internal Architecture).mp4
+│   └── 0005. MP - Lecture 5 (Control Unit).mp4
+├── 0029. Mechatronics (V) - (MP ＆ MC) - Live 2023 - ME - All - 8th Oct | PDF
+│   ├── 0001. MC ＆ MP - WB Answer Keys.pdf
+│   ├── 0002. Architecture 8085.pdf
+│   ├── 0003. Microcontrollers.pdf
+│   ├── 0004. PLC-1.pdf
+│   ├── 0005. PLC-2.pdf
+│   └── 0006. Mechatronics Notes.pdf
+├── 0030. Fluid Machinery (S) - Live 2023 - Hinglish - 12th Oct
+│   ├── 0001. FMC - Lecture 1 (Impact of Jet).mp4
+│   ├── 0002. FMC - Lecture 2 (Impact of Jet).mp4
+│   ├── 0003. FMC - Lecture 3 (Pelton wheel turbine).mp4
+│   ├── 0004. FMC - Lecture 4 (Inward Flow Reaction Turbine).mp4
+│   ├── 0005. FMC Lecture 5 Inward Flow Reaction Turbine Part 2.mp4
+│   ├── 0006. FMC Lecture 6 Draft Tube Performance Parameter of Turbine.mp4
+│   ├── 0007. FMC - Lecture 7 (Centrifugal Pump - I).mp4
+│   ├── 0008. FMC - Runaway Speed, Q.15, Q.67.mp4
+│   └── 0009. FMC - Lecture 8 (Centrifugal Pump - II).mp4
+├── 0031. Renewable Sources of Energy (R) - Live 2023 - ME - 18th Oct
+│   ├── 0001. Heat Transfer Basics.mp4
+│   ├── 0002. RSE - Lecture 1 (Basics).mp4
+│   ├── 0003. RSE - Lecture 2 (Solar Radiation).mp4
+│   ├── 0004. RSE - Lecture 3 (Solar Radiation).mp4
+│   ├── 0005. RSE - Lecture 4 (Solar Radiation).mp4
+│   ├── 0006. RSE - Lecture 5 C (Solar Collector).mp4
+│   ├── 0007. RSE - Lecture 5 B (Solar Collector).mp4
+│   ├── 0008. RSE - Lecture 5 A (Solar Collector).mp4
+│   ├── 0009. RSE - Lecture 6 C (Solar Application).mp4
+│   ├── 0010. RSE - Lecture 6 B (WIND Energy - 2).mp4
+│   ├── 0011. RSE - Lecture 6 A (Solar Collector + WIND Energy-1).mp4
+│   ├── 0012. RSE - Lecture 7 (Wind Continues).mp4
+│   ├── 0013. RSE - Lecture 8 (Wind Ends + Solar Applications).mp4
+│   ├── 0014. FUEL CELL, PV CELL, THERMAL ENERGY STORAGE.mp4
+│   ├── 0015. RSE - Lecture 9 (Solar Applications + Tide).mp4
+│   └── 0016. RSE - Lecture 10 (Biomass Energy).mp4
+├── 0032. SOM (K) - ME - Live 2023 - 6th Nov
+│   ├── 0002. Lecture - 2 B (Classification of Loads).mp4
+│   ├── 0003. Lecture - 2 A (Classification of Loads).mp4
+│   ├── 0004. Lecture - 3 A (Classification of Loads).mp4
+│   ├── 0005. Lecture - 3 B (Classification of Loads).mp4
+│   ├── 0006. Lecture - 4 A (Equivalent Loads).mp4
+│   ├── 0007. Lecture - 4 B (Equivalent Loads).mp4
+│   ├── 0008. Lecture - 5 B (Equivalent Loads).mp4
+│   ├── 0009. Lecture - 5 A (Equivalent Loads).mp4
+│   ├── 0010. Lecture - 6 B (Eccentric Loads).mp4
+│   ├── 0011. Lecture - 6 A (Eccentric Loads).mp4
+│   ├── 0012. Lecture - 7 B (Eccentric Loads).mp4
+│   ├── 0013. Lecture - 7 A (Eccentric Loads).mp4
+│   ├── 0014. Lecture - 8 B (SFD & BMD).mp4
+│   ├── 0015. Lecture - 8 A (SFD & BMD).mp4
+│   ├── 0016. Lecture - 9 (SFD & BMD).mp4
+│   ├── 0017. Lecture - 10 (UDL & UVL).mp4
+│   ├── 0018. Lecture - 11 (UDL & UVL - II).mp4
+│   ├── 0019. Lecture - 13 (Internal Hinge).mp4
+│   ├── 0020. Lecture - 12 (Internal Hinge).mp4
+│   ├── 0021. Lecture - 14 B (Deflection of Beams).mp4
+│   ├── 0022. Lecture - 14 A (Deflection of Beams).mp4
+│   ├── 0024. Lecture - 16 B (Tapered Bar and Self Weight).mp4
+│   ├── 0025. Lecture - 16 A (Tapered Bar and Self Weight).mp4
+│   ├── 0026. Lecture - 17 B (Bars in Parallel and Strain Energy).mp4
+│   ├── 0027. Lecture - 17 A (Bars in Parallel and Strain Energy).mp4
+│   ├── 0028. Lecture - 18 C (Strain Energy Under Different Loads).mp4
+│   ├── 0029. Lecture - 18 B (Strain Energy Under Different Loads).mp4
+│   ├── 0030. Lecture - 18 A (Strain Energy Under Different Loads).mp4
+│   ├── 0031. Lecture - 19 B (Castigliano Theorem).mp4
+│   ├── 0032. Lecture - 19 A (Torsion).mp4
+│   ├── 0033. Lecture - 20 (Stress Tensors).mp4
+│   ├── 0034. Lecture 21 B (Elastic Constant).mp4
+│   ├── 0035. Lecture - 21 A (Elastic Constant).mp4
+│   ├── 0036. Lecture - 22 (Prinicipal Stresses & Strains).mp4
+│   ├── 0039. Lecture 26 A Principal Strain and Theories of Failure.mp4
+│   ├── 0040. Lecture - 25 (Mohrs Circle).mp4
+│   ├── 0042. Lecture - 27 (Theories of Failure).mp4
+│   ├── 0044. Lecture - 29 (Bending Stresses).mp4
+│   ├── 0045. Lecture - 30 A (Thermal Stresses).mp4
+│   ├── 0046. Lecture - 30 B (Thin Pressure Vessels).mp4
+│   └── 0047. Lecture - 31 (Shear Stresses in Beams).mp4
+├── 0033. SOM (K) - ME - Live 2023 - 6th Nov | PDF
+│   ├── 0001. SM KRISHNA SIR - THEORIES OF FAILURE SUMMARY TABLE.pdf
+│   └── 0002. SM Krishna Sir - Max.SF, Max.BM, Max.Slope ＆ Deflection expressions table for various beams of const.EI.pdf
+├── 0034. ICT (S) - GS - Live 2023 - Prime - 15th Nov
+│   ├── 0001. ICT - Lecture 1 (e - Governance).mp4
+│   ├── 0002. ICT - Lecture 2 (e - Governance).mp4
+│   ├── 0003. ICT - Lecture 3 (e - Governance).mp4
+│   ├── 0004. ICT - Lecture 4 (e - Governance).mp4
+│   ├── 0005. ICT - Lecture 5 (e - Education).mp4
+│   ├── 0006. ICT - Lecture 6 (e - Education).mp4
+│   ├── 0007. ICT - Lecture 7 (ICT Tools).mp4
+│   ├── 0008. ICT - Lecture 8 (Hardware Components of Computer).mp4
+│   ├── 0009. ICT - Lecture 9 (Memory Devices).mp4
+│   ├── 0010. ICT - Lecture 10 (Networking).mp4
+│   ├── 0011. ICT - Lecture 11 (Network Models).mp4
+│   ├── 0012. ICT - Lecture 12 (Network) .mp4
+│   └── 0013. ICT - Lecture 13 (Network Security).mp4
+├── 0035. Material Science (S) - GS - Live 2023 - Prime - 26th Nov
+│   ├── 0001. MS - Lecture 1 (Introduction).mp4
+│   ├── 0002. MS - Lecture 2 (Atomic Structure).mp4
+│   ├── 0003. MS - Lecture 3 (Atomic Structure).mp4
+│   ├── 0004. MS - Lecture 4 (Crystallography).mp4
+│   ├── 0005. MS - Lecture 5 (Crystallography).mp4
+│   ├── 0006. MS Lecture 6 Crystallography + Electric Properties of Materials.mp4
+│   ├── 0007. MS - Lecture 7 (Electric Properties of Materials).mp4
+│   ├── 0008. Material Science Lecture 7 [03-12-2022].mp4
+│   ├── 0009. MS Lecture 9 Electric Properties of Materials + Magnetic Properties.mp4
+│   ├── 0010. MS - Lecture 10 (Magnetic Properties + Ceramics).mp4
+│   ├── 0011. Mechanical Properties.mp4
+│   ├── 0012. MS - Lecture 11 (Polymers).mp4
+│   ├── 0013. MS - Lecture 12 (Alloys and Phase Diagram).mp4
+│   └── 0014. Composites & Alloys.mp4
+├── 0036. Robotics (G) - Morning + Evening - Live 2023 - 2nd Dec
+│   ├── 0001. Robotics - Lecture 1 B.mp4
+│   ├── 0002. Robotics - Lecture 1 A.mp4
+│   ├── 0003. Robotics - Lecture 2 B ( SCARA Robot ).mp4
+│   ├── 0004. Robotics - Lecture 2 A ( Homogeneous Transformation ).mp4
+│   ├── 0005. Robotics - Lecture 3 A ( CNC Programing ).mp4
+│   ├── 0006. Robotics Lecture 3 B Robot Notations & Classification .mp4
+│   ├── 0007. Robotics - Lecture 4 ( Robot Anatomy ).mp4
+│   └── 0008. Robotics Lecture 5 APT & Additive Manufacturing .mp4
+├── 0037. Robotics (G) - Morning + Evening - Live 2023 - 2nd Dec | PDF
+│   ├── 0001. Additive Manufacturing Notes.pdf
+│   └── 0002. Production WB.pdf
+├── 0038. Material Science (SR) - Live 2023 - ME - 8th Dec
+│   ├── 0001. MS - Lecture 1 A (Basics of Crystallography).mp4
+│   ├── 0002. MS - Lecture 1 B (Basics of Crystallography).mp4
+│   ├── 0003. MS - Lecture 2 A (Basics of Crystallography).mp4
+│   ├── 0004. MS - Lecture 2 B (Strengthening Mechanisms).mp4
+│   ├── 0005. MS - Lecture 3 B (Alloys and Phase Diagrams).mp4
+│   ├── 0006. MS - Lecture 3 A (Alloys and Phase Diagrams).mp4
+│   ├── 0007. MS - Lecture 4 B (Heat Treatment of Steels).mp4
+│   ├── 0008. MS - Lecture 4 A (Heat Treatment of Steels).mp4
+│   ├── 0009. MS - Lecture 5 A (Mechanical Properties).mp4
+│   └── 0010. MS - Lecture 5 B (Mechanical Properties).mp4
+├── 0039. Material Science (SR) - Live 2023 - ME - 8th Dec | PDF
+│   ├── 0001. Answer Key.pdf
+│   ├── 0002. Workbook Solutions.pdf
+│   └── 0003. Fe ＆ Non-Fe alloys.pdf
+├── 0040. Casting, Welding ＆ Forming (V) - ME - Live 2023 - 13th Dec
+│   ├── 0001. CWF - Lecture 1 A.mp4
+│   ├── 0002. CWF - Lecture 1 B (Casting Videos).mp4
+│   ├── 0003. CWF - Lecture 1 C (Casting Videos).mp4
+│   ├── 0004. CWF - Lecture 2 A (Types of Pattern).mp4
+│   ├── 0005. CWF - Lecture 2 C.mp4
+│   ├── 0006. CWF - Lecture 2 B.mp4
+│   ├── 0007. CWF - Lecture 3 C (Expendables Moulds).mp4
+│   ├── 0008. CWF - Lecture 3 B (Riser Design).mp4
+│   ├── 0009. CWF - Lecture 3 A (Solidification Time).mp4
+│   ├── 0010. CWF - Lecture 4 B (Introduction to Welding).mp4
+│   ├── 0011. CWF Lecture 4 A Permanent Moulds and Casting Defects.mp4
+│   ├── 0012. lec 5.mp4
+│   ├── 0013. lec 5 b.mp4
+│   ├── 0014. CWF - Lecture 6 (Ebw, Lbw and Solid State Welding).mp4
+│   ├── 0015. CWF - Lecture 7.mp4
+│   ├── 0016. CWF - Lecture 8 (Hot & Cold Working + Rolling).mp4
+│   ├── 0017. CWF - Lecture 9.mp4
+│   ├── 0018. CWF - Lecture 10 (Forging).mp4
+│   ├── 0019. CWF - Lecture 11 (Drawing).mp4
+│   ├── 0020. CWF-Lecture 12 A(Extrusion).mp4
+│   ├── 0021. CWF - Lecture 12 B( Furnace).mp4
+│   ├── 0022. CWF - Lecture 13 (Sheet Metal Working).mp4
+│   └── 0023. CWF - Lecture 14 (HERF, Powder Metallurgy).mp4
+├── 0041. Energy ＆ Environment (V) - GS - Live 2023 - Prime - 13th Dec
+│   ├── 0001. ENV - Lecture 1.mp4
+│   ├── 0002. ENV - Lecture 2.mp4
+│   ├── 0003. ENV - Lecture 3.mp4
+│   ├── 0004. ENV - Lecture 4.mp4
+│   ├── 0005. ENV - Lecture 5.mp4
+│   ├── 0006. ENV - Lecture 6.mp4
+│   ├── 0007. ENV - Lecture 7.mp4
+│   ├── 0008. ENV - Lecture 8.mp4
+│   ├── 0009. ENV - Lecture 9.mp4
+│   ├── 0010. ENV - Lecture 10.mp4
+│   ├── 0011. ENV - Lecture 11.mp4
+│   └── 0012. ENV - Lecture 12.mp4
+├── 0042. Energy ＆ Environment (V) - GS - Live 2023 - Prime - 13th Dec | PDF
+│   └── 0001. GS - Workbook.pdf
+├── 0043. Machine Design (P) - (Live 2023) - ME - 18th Dec 2022
+│   ├── 0001. MD - Lecture 1.mp4
+│   ├── 0002. MD - Lecture 2 (Clutch + Brake).mp4
+│   ├── 0003. MD - Lecture 3 (Brake + Gear).mp4
+│   ├── 0004. MD - Lecture 4 (Rapid Joint).mp4
+│   ├── 0005. MD - Lecture 5 (Riveted Joint).mp4
+│   ├── 0006. MD - Lecture 6 (Welded Joint).mp4
+│   ├── 0007. MD - Lecture 7 A (Bearing).mp4
+│   ├── 0008. MD - Lecture 7 B (Bearing).mp4
+│   ├── 0009. MD - Lecture 8 (Spring).mp4
+│   └── 0010. MD - Lecture 9 (Fatigue Design) .mp4
+├── 0044. Standards ＆ Quality (R) - GS - Live 2023 - Prime - 27th Dec
+│   ├── 0001. S & Q - Lecture 1 A.mp4
+│   ├── 0002. S & Q - Lecture 1 B.mp4
+│   ├── 0003. S & Q - Lecture 2 A.mp4
+│   ├── 0004. S & Q - Lecture 2 B.mp4
+│   ├── 0005. S & Q - Lecture 3 A.mp4
+│   ├── 0006. S & Q - Lecture 3 B.mp4
+│   ├── 0007. S & Q - Lecture 4 A.mp4
+│   ├── 0008. S & Q - Lecture 4 B.mp4
+│   ├── 0009. S & Q - Lecture 5 A.mp4
+│   ├── 0010. S & Q - Lecture 5 B.mp4
+│   ├── 0011. S & Q - Lecture 6.mp4
+│   ├── 0012. S & Q - Lecture 7 A.mp4
+│   ├── 0013. S & Q - Lecture 7 B.mp4
+│   ├── 0014. S & Q - Lecture 8 A.mp4
+│   ├── 0015. S & Q - Lecture 8 B.mp4
+│   ├── 0016. S & Q - Lecture 9 B.mp4
+│   ├── 0017. S & Q - Lecture 9 A.mp4
+│   └── 0018. S & Q - Lecture 10.mp4
+├── 0045. Standards ＆ Quality (R) - GS - Live 2023 - Prime - 27th Dec | PDF
+│   ├── 0001. GS - Workbook.pdf
+│   └── 0002. S＆Q - WB Answer Keys.pdf
+├── 0046. Thermodynamics (A) - ME - Live 2023 - 28th Dec
+│   ├── 0001. TD - Lecture 1 (Basic Concepts).mp4
+│   ├── 0002. TD - Lecture 2 (Basic Concepts and Zeroth Law).mp4
+│   ├── 0003. TD - Lecture 3 A (Non - Flow Work).mp4
+│   ├── 0004. TD - Lecture 3 B (Non - Flow Work & PV Diagram).mp4
+│   ├── 0005. TD - Lecture 4 A (1st Law of TD).mp4
+│   ├── 0006. TD - Lecture 4 B (Heat Transfer in Various Processes).mp4
+│   ├── 0007. TD - Lecture 4 C (Control - Volume Energy Analysis).mp4
+│   ├── 0008. TD Lecture 5 Unsteady State and Statements of 2nd Law.mp4
+│   ├── 0009. TD Lecture 6 Carnot Cycle, Principle & Thermodynamic Temp Scale.mp4
+│   ├── 0010. TD Lecture 7 Fixed Mass Entropy Analysis & T S Diagram.mp4
+│   ├── 0011. TD - Lecture 8 (Entropy Calculation).mp4
+│   ├── 0012. TD - Lecture 9 A (Entropy Calculation).mp4
+│   ├── 0013. TD - Lecture 9 B (Entropy Calculation).mp4
+│   ├── 0014. TD Lecture 10 A E of Gas Flow Process & Properties of Pure.mp4
+│   └── 0015. TD Lecture 11 P T Diagrams, Real Gases, TD Relations.mp4
+├── 0047. Robotics + Machine Tool + Metrology (G) - ME - Live 2023 - 4th Jan
+│   ├── 0001. Robotics Lecture 1 BLU Concept & CNG Programming .mp4
+│   ├── 0002. Robotics Lecture 2 APT Programming & Homogeneous Transformation.mp4
+│   ├── 0003. Robotics - Lecture 3 ( Machining ).mp4
+│   ├── 0004. Robotics - Lecture 4 ( Machining ).mp4
+│   ├── 0005. Robotics - Lecture 5 (Machining).mp4
+│   ├── 0006. Robotics - Lecture 6 (Machining).mp4
+│   ├── 0007. Robotics - Lecture 7 (Machining).mp4
+│   ├── 0008. Robotics - Lecture 8 A (Milling).mp4
+│   ├── 0009. Robotics - Lecture 8 B (Melling).mp4
+│   ├── 0010. Robotics - Lecture 9 (Grinding).mp4
+│   ├── 0011. Metrology Part 7.mp4
+│   ├── 0012. Metrology Part 6.mp4
+│   ├── 0013. Metrology Part 5.mp4
+│   ├── 0014. Metrology Part 4.mp4
+│   ├── 0015. Metrology Part 2.mp4
+│   ├── 0016. Metrology Part 1.mp4
+│   ├── 0017. Non Traditional Machining Part 4.mp4
+│   ├── 0018. Non Traditional Machining Part 2.mp4
+│   ├── 0019. Non Traditional Machining Part 3.mp4
+│   └── 0020. Non Traditional Machining Part 1.mp4
+├── 0048. Engineering Drawing (H) - GS - Live 2023 - Prime - 7th Jan
+│   ├── 0001. ED - Lecture 1.mp4
+│   ├── 0002. ED - Lecture 2.mp4
+│   ├── 0003. ED - Lecture 3.mp4
+│   ├── 0004. ED - Lecture 4.mp4
+│   ├── 0005. ED - Lecture 5.mp4
+│   ├── 0006. ED - Lecture 6.mp4
+│   ├── 0007. ED - Lecture 7.mp4
+│   ├── 0008. ED - Lecture 8.mp4
+│   ├── 0009. ED - Lecture 9.mp4
+│   ├── 0010. ED - Lecture 10.mp4
+│   ├── 0011. ED - Lecture 11.mp4
+│   └── 0012. ED - Lecture 12.mp4
+├── 0049. Engineering Drawing (H) - GS - Live 2023 - Prime - 7th Jan | PDF
+│   ├── 0001. Design Safety Answer Keys.pdf
+│   └── 0002. ANSWER KEYS TO DRAWING.pdf
+├── 0050. Annual Current Affairs 2023 | PDF
+│   └── 0001. Annual Current Affairs 2023.pdf
+├── 0051. Project Management (G) - GS - Live 2023 - 17th Jan
+│   ├── 0001. PM - Lecture 1.mp4
+│   ├── 0002. PM - Lecture 2.mp4
+│   ├── 0003. PM - Lecture 3.mp4
+│   ├── 0004. PM - Lecture 4 A.mp4
+│   ├── 0005. PM - Lecture 4 B.mp4
+│   ├── 0006. PM - Lecture 5.mp4
+│   └── 0007. PM - Lecture 6.mp4
+├── 0052. Current Affairs (SP) - GS - Live 2023 - 19th Jan
+│   ├── 0001. CA - Lecture 1 A.mp4
+│   ├── 0002. CA - Lecture 1 B.mp4
+│   ├── 0003. CA - Lecture 2.mp4
+│   ├── 0004. CA - Lecture 3.mp4
+│   ├── 0005. CA - Lecture 4 A.mp4
+│   ├── 0006. CA - Lecture 4 B.mp4
+│   ├── 0007. CA - Lecture 5 A.mp4
+│   ├── 0008. CA - Lecture 5 B.mp4
+│   ├── 0009. CA - Lecture 5 C.mp4
+│   ├── 0010. CA - Lecture 6 A.mp4
+│   ├── 0011. CA - Lecture 6 B.mp4
+│   └── 0012. CA - Lecture 6 C.mp4
+├── 0053. Current Affairs (SP) - GS - Live 2023 - 19th Jan | PDF
+│   ├── 0001. Current Affairs PDF 2.pdf
+│   └── 0002. Current Affairs PDF.pdf
+└── 0054. Ethics (KM) - GS - Live 2023 - 22nd Jan
+    ├── 0001. Ethics - Lecture 1.mp4
+    ├── 0002. Ethics - Lecture 2.mp4
+    ├── 0003. Ethics - Lecture 3.mp4
+    ├── 0004. Ethics - Lecture 4.mp4
+    ├── 0005. Ethics - Lecture 5 A.mp4
+    └── 0006. Ethics - Lecture 5 B.mp4
+
+54 directories, 681 files

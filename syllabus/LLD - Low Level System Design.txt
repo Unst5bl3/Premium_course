@@ -1,0 +1,31 @@
+LLD - Low Level System Design
+├── 001. Day 1 - OOPs, SOLID Principles.mp4
+├── 002. Day 2 - Relationships between Classes, UML.mp4
+├── 003. Day 3 - Simple Factory, Factory Method & Abstract Factory Design Patterns.mp4
+├── 004. Day 4 - Builder, Prototype and Singleton Design Patterns.mp4
+├── 005. Day 5 - Singleton, Observer, Command Design Patterns.mp4
+├── 006. Day 6 - Command, Chain of Responsibility, Iterator Design Pattern.mp4
+├── 007. Day 7 - Strategy and Template Design Patterns.mp4
+├── 008. Day 8 - Adapter and Decorator Design Patterns.mp4
+├── 009. Day 9 - Bridge, Composite, Facade and Proxy Design Patterns.mp4
+├── 010. Day 10 - Elevator System Design.mp4
+├── 011. Day 11 - Interview Tips, Chess System Design.mp4
+├── 012. Day 12 - IRCTC System Design.mp4
+├── 013. Day 13 - Meeting Scheduler LLD Mock Interview.mp4
+├── 014. Day 14 - State Design Pattern, Zerodha LLD.mp4
+├── 015. Day 15 - Recommendation System, NoBroker LLD.mp4
+├── LLD HACKATHON.pdf
+└── Notes
+    ├── Common Interview Questions.pdf
+    ├── Day 1 - OOPs, SOLID Principles.pdf
+    ├── Day 2 - Relationships between Classes, UML.pdf
+    ├── Day 3 - Simple Factory, Factory Method and Abstract Factory Design Patterns.pdf
+    ├── Day 4 - Builder, Prototype Design Patterns.pdf
+    ├── Day 5 - Singleton, Observer, Command Design Patterns.pdf
+    ├── Day 6 - Chain of Responsibility, Iterator Design Patterns.pdf
+    ├── Day 7 - Strategy and Template Design Pattern.pdf
+    ├── Day 8 - Adapter and Decorator Design Pattern.pdf
+    ├── Day 9 - Bridge, Composite, Facade and Proxy Design Patterns.pdf
+    └── Raw Class Notes.pdf
+
+1 directory, 27 files

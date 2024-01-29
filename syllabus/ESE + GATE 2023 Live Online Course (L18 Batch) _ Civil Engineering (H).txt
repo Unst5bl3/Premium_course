@@ -1,0 +1,779 @@
+madeeasy: ESE + GATE 2023 Live Online Course (L18 Batch) : Civil Engineering (H)
+├── 0001. Promotional Video (NEXT IAS)
+│   └── 0001. Promotional Video (NEXT IAS).mp4
+├── 0002. WORKBOOK 2023 - CE | PDF
+│   ├── 0001. Reasoning and Aptitude.pdf
+│   ├── 0002. English.pdf
+│   ├── 0003. Engineering Mathematics.pdf
+│   ├── 0004. Surveying.pdf
+│   ├── 0005. Soil Mechanics.pdf
+│   ├── 0006. Railway Engg.pdf
+│   ├── 0007. Irrigation Engg.pdf
+│   ├── 0008. Highway Engg.pdf
+│   ├── 0009. Fluid Mechanics.pdf
+│   ├── 0010. Environmental Engg.pdf
+│   ├── 0011. Engg Hydrology.pdf
+│   ├── 0012. Structural Analysis.pdf
+│   ├── 0013. Steel Structure.pdf
+│   ├── 0014. SOM.pdf
+│   ├── 0015. RCC.pdf
+│   ├── 0016. Engineering Mechanics.pdf
+│   ├── 0017. CPPM.pdf
+│   └── 0018. Construction Materials.pdf
+├── 0003. Highway (A) - CE - Extra Contents - 2023
+│   ├── 0001. SYMPTOMS, CONSTRUCTION & HILLY ROADS VIDEO.mp4
+│   ├── 0002. TEST FOR AGGREGATE AND BITUMEN.mp4
+│   └── 0003. Highway Introduction Video.mp4
+├── 0004. Highway (A) - CE - Extra Contents - 2023 | PDF
+│   ├── 0001. Highway - Workbook.pdf
+│   ├── 0002. Highway WB Answer key.pdf
+│   ├── 0003. Highway Introduction PDF.pdf
+│   ├── 0004. Traffic Control Devices PDF.pdf
+│   ├── 0005. Geometric Design.pdf
+│   ├── 0006. Material, Construction, CBR PDF.pdf
+│   └── 0007. TRY YOURSELF SOLUTION.pdf
+├── 0005. Soil Mechanics (R) - Live 2023 - 8th Mar 2022
+│   ├── 0001. Soil - Lecture 21.mp4
+│   ├── 0002. Soil - Lecture 20.mp4
+│   ├── 0003. Soil - Lecture 19.mp4
+│   ├── 0004. Soil - Lecture 18 C.mp4
+│   ├── 0005. Soil- Lecture 18 B.mp4
+│   ├── 0006. Soil - Lecture 18 A.mp4
+│   ├── 0007. Soil - Lecture 17 C.mp4
+│   ├── 0008. Soil - Lecture 17 B.mp4
+│   ├── 0009. Soil - Lecture 17 A.mp4
+│   ├── 0010. Soil - Lecture 16.mp4
+│   ├── 0011. Soil - Lecture 15.mp4
+│   ├── 0012. Soil - Lecture 14.mp4
+│   ├── 0013. Soil - Lecture 13.mp4
+│   ├── 0014. Soil - Lecture 12.mp4
+│   ├── 0015. Soil - Lecture 11.mp4
+│   ├── 0016. CHP-6_COMPACTION.mp4
+│   ├── 0017. CHP-5_STRESS DISTRIBUTION.mp4
+│   ├── 0018. Soil - Lecture 10 C.mp4
+│   ├── 0019. Soil - Lecture 10 B.mp4
+│   ├── 0020. Soil - Lecture 10 A.mp4
+│   ├── 0021. Soil - Lecture 9 C.mp4
+│   ├── 0022. Soil - Lecture 9 B.mp4
+│   ├── 0023. Soil - Lecture 9 A.mp4
+│   ├── 0024. Soil - Lecture 8.mp4
+│   ├── 0025. Soil - Lecture 7.mp4
+│   ├── 0026. Soil - Lecture 6.mp4
+│   ├── 0027. Soil - Lecture 5 C.mp4
+│   ├── 0028. Soil - Lecture 5 B.mp4
+│   ├── 0029. Soil - Lecture 5 A.mp4
+│   ├── 0030. Soil - Lecture 4 B.mp4
+│   ├── 0031. Soil - Lecture 4 A.mp4
+│   ├── 0032. Soil - Lecture 3.mp4
+│   ├── 0033. CHP 2 CLAY MINERALOGY, SOIL WATER, SOIL STRUCTURE & FIBERS.mp4
+│   ├── 0034. Soil - Lecture 2.mp4
+│   └── 0035. Soil - Lecture 1.mp4
+├── 0006. Soil Mechanics (R) - Live 2023 - 8th Mar 2022 | PDF
+│   ├── 0001. Chapter 1 Index Properties PDF.pdf
+│   ├── 0002. Chapter 2 Soil Classification.pdf
+│   ├── 0003. Chapter 2 Soil Structure ＆ Fibers.pdf
+│   ├── 0004. Chapter 5 Stress Distribution in Soil.pdf
+│   ├── 0005. Chapter 6 Compaction of Soil.pdf
+│   └── 0006. Chapter 13 Soil Stabilization.pdf
+├── 0007. Engineering Hydrology (M) - Live 2023 - CE - 26th Mar 2022
+│   ├── 0001. Hydrology - Lecture 12.mp4
+│   ├── 0002. Hydrology - Lecture 11.mp4
+│   ├── 0003. Hydrology - Lecture 10.mp4
+│   ├── 0004. Hydrology - Lecture 9 C.mp4
+│   ├── 0005. Hydrology - Lecture 9 B.mp4
+│   ├── 0006. Hydrology - Lecture 9 A.mp4
+│   ├── 0007. Hydrology - Lecture 8.mp4
+│   ├── 0008. Hydrology - Lecture 7.mp4
+│   ├── 0009. Hydrology - Lecture 6.mp4
+│   ├── 0010. Hydrology - Lecture 5.mp4
+│   ├── 0011. Hydrology - Lecture 4.mp4
+│   ├── 0012. Hydrology - Lecture 3.mp4
+│   ├── 0013. Hydrology - Lecture 2 C.mp4
+│   ├── 0014. Hydrology - Lecture 2 B.mp4
+│   ├── 0015. Hydrology - Lecture 2 A.mp4
+│   ├── 0016. Hydrology - Lecture 1 B.mp4
+│   └── 0017. Hydrology - Lecture 1 A.mp4
+├── 0008. Engineering Hydrology (M) - Live 2023 - CE - 26th Mar 2022 | PDF
+│   ├── 0001. Definitions PDF.pdf
+│   ├── 0002. Hydrology Interview Questions PDF.pdf
+│   ├── 0003. Hydrology PDF.pdf
+│   └── 0004. Hydrology Questions PDF.pdf
+├── 0009. Soil Mechanics (R) - CE - Extra Contents
+│   ├── 0001. CHP-5_STRESS DISTRIBUTION.mp4
+│   ├── 0002. CHP-6_COMPACTION.mp4
+│   └── 0003. CLAY MINERALOGY, SOIL WATER, SOIL STRUCTURE & FIBERS.mp4
+├── 0010. Soil Mechanics (R) - CE - Extra Contents | PDF
+│   ├── 0001. Chapter 13 Soil Stabilization.pdf
+│   ├── 0001. Chapter 1 Index Properties PDF.pdf
+│   ├── 0002. Chapter 2 Soil Classification.pdf
+│   ├── 0002. Chapter 6 Compaction of Soil.pdf
+│   ├── 0003. Chapter 2 Soil Structure ＆ Fibers.pdf
+│   ├── 0003. Chapter 5 Stress Distribution in Soil.pdf
+│   ├── 0004. Chapter 2 Soil Structure ＆ Fibers.pdf
+│   ├── 0004. Chapter 5 Stress Distribution in Soil.pdf
+│   ├── 0005. Chapter 2 Soil Classification.pdf
+│   ├── 0005. Chapter 6 Compaction of Soil.pdf
+│   ├── 0006. Chapter 13 Soil Stabilization.pdf
+│   └── 0006. Chapter 1 Index Properties PDF.pdf
+├── 0011. CPM (M) - CE - Live 2023 - 11th June
+│   ├── 0001. CPM - Lecture 8.mp4
+│   ├── 0002. CPM - Lecture 7.mp4
+│   ├── 0003. CPM - Lecture 6.mp4
+│   ├── 0004. CPM - Lecture 5.mp4
+│   ├── 0005. CPM - Lecture 4.mp4
+│   ├── 0006. CPM - Lecture 3.mp4
+│   ├── 0007. CPM - Lecture 2 B.mp4
+│   ├── 0008. CPM - Lecture 2 A.mp4
+│   └── 0009. CPM - Lecture 1.mp4
+├── 0012. English (KS) - All Streams - Live 2023 - 16th June
+│   ├── 0001. English - Lecture 9.mp4
+│   ├── 0002. English - Lecture 8 B.mp4
+│   ├── 0003. English - Lecture 8 A.mp4
+│   ├── 0004. English - Lecture 7.mp4
+│   ├── 0005. English - Lecture 6.mp4
+│   ├── 0006. English  Lecture 5.mp4
+│   ├── 0007. English - Lecture 4.mp4
+│   ├── 0008. English - Lecture 3.mp4
+│   ├── 0009. English - Lecture 2.mp4
+│   └── 0010. English - Lecture 1.mp4
+├── 0013. Environmental Engg. (S) - CE - Extra 2023
+│   ├── 0001. NOISE POLLUTION.mp4
+│   ├── 0002. WB Solutions - Air Pollution.mp4
+│   ├── 0003. WB Solutions - MSWM.mp4
+│   ├── 0004. Air Pollution - Part 2.mp4
+│   ├── 0005. Air Pollution - Part 1.mp4
+│   ├── 0006. MSWM.mp4
+│   ├── 0007. DISTRIBUTION & CONVEYANCE THEORY.mp4
+│   └── 0008. TRY YOURSELF SOLUTIONS.mp4
+├── 0014. Environmental Engg. (S) - CE - Extra 2023 | PDF
+│   ├── 0001. Environmental Engg. WB.pdf
+│   ├── 0002. Classroom Notes.pdf
+│   ├── 0003. HANDOUT OF ENVIRONMENTAL ENGINEERING.pdf
+│   ├── 0004. Chapter 8 - Disposal of Sewage Effluents.pdf
+│   ├── 0005. Chapter 11 - MSWM.pdf
+│   ├── 0006. Chapter 12 - Air Pollution.pdf
+│   ├── 0007. Chapter 13 - Noise Pollution.pdf
+│   └── 0008. CH 5 DISTRIBUTION AND CONVEYANCE.pdf
+├── 0015. RCC (MK) - Live 2023 - CE - 26th June
+│   ├── 0001. RCC - Lecture 1 (Introduction).mp4
+│   ├── 0002. RCC - Lecture 2 (Introduction).mp4
+│   ├── 0003. RCC - Lecture 3 B (Introduction).mp4
+│   ├── 0004. RCC - Lecture 3 A (Introduction).mp4
+│   ├── 0005. RCC - Lecture 4 (Introduction).mp4
+│   ├── 0006.  RCC - Lecture 5 (WSM).mp4
+│   ├── 0007.  RCC - Lecture 6 B (WSM).mp4
+│   ├── 0008.  RCC - Lecture 6 A (WSM).mp4
+│   ├── 0009.  RCC - Lecture 7 (WSM).mp4
+│   ├── 0010. WB Discussion - WSM.mp4
+│   ├── 0011. WB Discussion - Introduction.mp4
+│   ├── 0012. RCC - Lecture 8 B (LSM).mp4
+│   ├── 0013. RCC - Lecture 8 A (LSM).mp4
+│   ├── 0014. RCC - Lecture 9 (LSM).mp4
+│   ├── 0015. RCC - Lecture 10 B (LSM).mp4
+│   ├── 0016. RCC - Lecture 10 A (LSM).mp4
+│   ├── 0017. WB Discussion - LSM.mp4
+│   ├── 0018. RCC - Lecture 11 (LSM).mp4
+│   ├── 0019. RCC - Lecture 12 (LSM).mp4
+│   ├── 0020. RCC - Lecture 13 B (Design of Beams).mp4
+│   ├── 0021. RCC - Lecture 13 A (Design of Beams).mp4
+│   ├── 0022. RCC - Lecture 14 B (Design of Beams).mp4
+│   ├── 0023. RCC - Lecture 14 A (Design of Beams).mp4
+│   ├── 0024. RCC - Lecture 15 (Design of Beams).mp4
+│   ├── 0025. RCC - Lecture 16 C (Design for Torsion).mp4
+│   ├── 0026. RCC - Lecture 16 B (Design for Torsion).mp4
+│   ├── 0027. RCC - Lecture 16 A (Design for Torsion).mp4
+│   ├── 0028. WB Solution - Design of Shear Bond and Torsion.mp4
+│   ├── 0029. WB Solution - Design of Beams.mp4
+│   ├── 0030. RCC - Lecture 17 B (Bond Development).mp4
+│   ├── 0031. RCC - Lecture 17 A (Bond Development).mp4
+│   ├── 0032. RCC - Lecture 18 (Design of Slab).mp4
+│   ├── 0033. RCC - Lecture 19 B.mp4
+│   ├── 0034. RCC - Lecture 19 A.mp4
+│   ├── 0035. WB Solution - Design of Slabs.mp4
+│   ├── 0036. RCC - Lecture 20 (Design of Slab).mp4
+│   ├── 0037. RCC - Lecture 21 B (Design of Columns).mp4
+│   ├── 0038. RCC - Lecture 21 A (Design of Columns).mp4
+│   ├── 0039. RCC - Lecture 22 (Design of Columns).mp4
+│   ├── 0040. RCC - Lecture 23 (Design of Columns).mp4
+│   ├── 0041. RCC - Lecture 24 A (Design of Foundation).mp4
+│   ├── 0042. WB Solution - Design of Columns.mp4
+│   ├── 0043. RCC - Lecture 24 B (Design of Foundation).mp4
+│   ├── 0044. RCC - Lecture 25 (Design of Foundation).mp4
+│   ├── 0045. WB Solution - Design of Foundation.mp4
+│   ├── 0046. RCC - Lecture 26 (Prestressed Concrete).mp4
+│   ├── 0047. RCC - Lecture 27 (Prestressed Concrete).mp4
+│   ├── 0048. RCC - Lecture 28 (Prestressed Concrete).mp4
+│   ├── 0049. RCC - Lecture 29 (Prestressed Concrete).mp4
+│   ├── 0050. RCC - Lecture 30 (Prestressed Concrete).mp4
+│   ├── 0051. RCC - Lecture 31 (Prestressed Concrete).mp4
+│   ├── 0052. RCC - Lecture 32 (Prestressed Concrete).mp4
+│   ├── 0053. RCC - Lecture 33 (Water Tank).mp4
+│   ├── 0054. WB Solution - PSC.mp4
+│   ├── 0055. RCC - Lecture 33 (Water Tank).mp4
+│   ├── 0056. RCC - (Earthquake) - R.mp4
+│   ├── 0057. RCC - (Masonry Wall) - R.mp4
+│   ├── 0058. RCC - Lecture - (Staircase) - R.mp4
+│   ├── 0059. RCC - Lecture - (Retaining Wall - Part C) - R.mp4
+│   ├── 0060. RCC - Lecture - (Retaining Wall - Part B) - R.mp4
+│   └── 0061. RCC - Lecture - (Retaining Wall - Part A) - .mp4
+├── 0016. RCC (MK) - Live 2023 - CE - 26th June | PDF
+│   ├── 0001. EARTHQUAKE PDF.pdf
+│   ├── 0002. MASONRY PDF.pdf
+│   ├── 0003. RETAINING WALL PDF.pdf
+│   ├── 0004. WATER TANK PDF.pdf
+│   ├── 0005. PSC PDF.pdf
+│   └── 0006. INTRODUCTION PDF - ESE 2023.pdf
+├── 0017. Reasoning ＆ Aptitude (A) - All Streams - Live 2023 - 26th June
+│   ├── 0001. R & A - Lecture 1.mp4
+│   ├── 0002. R & A - Lecture 2.mp4
+│   ├── 0003. R & A - Lecture 3 .mp4
+│   ├── 0004. R & A - Lecture 4.mp4
+│   ├── 0005. R & A - Lecture 5.mp4
+│   ├── 0006. R & A - Lecture 6.mp4
+│   ├── 0007. R & A - Lecture 7.mp4
+│   ├── 0008. PROBABILITY.mp4
+│   ├── 0009. ESE QUESTIONS.mp4
+│   ├── 0010. GATE QUESTIONS.mp4
+│   ├── 0011. WORKBOOK DOUBTS.mp4
+│   ├── 0012. R & A - Lecture 8.mp4
+│   ├── 0013. R & A - Lecture 9.mp4
+│   ├── 0014. R & A - Lecture 10.mp4
+│   ├── 0015. R & A - Lecture 11.mp4
+│   ├── 0016. R & A - Lecture 12.mp4
+│   ├── 0017. R & A - Lecture 13.mp4
+│   ├── 0018. R & A - Lecture 14.mp4
+│   ├── 0019. R & A - Lecture 15.mp4
+│   └── 0020. R & A - Lecture 16.mp4
+├── 0018. Engineering Mathematics (PS) - All Streams - Live 2023 - 15th July
+│   ├── 0001. EM - Lecture 1.mp4
+│   ├── 0002. EM - Lecture 2.mp4
+│   ├── 0003. EM - Lecture 3.mp4
+│   ├── 0004. EM - Lecture 4.mp4
+│   ├── 0005. EM - Lecture 5.mp4
+│   ├── 0006. EM - Lecture 6.mp4
+│   ├── 0007. EM - Lecture 7.mp4
+│   ├── 0008. EM - Lecture 8 (Probability).mp4
+│   ├── 0014. EM - Lecture 14 (Calculus).mp4
+│   ├── 0015. EM - Lecture 15 (Calculus).mp4
+│   ├── 0016. EM - Lecture 16 (Calculus).mp4
+│   ├── 0017. EM - Lecture 17 (Calculus).mp4
+│   ├── 0018. EM - Lecture 18 (Integration).mp4
+│   ├── 0019. EM - Lecture 19 (Integration).mp4
+│   ├── 0020. EM - Lecture 20 (Integration).mp4
+│   ├── 0021. EM - Lecture 21 (Vector Calculus).mp4
+│   ├── 0022. EM - Lecture 22 (Vector Calculus).mp4
+│   ├── 0023. EM - Lecture 23 (Differential Equations).mp4
+│   ├── 0024. EM - Lecture 24 (Differential Equations).mp4
+│   ├── 0025. EM Lecture 25 Differential Equations + Fourier Series.mp4
+│   ├── 0026. EM - lecture 26 (Complex Variable).mp4
+│   ├── 0027. EM - Lecture 27 (Complex Variables).mp4
+│   ├── 0028. EM Lecture 28 Laplace Transform and Numerical Techniques.mp4
+│   └── 0029. EM - Lecture 29 (Numerical Techniques).mp4
+├── 0019. Engineering Mathematics (PS) - All Streams - Live 2023 - 15th July | PDF
+│   └── 0001. Engg Mathematics Workbook.pdf
+├── 0020. Structural Analysis (S) - Live 2023 - CE - 3rd Aug
+│   ├── 0001. Structure - Lec 1.mp4
+│   ├── 0002. Structure Lec 2 Analysis of statically Determinate Trusses .mp4
+│   ├── 0003. Structure Lec 3 Analysis of Statically Determinate Trusses.mp4
+│   ├── 0004. Structure Lec 4 Deflections in Statically Determinate Trusses.mp4
+│   ├── 0005. Structure - Lec 5 (Analysis of Indeterminate Trusses).mp4
+│   ├── 0006. Structure - Lec 6 (Influence Line Diagrams).mp4
+│   ├── 0007. Structure - Lec 7 (I.L.D.S).mp4
+│   ├── 0008. Structure - Lec 8 (I.L.D.S for Truss Members).mp4
+│   ├── 0009. Structure - WB Chapter 6 Solutions.mp4
+│   ├── 0010. Structure - WB Chapter 5 Solutions.mp4
+│   ├── 0011. Structure - WB Chapter 4 Solutions.mp4
+│   ├── 0012. Structure - WB Chapter 3 Solutions.mp4
+│   ├── 0013. Structure - WB Chapter 2 Solutions.mp4
+│   ├── 0014. Structure - WB Chapter 1 Solutions.mp4
+│   ├── 0015. Structure Lec 9 I L D S for Indeterminate Structures.mp4
+│   ├── 0016. Structure - Lec 10 (Deflections in determinate frames).mp4
+│   ├── 0017. Structure - Lec 11 (Moment Distribution Method).mp4
+│   ├── 0018. Structure - Lec 12 (M D M).mp4
+│   ├── 0019. Structure - Lec 13 (M D M).mp4
+│   ├── 0020. Structure - Lec 14 (M D M).mp4
+│   ├── 0021. Structure - Lec 15 (Slope Deflection Method).mp4
+│   ├── 0022. Structure - Lec 16 (Analysis of cables) .mp4
+│   ├── 0023. Structure - Lec 17 (Analysis of cables).mp4
+│   ├── 0024. Structure Lec 18 Approximate Method in Structural Analysis.mp4
+│   ├── 0025. Structure Lec 19 Static indeterminacy ,Kinematic Indeterminacy.mp4
+│   ├── 0026. Structure - Lec 20 Stiffness Matrix Method.mp4
+│   ├── 0027. Structure Lec 21 Stiffness and Flexibility Matrix Methods.mp4
+│   └── 0028. Structure - Lec 22 (structural dynamics).mp4
+├── 0021. Structural Analysis (S) - Live 2023 - CE - 3rd Aug | PDF
+│   └── 0001. Structure Classroom Notes.pdf
+├── 0022. Open Channel Flow (RT) - Live 2023 - CE - Evening - 27th Aug
+│   ├── 0001. OCF - Lecture 1 (Introduction).mp4
+│   ├── 0002. OCF - Lecture 2 (Introduction).mp4
+│   ├── 0003. OCF - Lecture 3 A (Uniform Flow) .mp4
+│   ├── 0004. OCF - Lecture 3 B (Uniform Flow) .mp4
+│   ├── 0005. OCF - Lecture 4 (Uniform Flow).mp4
+│   ├── 0006. OCF - Lecture 5 A (Ch 3 - Energy Depth Relation).mp4
+│   ├── 0007. OCF - Lecture 5 B (Ch 3 - Energy Depth Relation).mp4
+│   ├── 0008. OCF - Lecture 6 B (Ch 4 - GVF).mp4
+│   ├── 0009. OCF - Lecture 6 A (Ch 4 - GVF).mp4
+│   ├── 0010. OCF - Lecture 7 B (Ch 4 - GVF).mp4
+│   ├── 0011. OCF - Lecture 7 A (Ch 4 - GVF).mp4
+│   ├── 0012. OCF - Lecture 8 B (Ch 4 - GVF).mp4
+│   ├── 0013. OCF - Lecture 8 A (Ch 4 - GVF).mp4
+│   └── 0014. OCF - Lecture 9 (Ch 5-6 - RVF 7 Surges) .mp4
+├── 0023. Environmental Engineering (S) - Live 2023 - CE - Hinglish - 8th Sep | PDF
+│   └── 0001. EE - Classroom Notes.pdf
+├── 0024. Engineering Mechanics (A) - (Live 2023) - CE - ALL - 7th Sep
+│   ├── 0001. EM - Lecture 1.mp4
+│   ├── 0002. EM - Lecture 2.mp4
+│   ├── 0003. EM - Lecture 3.mp4
+│   ├── 0004. EM - Lecture 4.mp4
+│   ├── 0005. EM - Lecture 5.mp4
+│   ├── 0006. EM - Lecture 6.mp4
+│   ├── 0007. EM - Lecture 7.mp4
+│   ├── 0008. EM - Lecture 8.mp4
+│   ├── 0009. EM - Lecture 9.mp4
+│   ├── 0010. EM - Lecture 10.mp4
+│   ├── 0011. EM - Lecture 11.mp4
+│   ├── 0012. Mass Moment of Inertia Part-2.mp4
+│   ├── 0013. Mass Moment of Inertia Part-1.mp4
+│   ├── 0014. EM - Lecture 12.mp4
+│   ├── 0015. EM - Lecture 13.mp4
+│   ├── 0016. EM - Lecture 14.mp4
+│   ├── 0017. EM - Lecture 15.mp4
+│   └── 0018. EM - Lecture 16.mp4
+├── 0025. Engineering Mechanics (A) - (Live 2023) - CE - ALL - 7th Sep | PDF
+│   └── 0001. EM - Worksheet.pdf
+├── 0026. Fluid Mechanics (MK) - Live 2023 - CE - Hinglish - 11th Sep
+│   ├── 0001. FM - Lecture 1.mp4
+│   ├── 0002. FM - Lecture 2.mp4
+│   ├── 0003. FM - Lecture 3.mp4
+│   ├── 0004. FM - Lecture 4.mp4
+│   ├── 0005. WB Discussion of Fluid Properties.mp4
+│   ├── 0006. FM - Lecture 5.mp4
+│   ├── 0007. FM - Lecture 6.mp4
+│   ├── 0008. FM - Lecture 7.mp4
+│   ├── 0009. FM - Lecture 8.mp4
+│   ├── 0010. WB Discussion of Fluid Statics.mp4
+│   ├── 0011. FM - Lecture 9.mp4
+│   ├── 0012. FM - Lecture 10.mp4
+│   ├── 0013. FM - Lecture 11.mp4
+│   ├── 0014. FM - Lecture 12.mp4
+│   ├── 0015. FM - Lecture 13.mp4
+│   ├── 0016. FM - Lecture 14.mp4
+│   ├── 0017. WB Discussion of Fluid Kinematics.mp4
+│   ├── 0018. FM - Lecture 15.mp4
+│   ├── 0019. FM - Lecture 16.mp4
+│   ├── 0020. FM - Lecture 17.mp4
+│   ├── 0021. FM - Lecture 18.mp4
+│   ├── 0022. WB Discussion of Fluid Dynamics.mp4
+│   ├── 0023. FM - Lecture 19.mp4
+│   ├── 0024. WB Discussion of Dimensional Analysis.mp4
+│   ├── 0025. FM - Lecture 20.mp4
+│   ├── 0026. FM - Lecture 21.mp4
+│   ├── 0027. FM - Lecture 22.mp4
+│   ├── 0028. WB Discussion of Pipe Flow.mp4
+│   ├── 0029. FM - Lecture 23.mp4
+│   ├── 0030. FM - Lecture 24 A.mp4
+│   ├── 0031. FM - Lecture 24 B.mp4
+│   ├── 0032. WB Discussion of Boundary Layer.mp4
+│   ├── 0033. WB Discussion of Laminar Flow.mp4
+│   ├── 0034. FM - Lecture 25.mp4
+│   ├── 0035. FM - Lecture 26.mp4
+│   └── 0036. MSQ Discussion.mp4
+├── 0027. Fluid Mechanics (MK) - Live 2023 - CE - Hinglish - 11th Sep | PDF
+│   ├── 0001. Chapter 7 Laminar Flow PDF.pdf
+│   ├── 0002. Chapter 8 Boundary Layer PDF.pdf
+│   ├── 0003. Chapter 6 Pipe Flow PDF.pdf
+│   ├── 0004. Chapter 5 - Dimensional Analysis - PDF.pdf
+│   ├── 0005. Chapter 4 Fluid Dynamics PDF.pdf
+│   ├── 0006. Fluid Kinematics CE PDF.pdf
+│   ├── 0007. Chapter 1 Fluid Properties PDF.pdf
+│   ├── 0008. Chapter_2_Fluid_Statics_PDF.pdf
+│   ├── 0009. FM Workbook.pdf
+│   ├── 0010. FM Workbook Answer Keys.pdf
+│   ├── 0011. FM MSQ PDF.pdf
+│   └── 0012. Potential Flow Handout.pdf
+├── 0028. SOM (R) - Live 2023 - CE - Hinglish - 27th Sep
+│   ├── 0001. SOM - Lecture 3 (Stress & Strain).mp4
+│   ├── 0002. SOM - Lecture 2 (Stress & Strain).mp4
+│   ├── 0003. SOM - Lecture 1 (Properties of Materials).mp4
+│   ├── 0004. SOM - Lecture 4 (Stress & Strain).mp4
+│   ├── 0005. SOM - Lecture 5 (Stress & Strain).mp4
+│   ├── 0006. SOM - Lecture 6 (Stress & Strain).mp4
+│   ├── 0007. SOM - Lecture 7 (Properties of Materials).mp4
+│   ├── 0008. SOM - Lecture 8 (Properties of Materials).mp4
+│   ├── 0009. SOM - Lecture 9 (Properties of Materials).mp4
+│   ├── 0010. SOM - Lecture 10 (SFD and BMD).mp4
+│   ├── 0011. SOM - Lecture 11 (SFD and BMD).mp4
+│   ├── 0012. SOM - Lecture 12 A (SFD and BMD).mp4
+│   ├── 0013. SOM - Lecture 12 B (SFD and BMD).mp4
+│   ├── 0014. SOM - Lecture 13 (SFD and BMD).mp4
+│   ├── 0015. SOM - Lecture 14 A (Principle Stress).mp4
+│   ├── 0016. SOM - Lecture 14 B (Principle Stress).mp4
+│   ├── 0017. SOM - Lecture 15 A (Principle Stress).mp4
+│   ├── 0018. SOM - Lecture 15 B (Mohr circle).mp4
+│   ├── 0019. SOM - Lecture 16 A (Theory of Failure).mp4
+│   ├── 0020. SOM - Lecture 16 B (Theory of Failure).mp4
+│   ├── 0021. SOM - Lecture 17 A (Theory of Failure).mp4
+│   ├── 0022. SOM - Lecture 17 B (Bending Stress).mp4
+│   ├── 0023. SOM - Lecture 18 A (Bending Stress).mp4
+│   ├── 0024. SOM - Lecture 18 B (Bending Stress).mp4
+│   ├── 0025. SOM - Lecture 19 A (Direct Shear Stress).mp4
+│   ├── 0026. SOM - Lecture 19 B (Direct Shear Stress).mp4
+│   ├── 0027. SOM - Lecture 20 A (Shear Center and Shear Flow).mp4
+│   ├── 0028. SOM - Lecture 20 A (Shear Center and Shear Flow).mp4
+│   ├── 0029. SOM - Lecture 21 A (Deflection).mp4
+│   ├── 0030. SOM - Lecture 21 B (Deflection).mp4
+│   ├── 0031. SOM - Lecture 22 A (Deflection).mp4
+│   ├── 0032. SOM - Lecture 22 B (Deflection).mp4
+│   ├── 0033. SOM - Lecture 23 (Deflection).mp4
+│   ├── 0034. SOM - Lecture 24 (Deflection) .mp4
+│   ├── 0035. SOM - Lecture 25 (Deflection) .mp4
+│   ├── 0036. SOM - Lecture 26 (Deflection).mp4
+│   ├── 0037. SOM - Lecture 27 B (Torsion).mp4
+│   ├── 0038. SOM - Lecture 27 A (Torsion) .mp4
+│   ├── 0039. SOM - Lecture 28 B (Torsion) .mp4
+│   ├── 0040. SOM - Lecture 28 A (Torsion) .mp4
+│   ├── 0041. SOM - Lecture 29 B (Columns) .mp4
+│   ├── 0042. SOM - Lecture 29 A (Columns) .mp4
+│   ├── 0043. SOM - Lecture 30 (Columns).mp4
+│   └── 0044. SOM - Lecture 31 (Columns) .mp4
+├── 0029. SOM (R) - Live 2023 - CE - Hinglish - 27th Sep | PDF
+│   ├── 0001. SOM Solutions.pdf
+│   ├── 0002. SOM PDF.pdf
+│   └── 0003. Nut ＆ Bolt Assembly PDF.pdf
+├── 0030. Fluid Machinery (S) - Live 2023 - Hinglish - 12th Oct
+│   ├── 0001. FMC - Lecture 1 (Impact of Jet).mp4
+│   ├── 0002. FMC - Lecture 2 (Impact of Jet).mp4
+│   ├── 0003. FMC - Lecture 3 (Pelton wheel turbine).mp4
+│   ├── 0004. FMC - Lecture 4 (Inward Flow Reaction Turbine).mp4
+│   ├── 0005. FMC Lecture 5 Inward Flow Reaction Turbine Part 2.mp4
+│   ├── 0006. FMC Lecture 6 Draft Tube Performance Parameter of Turbine.mp4
+│   ├── 0007. FMC - Lecture 7 (Centrifugal Pump - I).mp4
+│   ├── 0008. FMC - Runaway Speed, Q.15, Q.67.mp4
+│   └── 0009. FMC - Lecture 8 (Centrifugal Pump - II).mp4
+├── 0031. Steel (V) - Live 2023 - CE - 22nd Oct
+│   ├── 0001. Steel - Lecture 1 B (Introduction.mp4
+│   ├── 0002. Steel - Lecture 1 A (Introduction.mp4
+│   ├── 0003. Steel - Lecture 2 A  (Introduction).mp4
+│   ├── 0004. Steel - Lecture 2 B  (Introduction).mp4
+│   ├── 0005. Steel - Lecture 3 A (Plastic analysis).mp4
+│   ├── 0006. Steel - Lecture 3 B (Plastic analysis).mp4
+│   ├── 0007. Steel - Lecture 4 (Plastic analysis).mp4
+│   ├── 0008. Steel - Lecture 5 (Plastic analysis).mp4
+│   ├── 0009. Steel - Lecture 6 (Plastic analysis).mp4
+│   ├── 0010. Steel - Lecture 7 (Simple Connection).mp4
+│   ├── 0011. Steel - Lecture 8 (Simple Connection 2).mp4
+│   ├── 0012. Steel - Lecture 9 (Simple Connection 3).mp4
+│   ├── 0013. Steel - Lecture 10 A (Welded Connection).mp4
+│   ├── 0014. Steel - Lecture 10 B (Welded Connection).mp4
+│   ├── 0015. Steel - Lecture 11  (Eccentric Connection -1).mp4
+│   ├── 0016. Steel - Lecture 12 (Eccentric Connection-2).mp4
+│   ├── 0017. Steel - Lecture 13 (Tension Member).mp4
+│   ├── 0018. Steel - Lecture 14 A (Compression Member-1).mp4
+│   ├── 0019. Steel - Lecture 14 B (Compression Member-2).mp4
+│   ├── 0020. Steel - Lecture 15 A (Compression Member).mp4
+│   ├── 0021. Steel - Lecture 15 B (Compression Member).mp4
+│   ├── 0022. Steel - Lecture 15 C (Compression Member ).mp4
+│   ├── 0023. Steel - Lecture 16 A (Compression Member).mp4
+│   ├── 0024. Steel - Lecture 16 B (Girder).mp4
+│   └── 0025. Steel - Lecture 16 C (Base Plate and Roof truss).mp4
+├── 0032. Steel (V) - Live 2023 - CE - 22nd Oct | PDF
+│   ├── 0001. Steel Chapter 1 Answer Key.pdf
+│   ├── 0002. Steel Chapter 2 ＆ 3 Answer Key.pdf
+│   ├── 0003. Steel Chapter 4 Answer key.pdf
+│   ├── 0004. Steel Chapter 5 ＆ 6 Answer Key.pdf
+│   └── 0005. Steel Chapter 7 Answer Key.pdf
+├── 0033. Railway ＆ Airport (AK) - Live 2023 - CE - 27th Oct
+│   ├── 0001. Railway - Lecture 1 (Railway Track).mp4
+│   ├── 0002. Railway - Lecture 2 (Railway Track).mp4
+│   ├── 0003. Railway - Lecture 3 B (Railway Track) .mp4
+│   ├── 0004. Railway - Lecture 3 A (Railway Track).mp4
+│   ├── 0005. Railway Lecture 4 Track Resistance & Geometric Design Of Railway.mp4
+│   ├── 0006. Railway Lecture 5 Geometric Design of Railway + Turnouts.mp4
+│   ├── 0007. Railway - Lecture 6 (Turnouts).mp4
+│   ├── 0008. Railway - Lecture 7 (Airport Engineering) .mp4
+│   └── 0009. Railway - Lecture 8 (Airport Engineering).mp4
+├── 0034. Railway ＆ Airport (AK) - Live 2023 - CE - 27th Oct | PDF
+│   └── 0001. Railway PDF.pdf
+├── 0035. Surveying (A) - Live 2023 - CE - 8th Nov
+│   ├── 0001. Surveying - Lecture 1 (Introduction).mp4
+│   ├── 0002. Surveying - Lecture 2 (Chain Survey).mp4
+│   ├── 0003. Surveying - Lecture 3.mp4
+│   ├── 0004. Surveying - Lecture 4 (Compass).mp4
+│   ├── 0005. Surveying - Lecture 5 (Compass).mp4
+│   ├── 0006. Surveying - Lecture 6 B (Compass).mp4
+│   ├── 0007. Surveying - Lecture 6 A (Compass).mp4
+│   ├── 0008. Surveying - Lecture 7 C (Levelling Work).mp4
+│   ├── 0009. Surveying - Lecture 7 B (Levelling Work).mp4
+│   ├── 0010. Surveying - Lecture 7 A (Levelling Work).mp4
+│   ├── 0011. Surveying - Lecture 8 (Contour and Area Volume).mp4
+│   ├── 0012. Surveying Lecture 9 Trigonometrical Levelling and Tachometry.mp4
+│   ├── 0013. Surveying Lecture 10 Curves and Accuracy & Error.mp4
+│   ├── 0014. Surveying - Lecture 11 B (Photogrammetry).mp4
+│   └── 0015. Surveying - Lecture 11 A (Photogrammetry).mp4
+├── 0036. Surveying (A) - CE - WB Solutions
+│   ├── 0001. EXTRA-GPS,GIS,RS VIDEO.mp4
+│   ├── 0002. EXTRA-TIME CONCEPT VIDEO.mp4
+│   ├── 0003. EXTRA-PLANE TABLE SURVEYING VIDEO.mp4
+│   ├── 0004. EXTRA-TRIANGULATION VIDEO.mp4
+│   └── 0005. EXTRA-INSTRUMENTS VIDEO.mp4
+├── 0037. Surveying (A) - CE - WB Solutions | PDF
+│   ├── 0001. Surveying - WB.pdf
+│   ├── 0002. Surveying - WB Answer Keys 2023.pdf
+│   ├── 0003. Surveying Instruments PDF.pdf
+│   ├── 0004. TRIANGULATION PDF.pdf
+│   ├── 0005. PLANE TABLE SURVEYING PDF.pdf
+│   ├── 0006. EXTRA-TIME CONCEPT PDF.pdf
+│   ├── 0007. EXTRA-GPS-GIS-RS PDF.pdf
+│   └── 0008. EXTRA-PHOTOGRAMMETRY PDF.pdf
+├── 0038. Irrigation (H) - Live 2023 - CE - Hinglish - 12th Nov
+│   ├── 0001. Irrigation - Lecture 1 A (Introduction).mp4
+│   ├── 0002. Irrigation - Lecture 1 B (Introduction).mp4
+│   ├── 0003. Irrigation - Lecture 2 B (Delta and Duty).mp4
+│   ├── 0004. Irrigation - Lecture 2 A (Delta and Duty).mp4
+│   ├── 0005. Irrigation - Lecture 3 (Water requirements of crop).mp4
+│   ├── 0006. Irrigation - Lecture 4 B (Field Capacity).mp4
+│   ├── 0007. Irrigation - Lecture 4 A (Field Capacity).mp4
+│   ├── 0008. Irrigation Lecture 5 A Frequency & Consumptive Use.mp4
+│   ├── 0009. Irrigation Lecture 5 B Frequency & Consumptive Use.mp4
+│   ├── 0010. Irrigation - Lecture 6 B (Consumptive Use).mp4
+│   ├── 0011. Irrigation - Lecture 6 A (Consumptive Use).mp4
+│   ├── 0012. Irrigation - Lecture 7 A (Design of Canals - Part 1).mp4
+│   ├── 0013. Irrigation - Lecture 7 B (Design of Canals - Part 1).mp4
+│   ├── 0014. Irrigation - Lecture 8 B (Design of Canals - Part 1).mp4
+│   ├── 0015. Irrigation - Lecture 8 A (Design of Canals - Part 1).mp4
+│   ├── 0016. Irrigation Lecture 9 B Shield Theory & Lined Canal.mp4
+│   ├── 0017. Irrigation Lecture 9 A Shield Theory & Lined Canal.mp4
+│   ├── 0018. Irrigation - Lecture 10 (The Design of Gravity Dam).mp4
+│   ├── 0019. Irrigation - Lecture 11 B (Stability of Dam).mp4
+│   ├── 0020. Irrigation - Lecture 11 A (Stability of Dam).mp4
+│   ├── 0021. Irrigation - Lecture 12 (Stability of Dam).mp4
+│   ├── 0022. Irrigation - Lecture 13 (Theories of seepage).mp4
+│   └── 0023. Irrigation - Lecture 14 (Miscellaneous).mp4
+├── 0039. ICT (S) - GS - Live 2023 - Prime - 15th Nov
+│   ├── 0001. ICT - Lecture 1 (e - Governance).mp4
+│   ├── 0002. ICT - Lecture 2 (e - Governance).mp4
+│   ├── 0003. ICT - Lecture 3 (e - Governance).mp4
+│   ├── 0004. ICT - Lecture 4 (e - Governance).mp4
+│   ├── 0005. ICT - Lecture 5 (e - Education).mp4
+│   ├── 0006. ICT - Lecture 6 (e - Education).mp4
+│   ├── 0007. ICT - Lecture 7 (ICT Tools).mp4
+│   ├── 0008. ICT - Lecture 8 (Hardware Components of Computer).mp4
+│   ├── 0009. ICT - Lecture 9 (Memory Devices).mp4
+│   ├── 0010. ICT - Lecture 10 (Networking).mp4
+│   ├── 0011. ICT - Lecture 11 (Network Models).mp4
+│   ├── 0012. ICT - Lecture 12 (Network) .mp4
+│   └── 0013. ICT - Lecture 13 (Network Security).mp4
+├── 0040. BMC (A) - Live 2023 - CE - 15th Nov
+│   ├── 0001. BMC - Lecture 1 (Cement).mp4
+│   ├── 0002. BMC - Lecture 2 (Cement).mp4
+│   ├── 0003. BMC - Lecture 3 (Cement).mp4
+│   ├── 0004. BMC - Lecture 4 (Lime and Mortar).mp4
+│   ├── 0005. BMC - Lecture 5 (Concrete).mp4
+│   ├── 0006. BMC - Lecture 6.mp4
+│   ├── 0007. BMC - Lecture 7.mp4
+│   ├── 0008. BMC - Lecture 8.mp4
+│   ├── 0009. BMC - Lecture 9 (Bricks-1).mp4
+│   ├── 0010. BMC - Lecture 10 (Bricks-2 & Timber-1).mp4
+│   ├── 0011. BMC - Lecture 11 (Timber-2).mp4
+│   └── 0012. Miscellaneous Topic Building Materials.mp4
+├── 0041. Material Science (S) - GS - Live 2023 - Prime - 26th Nov
+│   ├── 0001. MS - Lecture 1 (Introduction).mp4
+│   ├── 0002. MS - Lecture 2 (Atomic Structure).mp4
+│   ├── 0003. MS - Lecture 3 (Atomic Structure).mp4
+│   ├── 0004. MS - Lecture 4 (Crystallography).mp4
+│   ├── 0005. MS - Lecture 5 (Crystallography).mp4
+│   ├── 0006. MS Lecture 6 Crystallography + Electric Properties of Materials.mp4
+│   ├── 0007. MS - Lecture 7 (Electric Properties of Materials).mp4
+│   ├── 0008. Material Science Lecture 7 [03-12-2022].mp4
+│   ├── 0009. MS Lecture 9 Electric Properties of Materials + Magnetic Properties.mp4
+│   ├── 0010. MS - Lecture 10 (Magnetic Properties + Ceramics).mp4
+│   ├── 0011. Mechanical Properties.mp4
+│   ├── 0012. MS - Lecture 11 (Polymers).mp4
+│   ├── 0013. MS - Lecture 12 (Alloys and Phase Diagram).mp4
+│   └── 0014. Composites & Alloys.mp4
+├── 0042. Highway (A) - CE - Live 2023 - Hinglish - 3rd Dec
+│   ├── 0001. Highway - Lecture 1 (Geometric Designs - 1).mp4
+│   ├── 0002. Highway - Lecture 2 (OSD and Superelevation).mp4
+│   ├── 0003. Highway Lecture 3 Extra Widening & Transition Curve.mp4
+│   ├── 0004. Highway - Lecture 4 (Vertical Alignment).mp4
+│   ├── 0005. Highway - Lecture 5 (Traffic Engineering - 1).mp4
+│   ├── 0006. Highway - Lecture 6 A (Traffic Engineering - 2).mp4
+│   ├── 0007. Highway - Lecture 6 B (Traffic Engineering - 2).mp4
+│   ├── 0008. Highway - Lecture 7 (Traffic Engineering - 3).mp4
+│   ├── 0009. Highway - Lecture 8 (Traffic Control Devices).mp4
+│   ├── 0010. Highway - Lecture 9 B (Pavement Design).mp4
+│   ├── 0011. Highway - Lecture 9 A (Traffic Engineering).mp4
+│   ├── 0012. Highway - Lecture 10 A (Regit Pavement Design).mp4
+│   └── 0013. Highway - Lecture 10 B (Regit Pavement Design).mp4
+├── 0043. Environmental Engg (S) - Live 2023 - CE - 3rd Dec
+│   ├── 0001. EE - Lecture 1 B.mp4
+│   ├── 0002. EE - Lecture 1 A.mp4
+│   ├── 0003. EE - Lecture 2 B (Water Demand & Water Sources).mp4
+│   ├── 0004. EE - Lecture 2 A (Water Demand & Water Sources).mp4
+│   ├── 0005. EE - Lecture 3 B (Water Sources).mp4
+│   ├── 0006. EE - Lecture 3 A (Water Sources).mp4
+│   ├── 0007. EE - Lecture 4 A (Water Sources).mp4
+│   ├── 0008. EE - Lecture 4 B (Water Quality).mp4
+│   ├── 0009. EE - Lecture 5 (Water Quality).mp4
+│   ├── 0010. EE - Lecture 6 B (Water Quality) .mp4
+│   ├── 0011. EE - Lecture 6 A (Water Quality).mp4
+│   ├── 0012. EE - Lecture 7 B (Water Quality).mp4
+│   ├── 0013. EE - Lecture 7 A (Water Quality).mp4
+│   ├── 0014. EE - Lecture 8 B (Water Quality).mp4
+│   ├── 0015. EE - Lecture 8 A (Water Quality).mp4
+│   ├── 0016. EE - Lecture 9 B (Treatment of Water) .mp4
+│   ├── 0017. EE - Lecture 9 A (Treatment of Water) .mp4
+│   ├── 0018. EE - Lecture 10 (Treatment of Water).mp4
+│   ├── 0019. EE - Lecture 11 B (Treatment of Water).mp4
+│   ├── 0020. EE - Lecture 11 A (Treatment of Water).mp4
+│   ├── 0021. EE - Lecture 12 (Treatment of Water).mp4
+│   ├── 0022. EE - Lecture 13 (Treatment of Water).mp4
+│   ├── 0023. EE - Lecture 14 A (Treatment of Water).mp4
+│   ├── 0024. EE - Lecture 14 B (Treatment of Water).mp4
+│   ├── 0025. EE - Lecture 15 A (Treatment of Water).mp4
+│   ├── 0026. EE - Lecture 15 B (Treatment of Water).mp4
+│   ├── 0027. EE - Lecture 16 (Treatment of Water).mp4
+│   ├── 0028. EE - Lecture 17 (Treatment of Water).mp4
+│   ├── 0029. EE - Lecture 18 (Treatment of Water).mp4
+│   ├── 0030. EE Lecture 19 DISTRIBUTION SYSTEM & BIOCHEMICAL REACTIONS.mp4
+│   ├── 0031. EE Lecture 20 WASTEWATER QUALITY AND QUESTIONS OF CH 4.mp4
+│   ├── 0032. EE - Lecture 21 (WASTEWATER QUALITY).mp4
+│   ├── 0033. EE - Lecture 22 (WASTEWATER QUALITY).mp4
+│   ├── 0034. EE - Lecture 23 (DISPOSAL OF SEWAGE).mp4
+│   ├── 0035. Design of Sewers and the Sewerage System - Part 1.mp4
+│   ├── 0036. Design of Sewers and the Sewerage System - Part 2.mp4
+│   ├── 0037. Design of Sewers and the Sewerage System + MSWM.mp4
+│   ├── 0038. EE - Lecture 24 B (TREATMENT OF WASTEWATER).mp4
+│   ├── 0039. EE - Lecture 24 A (DISPOSAL OF SEWAGE).mp4
+│   ├── 0040. EE - Lecture 25 (TREATMENT OF WASTEWATER).mp4
+│   ├── 0041. EE - Lecture 25 (TREATMENT_ OF_ WASTEWATER).mp4
+│   ├── 0042. EE - Lecture 26 (TREATMENT OF WASTEWATER).mp4
+│   ├── 0043. EE - Lecture 27 (TREATMENT OF WASTEWATER).mp4
+│   ├── 0044. EE - Lecture 28 (TREATMENT OF SEWAGE ).mp4
+│   ├── 0045. EE - Lecture 29 A (TREATMENT OF SEWAGE ).mp4
+│   ├── 0046. EE - Lecture 29 B (TREATMENT OF SEWAGE ).mp4
+│   ├── 0047. EE - Lecture 30 (TREATMENT OF SEWAGE ).mp4
+│   ├── 0048. EE - WB - Chapter 9 & 10.mp4
+│   └── 0049. EE - WB - Chapter 10 & 11.mp4
+├── 0044. Environmental Engg (S) - Live 2023 - CE - 3rd Dec | PDF
+│   ├── 0001. Classroom Notes - Environmental Engg.pdf
+│   └── 0002. Environmental Engg. WB.pdf
+├── 0045. Energy ＆ Environment (V) - GS - Live 2023 - Prime - 13th Dec
+│   ├── 0001. ENV - Lecture 1.mp4
+│   ├── 0002. ENV - Lecture 2.mp4
+│   ├── 0003. ENV - Lecture 3.mp4
+│   ├── 0004. ENV - Lecture 4.mp4
+│   ├── 0005. ENV - Lecture 5.mp4
+│   ├── 0006. ENV - Lecture 6.mp4
+│   ├── 0007. ENV - Lecture 7.mp4
+│   ├── 0008. ENV - Lecture 8.mp4
+│   ├── 0009. ENV - Lecture 9.mp4
+│   ├── 0010. ENV - Lecture 10.mp4
+│   ├── 0011. ENV - Lecture 11.mp4
+│   └── 0012. ENV - Lecture 12.mp4
+├── 0046. Energy ＆ Environment (V) - GS - Live 2023 - Prime - 13th Dec | PDF
+│   └── 0001. GS - Workbook.pdf
+├── 0047. BMC (A) - CE - (All Online Prime + All Offline) batches | PDF
+│   └── 0001. Special Types of Bricks ＆ Clay Tiles.pdf
+├── 0048. Soil Mechanics (R) - Live 2023 - CE - 26th Dec
+│   ├── 0001. Soil - Lecture 1 (Properties of Soil).mp4
+│   ├── 0002. Soil - Lecture 2 (Properties of Soil).mp4
+│   ├── 0003. Soil - Lecture 3 A (Properties of Soil).mp4
+│   ├── 0004. Soil - Lecture 3 B (Properties of Soil).mp4
+│   ├── 0005. Soil - Lecture 4 (Chapter 1) .mp4
+│   ├── 0006. Soil - Lecture 5 (Classification of Soils).mp4
+│   ├── 0007. Soil - Lecture 6 (Effective Stress).mp4
+│   ├── 0008. Soil - Lecture 7 (Effective Stress).mp4
+│   ├── 0009. Soil - Lecture 8 (Permeability).mp4
+│   ├── 0010. Soil Lecture 9 Permeability + Quick Sand Conditions.mp4
+│   ├── 0011. Soil - Lecture 10 (Quick Sand Conditions).mp4
+│   ├── 0012. Soil - Lecture 11 (Quick Sand Conditions).mp4
+│   ├── 0013. Soil - Lecture 12 A (Seepage Analysis).mp4
+│   ├── 0014. Soil Lecture 12 B Compressibility and Consolidation.mp4
+│   ├── 0015. Soil - Lecture 13 (Compressibility and Consolidation).mp4
+│   ├── 0016. Soil - Lecture 14 A (Consolidation).mp4
+│   ├── 0017. Soil - Lecture 14 B (Shear Strength of Soils).mp4
+│   ├── 0018. Soil - Lecture 15 (Shear Strength of Soils).mp4
+│   ├── 0019. Soil - Lecture 16 (Shear Strength of Soils).mp4
+│   ├── 0020. Soil - Lecture 17 A (Shear Strength).mp4
+│   ├── 0021. Soil - Lecture 17 B (Earth Pressure).mp4
+│   ├── 0022. Soil - Lecture 18 A (Earth Pressure).mp4
+│   ├── 0023. Soil - Lecture 18 B (Earth Pressure).mp4
+│   ├── 0024. Soil - Lecture 18 C (Earth Pressure).mp4
+│   ├── 0025. Soil - Lecture 19 (Stability of Slope).mp4
+│   ├── 0026. Soil - Lecture 20 A (Shallow Foundation).mp4
+│   ├── 0027. Soil - Lecture 20 B (Shallow Foundation).mp4
+│   ├── 0028. Soil - Lecture 23.mp4
+│   ├── 0029. Soil - Lecture 22.mp4
+│   └── 0030. Soil - Lecture 21.mp4
+├── 0049. Standards ＆ Quality (R) - GS - Live 2023 - Prime - 27th Dec
+│   ├── 0001. S & Q - Lecture 1 A.mp4
+│   ├── 0002. S & Q - Lecture 1 B.mp4
+│   ├── 0003. S & Q - Lecture 2 A.mp4
+│   ├── 0004. S & Q - Lecture 2 B.mp4
+│   ├── 0005. S & Q - Lecture 3 A.mp4
+│   ├── 0006. S & Q - Lecture 3 B.mp4
+│   ├── 0007. S & Q - Lecture 4 A.mp4
+│   ├── 0008. S & Q - Lecture 4 B.mp4
+│   ├── 0009. S & Q - Lecture 5 A.mp4
+│   ├── 0010. S & Q - Lecture 5 B.mp4
+│   ├── 0011. S & Q - Lecture 6.mp4
+│   ├── 0012. S & Q - Lecture 7 A.mp4
+│   ├── 0014. S & Q - Lecture 8 A.mp4
+│   ├── 0015. S & Q - Lecture 8 B.mp4
+│   ├── 0016. S & Q - Lecture 9 B.mp4
+│   ├── 0017. S & Q - Lecture 9 A.mp4
+│   └── 0018. S & Q - Lecture 10.mp4
+├── 0050. Standards ＆ Quality (R) - GS - Live 2023 - Prime - 27th Dec | PDF
+│   ├── 0001. GS - Workbook.pdf
+│   └── 0002. S＆Q - WB Answer Keys.pdf
+├── 0051. Engineering Drawing (H) - GS - Live 2023 - Prime - 7th Jan
+│   ├── 0001. ED - Lecture 1.mp4
+│   ├── 0002. ED - Lecture 2.mp4
+│   ├── 0003. ED - Lecture 3.mp4
+│   ├── 0004. ED - Lecture 4.mp4
+│   ├── 0005. ED - Lecture 5.mp4
+│   ├── 0006. ED - Lecture 6.mp4
+│   ├── 0007. ED - Lecture 7.mp4
+│   ├── 0008. ED - Lecture 8.mp4
+│   ├── 0009. ED - Lecture 9.mp4
+│   ├── 0010. ED - Lecture 10.mp4
+│   ├── 0011. ED - Lecture 11.mp4
+│   └── 0012. ED - Lecture 12.mp4
+├── 0052. Engineering Drawing (H) - GS - Live 2023 - Prime - 7th Jan | PDF
+│   ├── 0001. Design Safety Answer Keys.pdf
+│   └── 0002. ANSWER KEYS TO DRAWING.pdf
+├── 0053. Annual Current Affairs 2023 | PDF
+│   └── 0001. Annual Current Affairs 2023.pdf
+├── 0054. Project Management (G) - GS - Live 2023 - 17th Jan
+│   ├── 0001. PM - Lecture 1.mp4
+│   ├── 0002. PM - Lecture 2.mp4
+│   ├── 0003. PM - Lecture 3.mp4
+│   ├── 0004. PM - Lecture 4 A.mp4
+│   ├── 0005. PM - Lecture 4 B.mp4
+│   ├── 0006. PM - Lecture 5.mp4
+│   └── 0007. PM - Lecture 6.mp4
+├── 0055. Current Affairs (SP) - GS - Live 2023 - 19th Jan
+│   ├── 0001. CA - Lecture 1 A.mp4
+│   ├── 0002. CA - Lecture 1 B.mp4
+│   ├── 0003. CA - Lecture 2.mp4
+│   ├── 0004. CA - Lecture 3.mp4
+│   ├── 0005. CA - Lecture 4 A.mp4
+│   ├── 0006. CA - Lecture 4 B.mp4
+│   ├── 0007. CA - Lecture 5 A.mp4
+│   ├── 0008. CA - Lecture 5 B.mp4
+│   ├── 0009. CA - Lecture 5 C.mp4
+│   ├── 0010. CA - Lecture 6 A.mp4
+│   ├── 0011. CA - Lecture 6 B.mp4
+│   └── 0012. CA - Lecture 6 C.mp4
+├── 0056. Current Affairs (SP) - GS - Live 2023 - 19th Jan | PDF
+│   ├── 0001. Current Affairs PDF 2.pdf
+│   └── 0002. Current Affairs PDF.pdf
+└── 0057. Ethics (KM) - GS - Live 2023 - 22nd Jan
+    ├── 0001. Ethics - Lecture 1.mp4
+    ├── 0002. Ethics - Lecture 2.mp4
+    ├── 0003. Ethics - Lecture 3.mp4
+    ├── 0004. Ethics - Lecture 4.mp4
+    ├── 0005. Ethics - Lecture 5 A.mp4
+    └── 0006. Ethics - Lecture 5 B.mp4
+
+57 directories, 719 files
